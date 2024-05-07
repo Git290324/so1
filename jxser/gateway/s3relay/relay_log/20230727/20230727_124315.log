@@ -1,0 +1,101 @@
+[2023/07/27 12:43:15] Delete event data: ShareKey(EVENT_cailuhongbao), Param1(-1), Param2(-1), Timeout(2020-3-30)
+[2023/07/27 12:43:15] Delete event data: ShareKey(EVENT_MIDAUT_2010), Param1(-1), Param2(-1), Timeout(2020-10-19)
+[2023/07/27 12:43:15] Delete event data: ShareKey(EVENT_dayanqunxia), Param1(-1), Param2(-1), Timeout(2020-3-20)
+[2023/07/27 12:43:15] Delete event data: ShareKey(FUNC_RANK_EQUIPVALUE), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2023/07/27 12:43:15] Delete event data: ShareKey(EVENT_April_zhushuai), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2023/07/27 12:43:15] Loading All Scripts....................
+[2023/07/27 12:43:15] Load Rank FUNC_RANK_EQUIPVALUE
+[2023/07/27 12:43:15] Load Stable Rank count 0
+[2023/07/27 12:43:15] Load Dynamic Rank count 0
+[2023/07/27 12:43:15] Load Rank FUNC_RANK_EQUIPVALUE end
+[2023/07/27 12:43:15] 
+All Scripts Have Been Loaded! Count = 80
+[2023/07/27 12:43:15] root client[:0] create
+[2023/07/27 12:43:17] start autotimer for Ping: 
+[2023/07/27 12:43:17] TRIP_MODE: None
+[2023/07/27 12:43:17] Loading World Setting...
+[2023/07/27 12:43:17] Reset map pho ban thanh cong
+[2023/07/27 12:43:17] gateway client create: 127.0.0.1
+[2023/07/27 12:43:17] Load LeagueData: LeagueType: 4, Leagues: 7, Roles: 7
+[2023/07/27 12:43:17] Load LeagueData: LeagueType: 502, Leagues: 11, Roles: 11
+[2023/07/27 12:43:17] Load LeagueData: LeagueType: 10000, Leagues: 1, Roles: 0
+[2023/07/27 12:43:17] =====> THONG BAO TIN TUC TU DONG
+[2023/07/27 12:43:17] =====> BAT DAU KHOI DONG CAC TINH NANG CUA GAME VO LAM TRUYEN KY <=====
+[2023/07/27 12:43:17] =================Phong Lang Do==================
+[2023/07/27 12:43:17] =====> [phonglangdo] Phong Lang Do 14h
+[2023/07/27 12:43:17] =====> [phonglangdo] Phong Lang Do 16h
+[2023/07/27 12:43:17] =====> [phonglangdo] Phong Lang Do 18h
+[2023/07/27 12:43:17] =====> [phonglangdo] Phong Lang Do 20h
+[2023/07/27 12:43:17] ****************KHOI DONG NHIEM VU TONG KIM CHIEN QUOC ****************
+[2023/07/27 12:43:17] =====> BATTLE[GuoZhan] 20:50 startup...
+[2023/07/27 12:43:17] =====> [TongKim] Chien Truong Tong Kim 12:50 BAT DAU
+[2023/07/27 12:43:17] =====> [TongKim] Chien Truong Tong Kim 14:50 BAT DAU
+[2023/07/27 12:43:17] =====> [TongKim] Chien Truong Tong Kim 20:50 BAT DAU
+[2023/07/27 12:43:17] =====> [TongKim] Chien Truong Tong Kim 22:50 BAT DAU
+[2023/07/27 12:43:17] =======================>Xoa thong tin Xep Hang<========================
+[2023/07/27 12:43:17] =====> BANG XEP HANG <THACH THUC THOI GIAN> MOI NGAY=======
+[2023/07/27 12:43:17] =====> VUOT AI KHIEU CHIEN THOI GIAN BAT DAU 13:0...
+[2023/07/27 12:43:17] =====> [phonglangdo] Phong Lang Do 10h
+[2023/07/27 12:43:17] Failed to init statdatamanager!
+[2023/07/27 12:43:17] S3Relay -- S3Relay- Khoi dong hoan tat! 
+[2023/07/27 12:43:17] 
+*
+***** S3Relay Start (@ 158807296/00/43200 00:-1145032:135861597.136280271) >>>>>
+*
+
+
+[2023/07/27 12:43:17] SockThread start success
+[2023/07/27 12:43:17] Game Module Is Started. -->Hoat dong mua xuan 2006
+[2023/07/27 12:43:17] Game Module Is Started. -->OpenShop
+[2023/07/27 12:43:17] Game Module Is Started. -->Thiep Chuc Mung Nam Moi
+[2023/07/27 12:43:17] Game Module Is Started. -->Do Pho Hoang Kim
+[2023/07/27 12:43:17] Game Module Is Started. -->Phuc Duyen - Phao Bong
+[2023/07/27 12:43:17] Game Module Is Started. -->Truyen Cong
+[2023/07/27 12:43:17] Game Module Is Started. -->Le vat tinh nhan
+[2023/07/27 12:43:17] Game Module Is Started. -->YANDIBAOZANG
+[2023/07/27 12:43:17] Game Module Is Started. -->YANDIBAOZANG_TALK
+[2023/07/27 12:43:17] Game Module Is Started. -->SWITH_DAIYITOUSHI
+[2023/07/27 12:43:17] Game Module Is Started. -->chunjie2009_dangboss
+[2023/07/27 12:43:17] ===>Xep Hang Khoi Dong Hoan Tat<===
+[2023/07/27 12:43:26] ChatConnection create: 127.0.0.1
+[2023/07/27 12:43:26] TongConnection create: 127.0.0.1
+[2023/07/27 12:43:26] HostConnection create: 127.0.0.1
+[2023/07/27 12:43:31] TongDataSendFinish: 127.0.0.1
+[2023/07/27 12:43:31] GameServerLogin: 127.0.0.1
+[2023/07/27 12:50:17] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/07/27 12:50:17] [2023-07-27 12:50:17]  NEW BATTLE START
+[2023/07/27 12:50:17] BattleID: 1   BattleLevel: 1   Issue: 1   5th.Round
+[2023/07/27 12:50:17] RoundID: 16   MapPattern: 10   BattleMapID:  11   WorldMapID: 378   MapName: Hoµng Sa L©m Ngao ChiÕn   RuleID: 7
+[2023/07/27 12:50:17] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/07/27 12:50:17] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/07/27 12:50:17] [2023-07-27 12:50:17]  NEW BATTLE START
+[2023/07/27 12:50:17] BattleID: 1   BattleLevel: 2   Issue: 1   14th.Round
+[2023/07/27 12:50:17] RoundID: 15   MapPattern: 11   BattleMapID:  12   WorldMapID: 382   MapName: C«ng thµnh chiÕn (khu vùc Cöu K   RuleID: 7
+[2023/07/27 12:50:17] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/07/27 12:50:17] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/07/27 12:50:17] [2023-07-27 12:50:17]  NEW BATTLE START
+[2023/07/27 12:50:17] BattleID: 1   BattleLevel: 3   Issue: 1   14th.Round
+[2023/07/27 12:50:17] RoundID: 15   MapPattern: 12   BattleMapID:  14   WorldMapID: 380   MapName: Hoµng Sa L©m Ngao ChiÕn   RuleID: 7
+[2023/07/27 12:50:17] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/07/27 12:50:17] =====> [TongKim] Chien Truong Tong Kim 12:50 BAT DAU
+[2023/07/27 13:00:17] =====> [phonglangdo] Phong Lang Do
+[2023/07/27 13:00:17] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/07/27 14:00:17] =====> [phonglangdo] Phong Lang Do
+[2023/07/27 14:00:17] =====> [phonglangdo] Phong Lang Do 14h
+[2023/07/27 14:00:17] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/07/27 14:50:17] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/07/27 14:50:17] [2023-07-27 14:50:17]  NEW BATTLE START
+[2023/07/27 14:50:17] BattleID: 1   BattleLevel: 2   Issue: 1   15th.Round
+[2023/07/27 14:50:17] RoundID: 16   MapPattern: 10   BattleMapID:  11   WorldMapID: 379   MapName: Hoµng Sa L©m Ngao ChiÕn   RuleID: 7
+[2023/07/27 14:50:17] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/07/27 14:50:17] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/07/27 14:50:17] [2023-07-27 14:50:17]  NEW BATTLE START
+[2023/07/27 14:50:17] BattleID: 1   BattleLevel: 3   Issue: 1   15th.Round
+[2023/07/27 14:50:17] RoundID: 16   MapPattern: 10   BattleMapID:  11   WorldMapID: 380   MapName: Hoµng Sa L©m Ngao ChiÕn   RuleID: 7
+[2023/07/27 14:50:17] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/07/27 14:50:17] =====> [TongKim] Chien Truong Tong Kim 14:50 BAT DAU
+[2023/07/27 15:00:17] =====> [phonglangdo] Phong Lang Do
+[2023/07/27 15:00:17] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/07/27 16:00:17] =====> [phonglangdo] Phong Lang Do
+[2023/07/27 16:00:17] =====> [phonglangdo] Phong Lang Do 16h
+[2023/07/27 16:00:17] V

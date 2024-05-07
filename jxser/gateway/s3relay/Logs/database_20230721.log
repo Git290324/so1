@@ -1,0 +1,40 @@
+[2023-07-21 07:16:34]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-21 07:16:50]QueryCount:24, ErrorCount:0
+[2023-07-21 07:16:50]Close database
+[2023-07-21 07:20:50]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-21 12:52:47]QueryCount:266, ErrorCount:0
+[2023-07-21 12:52:47]Close database
+[2023-07-21 12:52:53]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-21 12:53:09]QueryCount:24, ErrorCount:0
+[2023-07-21 12:53:09]Close database
+[2023-07-21 12:57:00]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-21 13:00:02]QueryCount:62, ErrorCount:0
+[2023-07-21 13:00:02]Close database
+[2023-07-21 13:00:06]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-21 13:03:58]QueryCount:62, ErrorCount:0
+[2023-07-21 13:03:58]Close database
+[2023-07-21 13:04:02]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-21 13:07:04]QueryCount:66, ErrorCount:0
+[2023-07-21 13:07:04]Close database
+[2023-07-21 13:07:08]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-21 13:08:59]QueryCount:62, ErrorCount:0
+[2023-07-21 13:08:59]Close database
+[2023-07-21 13:09:03]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-21 13:24:35]QueryCount:62, ErrorCount:0
+[2023-07-21 13:24:35]Close database
+[2023-07-21 13:24:39]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-21 13:28:10]QueryCount:62, ErrorCount:0
+[2023-07-21 13:28:10]Close database
+[2023-07-21 13:28:14]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-21 13:32:16]QueryCount:62, ErrorCount:0
+[2023-07-21 13:32:16]Close database
+[2023-07-21 13:32:20]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-21 13:39:02]QueryCount:70, ErrorCount:0
+[2023-07-21 13:39:02]Close database
+[2023-07-21 13:39:08]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-21 13:44:19]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-21 23:13:11]QueryCount:614, ErrorCount:0
+[2023-07-21 23:13:11]Close database
+[2023-07-21 23:13:15]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-22 10:39:41]QueryCount:614, ErrorCount:0
+[2023-07-22 10:39:41]Close database

@@ -1,0 +1,10 @@
+TenNhanVat	TrungSinh	DangCap	PhanTram	KinhNghiemTong	XepHang	MonPhai
+dockaka	5	200	0	2400	1	4
+thieulamzz	0	200	0	400	2	1
+TieuHoa	0	150	0	300	3	8
+testttttt	0	150	0	300	4	1
+thieulkamlol	0	150	0	300	5	2
+ÙGÙMÙÙ	0	90	0	180	6	4
+testtttt	0	90	0	180	7	0
+2222222222222	0	90	0	180	8	0
+11111111111	0	90	0	180	9	0

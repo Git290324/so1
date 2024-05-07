@@ -1,0 +1,902 @@
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun phonglangdo\fengling_ferry.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun vuotai\challegeoftime-dailyrank.lua TaskContent
+CallFun phonglangdo\fengling_ferry_00.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun phonglangdo\fengling_ferry.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun phonglangdo\fengling_ferry.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun phonglangdo\fengling_ferry.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun boss\small_goldboss_0400.lua TaskContent
+CallFun phonglangdo\fengling_ferry.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun phonglangdo\fengling_ferry.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun phonglangdo\fengling_ferry.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun phonglangdo\fengling_ferry.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun makegoldboss\makegoldboss_0800.lua TaskContent
+CallFun phonglangdo\fengling_ferry.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun phonglangdo\fengling_ferry.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun phonglangdo\fengling_ferry.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+ExecuteCode /script/protocol.lua 
+ExecuteCode \script\lib\objbuffer_head.lua 
+ExecuteCode /script/sharedata_key.lua 
+ExecuteCode /script/event/msg2allworld.lua 
+ExecuteCode /script/event/jiefang0804/head.lua 
+ExecuteCode /script/event/other/caipiao/head_gc_old.lua 
+ExecuteCode /script/event/other/caipiao/head_gc.lua 
+ExecuteCode /script/event/zhaojingling/event.lua 
+ExecuteCode /script/event/expansion/201006/fuguijinhe/fuguijinhe.lua 
+ExecuteCode \script\lib\remoteexc.lua 
+ExecuteCode \script\lib\baseclass.lua 
+ExecuteCode \script\lib\common.lua 
+ExecuteCode /script/event/goldboss_adjust_2011/boss_initialize.lua 
+ExecuteCode /script/event/zhongqiu_jieri/2010/head.lua 
+ExecuteCode \script\lib\sharedata.lua 
+ExecuteCode /script/event/zhongqiu_jieri/head.lua 
+ExecuteCode \script\tong\tong_header.lua 
+ExecuteCode /script/event/card.lua 
+ExecuteCode /script/event/2011dayanqunxia/event.lua 
+ExecuteCode /script/event/2012april_zhushuai/event.lua 
+ExecuteCode /script/event/shengdan/200811/setbossdeath.lua 
+ExecuteCode \script\gb_taskfuncs.lua 
+ExecuteCode /script/event/bingo_machine/prize_pool.lua 
+ExecuteCode /script/event/citywar.lua 
+ExecuteCode /script/event/tongwar/event.lua 
+ExecuteCode /script/event/tongwar/score.lua 
+ExecuteCode /script/event/wulin_2nd/head.lua 
+ExecuteCode /script/event/wulin_2nd/task.lua 
+ExecuteCode /script/event/wulin_2nd/members.lua 
+ExecuteCode /script/lib/log.lua 
+ExecuteCode /script/lib/mapdb.lua 
+ExecuteCode /script/lib/toplist.lua 
+ExecuteCode /script/leaguematch/log.lua 
+ExecuteCode \script\leaguematch\head.lua 
+ExecuteCode \script\leaguematch\timetable.lua 
+ExecuteCode /script/leaguematch/joinmatch.lua 
+ExecuteCode /script/leaguematch/league.lua 
+ExecuteCode /script/leaguematch/task.lua 
+ExecuteCode \script\leaguematch\switch.lua 
+ExecuteCode /script/misc/timeline/serveropentimeevent.lua 
+ExecuteCode /script/misc/rank/rankdata.lua 
+ExecuteCode /script/misc/rank/rank.lua 
+ExecuteCode /script/misc/rank/equip_value_rank.lua 
+ExecuteCode /script/gb_modulefuncs.lua 
+ExecuteCode /script/limitedaward_head.lua 
+ExecuteCode /script/jxprivate/jx_xephang.lua 
+ExecuteCode /script/mission/sevencity/protocol.lua 
+ExecuteCode \script\mission\sevencity\war.lua 
+ExecuteCode /script/mission/dungeon/dungeonlog.lua 
+ExecuteCode /script/mission/dungeon/dungeondata.lua 
+ExecuteCode /script/mission/dungeon/datamanager.lua 
+ExecuteCode /script/mission/dungeon/dungeons/shiliantang/shiliantangdata.lua 
+ExecuteCode /script/mission/boss/bigboss.lua 
+ExecuteCode /script/mission/citywar_global/ladder.lua 
+ExecuteCode /script/missions/arena/protocol.lua 
+ExecuteCode \script\missions\arena\player.lua 
+ExecuteCode \script\missions\arena\map.lua 
+ExecuteCode /script/missions/arena/cmd.lua 
+ExecuteCode /script/second_hand_store/second_hand_gc.lua 
+ExecuteCode \script\second_hand_store\goodslist.lua 
+ExecuteCode /script/tong/contribution_entry.lua 
+ExecuteCode \script\tong\tong_setting.lua 
+ExecuteCode \script\tong\log.lua 
+ExecuteCode /script/tong/tong.lua 
+ExecuteCode \script\tong\workshop\workshop_setting.lua 
+ExecuteCode /script/tong/tong_statistics.lua 
+ExecuteCode /script/tong/workshop/workshop_head.lua 
+ExecuteCode \script\tong\workshop\workshop_logic.lua 
+ExecuteCode \script\tong\workshop\workshop_def.lua 
+ExecuteCode /script/tong/workshop/ws_shilian.lua 
+ExecuteCode /script/tong/workshop/ws_tiangong.lua 
+ExecuteCode /script/tong/workshop/tongcolltask.lua 
+ExecuteCode /script/tong/workshop/ws_liwu.lua 
+ExecuteCode /script/tong/workshop/ws_mianju.lua 
+ExecuteCode /script/tong/workshop/ws_huodong.lua 
+ExecuteCode /script/tong/workshop/ws_tianyi.lua 
+ExecuteCode /script/tong/workshop/ws_bingjia.lua 
+ExecuteCode /script/tong/addtongnpc.lua 
+ExecuteCode /script/tong/tong_mix.lua 
+ExecuteCode /script/gc_exit.lua 
+ExecuteCode \\RelaySetting\\battle\\script\\rf_bintree_fix.lua 
+ExecuteCode \RelaySetting\battle\script\rf_header.lua 
+ExecuteCode \relaysetting\task\banghoi\tong_claimwar.lua 
+ExecuteCode \RelaySetting\Task\thongbaohethong\announce.lua 
+CallFun \RelaySetting\Task\thongbaohethong\announce.lua TaskShedule
+ExecuteCode \RelaySetting\Task\game_module_settings.lua 
+CallFun \RelaySetting\Task\game_module_settings.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\miao-ru-1200.lua 
+ExecuteCode \RelaySetting\Task\boss\bosswhere.lua 
+ExecuteCode \RelaySetting\Task\boss\GoldBossHead.lua 
+CallFun \RelaySetting\Task\boss\miao-ru-1200.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\miao-ru-2000.lua 
+CallFun \RelaySetting\Task\boss\miao-ru-2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\miao-ru-2200.lua 
+CallFun \RelaySetting\Task\boss\miao-ru-2200.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\zhang-zongzheng-1200.lua 
+CallFun \RelaySetting\Task\boss\zhang-zongzheng-1200.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\zhang-zongzheng-2000.lua 
+CallFun \RelaySetting\Task\boss\zhang-zongzheng-2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\zhang-zongzheng-2200.lua 
+CallFun \RelaySetting\Task\boss\zhang-zongzheng-2200.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\liu-qingqing-1200.lua 
+CallFun \RelaySetting\Task\boss\liu-qingqing-1200.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\liu-qingqing-2000.lua 
+CallFun \RelaySetting\Task\boss\liu-qingqing-2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\liu-qingqing-2200.lua 
+CallFun \RelaySetting\Task\boss\liu-qingqing-2200.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\zhang-zongzheng.lua 
+CallFun \RelaySetting\Task\boss\zhang-zongzheng.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\miao-ru.lua 
+CallFun \RelaySetting\Task\boss\miao-ru.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\liu-qingqing.lua 
+CallFun \RelaySetting\Task\boss\liu-qingqing.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\small_goldboss_2000.lua 
+ExecuteCode \RelaySetting\Task\boss\goldbosshead_2000.lua 
+CallFun \RelaySetting\Task\boss\small_goldboss_2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\small_goldboss_0400.lua 
+ExecuteCode \RelaySetting\Task\boss\goldbosshead_0400.lua 
+CallFun \RelaySetting\Task\boss\small_goldboss_0400.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\small_goldboss_1230.lua 
+ExecuteCode \RelaySetting\Task\boss\goldbosshead_1230.lua 
+CallFun \RelaySetting\Task\boss\small_goldboss_1230.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\small_goldboss_2300.lua 
+ExecuteCode \RelaySetting\Task\boss\goldbosshead_2300.lua 
+CallFun \RelaySetting\Task\boss\small_goldboss_2300.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\make_new_big_boss.lua 
+CallFun \RelaySetting\Task\boss\make_new_big_boss.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\boss_thien_tri_2000.lua 
+CallFun \RelaySetting\Task\boss\boss_thien_tri_2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\goldbossadjust\goldbossadjust_2020.lua 
+CallFun \RelaySetting\Task\goldbossadjust\goldbossadjust_2020.lua TaskShedule
+ExecuteCode \RelaySetting\Task\goldbossadjust\goldbossadjust_2010.lua 
+CallFun \RelaySetting\Task\goldbossadjust\goldbossadjust_2010.lua TaskShedule
+ExecuteCode \RelaySetting\Task\goldbossadjust\goldbossadjust_2015.lua 
+CallFun \RelaySetting\Task\goldbossadjust\goldbossadjust_2015.lua TaskShedule
+ExecuteCode \RelaySetting\Task\makegoldboss\makegoldboss_0800.lua 
+ExecuteCode \RelaySetting\Task\makegoldboss\callboss_incityhead.lua 
+CallFun \RelaySetting\Task\makegoldboss\makegoldboss_0800.lua TaskShedule
+ExecuteCode \RelaySetting\Task\makegoldboss\makegoldboss_1930.lua 
+CallFun \RelaySetting\Task\makegoldboss\makegoldboss_1930.lua TaskShedule
+ExecuteCode \RelaySetting\Task\makegoldboss\makegoldboss_2200.lua 
+CallFun \RelaySetting\Task\makegoldboss\makegoldboss_2200.lua TaskShedule
+ExecuteCode \RelaySetting\Task\phonglangdo\fengling_ferry.lua 
+CallFun \RelaySetting\Task\phonglangdo\fengling_ferry.lua TaskShedule
+ExecuteCode \RelaySetting\Task\phonglangdo\fengling_ferry_1400.lua 
+CallFun \RelaySetting\Task\phonglangdo\fengling_ferry_1400.lua TaskShedule
+ExecuteCode \RelaySetting\Task\phonglangdo\fengling_ferry_1600.lua 
+CallFun \RelaySetting\Task\phonglangdo\fengling_ferry_1600.lua TaskShedule
+ExecuteCode \RelaySetting\Task\phonglangdo\fengling_ferry_1800.lua 
+CallFun \RelaySetting\Task\phonglangdo\fengling_ferry_1800.lua TaskShedule
+ExecuteCode \RelaySetting\Task\phonglangdo\fengling_ferry_2000.lua 
+CallFun \RelaySetting\Task\phonglangdo\fengling_ferry_2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_honour.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_honour.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1250.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1450.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1450.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1650.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1650.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1850.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1850.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_2250.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_2250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\ladderload.lua 
+CallFun \RelaySetting\Task\xephang\ladderload.lua TaskShedule
+ExecuteCode \RelaySetting\Task\hoatdong\great_seed.lua 
+CallFun \RelaySetting\Task\hoatdong\great_seed.lua TaskShedule
+ExecuteCode \RelaySetting\Task\hoatdong\great_seed_20h.lua 
+CallFun \RelaySetting\Task\hoatdong\great_seed_20h.lua TaskShedule
+ExecuteCode \RelaySetting\Task\vuotai\challegeoftime-dailyrank.lua 
+CallFun \RelaySetting\Task\vuotai\challegeoftime-dailyrank.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\bosstieu_2230\liu-qingqing.lua 
+CallFun \RelaySetting\Task\boss\bosstieu_2230\liu-qingqing.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\bosstieu_2230\miao-ru.lua 
+CallFun \RelaySetting\Task\boss\bosstieu_2230\miao-ru.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\bosstieu_2230\zhang-zongzheng.lua 
+CallFun \RelaySetting\Task\boss\bosstieu_2230\zhang-zongzheng.lua TaskShedule
+ExecuteCode \RelaySetting\Task\phonglangdo\fengling_ferry_00.lua 
+CallFun \RelaySetting\Task\phonglangdo\fengling_ferry_00.lua TaskShedule
+CallFun game_module_settings.lua TaskContent
+CallFun xephang\ladderload.lua TaskContent
+CallFun thongbaohethong\announce.lua GameSvrConnected
+CallFun game_module_settings.lua GameSvrConnected
+CallFun boss\miao-ru-1200.lua GameSvrConnected
+CallFun boss\miao-ru-2000.lua GameSvrConnected
+CallFun boss\miao-ru-2200.lua GameSvrConnected
+CallFun boss\zhang-zongzheng-1200.lua GameSvrConnected
+CallFun boss\zhang-zongzheng-2000.lua GameSvrConnected
+CallFun boss\zhang-zongzheng-2200.lua GameSvrConnected
+CallFun boss\liu-qingqing-1200.lua GameSvrConnected
+CallFun boss\liu-qingqing-2000.lua GameSvrConnected
+CallFun boss\liu-qingqing-2200.lua GameSvrConnected
+CallFun boss\zhang-zongzheng.lua GameSvrConnected
+CallFun boss\miao-ru.lua GameSvrConnected
+CallFun boss\liu-qingqing.lua GameSvrConnected
+CallFun boss\small_goldboss_2000.lua GameSvrConnected
+CallFun boss\small_goldboss_0400.lua GameSvrConnected
+CallFun boss\small_goldboss_1230.lua GameSvrConnected
+CallFun boss\small_goldboss_2300.lua GameSvrConnected
+CallFun boss\make_new_big_boss.lua GameSvrConnected
+CallFun boss\boss_thien_tri_2000.lua GameSvrConnected
+CallFun goldbossadjust\goldbossadjust_2020.lua GameSvrConnected
+CallFun goldbossadjust\goldbossadjust_2010.lua GameSvrConnected
+CallFun goldbossadjust\goldbossadjust_2015.lua GameSvrConnected
+CallFun makegoldboss\makegoldboss_0800.lua GameSvrConnected
+CallFun makegoldboss\makegoldboss_1930.lua GameSvrConnected
+CallFun makegoldboss\makegoldboss_2200.lua GameSvrConnected
+CallFun phonglangdo\fengling_ferry.lua GameSvrConnected
+CallFun phonglangdo\fengling_ferry_1400.lua GameSvrConnected
+CallFun phonglangdo\fengling_ferry_1600.lua GameSvrConnected
+CallFun phonglangdo\fengling_ferry_1800.lua GameSvrConnected
+CallFun phonglangdo\fengling_ferry_2000.lua GameSvrConnected
+CallFun tongkim\battle_1_honour.lua GameSvrConnected
+CallFun tongkim\battle_1_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_1250.lua GameSvrConnected
+CallFun tongkim\battle_1_1450.lua GameSvrConnected
+CallFun tongkim\battle_1_1650.lua GameSvrConnected
+CallFun tongkim\battle_1_1850.lua GameSvrConnected
+CallFun tongkim\battle_1_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_2250.lua GameSvrConnected
+CallFun xephang\ladderload.lua GameSvrConnected
+CallFun hoatdong\great_seed.lua GameSvrConnected
+CallFun hoatdong\great_seed_20h.lua GameSvrConnected
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrConnected
+CallFun boss\bosstieu_2230\liu-qingqing.lua GameSvrConnected
+CallFun boss\bosstieu_2230\miao-ru.lua GameSvrConnected
+CallFun boss\bosstieu_2230\zhang-zongzheng.lua GameSvrConnected
+CallFun phonglangdo\fengling_ferry_00.lua GameSvrConnected
+CallFun thongbaohethong\announce.lua GameSvrReady
+CallFun game_module_settings.lua GameSvrReady
+CallFun boss\miao-ru-1200.lua GameSvrReady
+CallFun boss\miao-ru-2000.lua GameSvrReady
+CallFun boss\miao-ru-2200.lua GameSvrReady
+CallFun boss\zhang-zongzheng-1200.lua GameSvrReady
+CallFun boss\zhang-zongzheng-2000.lua GameSvrReady
+CallFun boss\zhang-zongzheng-2200.lua GameSvrReady
+CallFun boss\liu-qingqing-1200.lua GameSvrReady
+CallFun boss\liu-qingqing-2000.lua GameSvrReady
+CallFun boss\liu-qingqing-2200.lua GameSvrReady
+CallFun boss\zhang-zongzheng.lua GameSvrReady
+CallFun boss\miao-ru.lua GameSvrReady
+CallFun boss\liu-qingqing.lua GameSvrReady
+CallFun boss\small_goldboss_2000.lua GameSvrReady
+CallFun boss\small_goldboss_0400.lua GameSvrReady
+CallFun boss\small_goldboss_1230.lua GameSvrReady
+CallFun boss\small_goldboss_2300.lua GameSvrReady
+CallFun boss\make_new_big_boss.lua GameSvrReady
+CallFun boss\boss_thien_tri_2000.lua GameSvrReady
+CallFun goldbossadjust\goldbossadjust_2020.lua GameSvrReady
+CallFun goldbossadjust\goldbossadjust_2010.lua GameSvrReady
+CallFun goldbossadjust\goldbossadjust_2015.lua GameSvrReady
+CallFun makegoldboss\makegoldboss_0800.lua GameSvrReady
+CallFun makegoldboss\makegoldboss_1930.lua GameSvrReady
+CallFun makegoldboss\makegoldboss_2200.lua GameSvrReady
+CallFun phonglangdo\fengling_ferry.lua GameSvrReady
+CallFun phonglangdo\fengling_ferry_1400.lua GameSvrReady
+CallFun phonglangdo\fengling_ferry_1600.lua GameSvrReady
+CallFun phonglangdo\fengling_ferry_1800.lua GameSvrReady
+CallFun phonglangdo\fengling_ferry_2000.lua GameSvrReady
+CallFun tongkim\battle_1_honour.lua GameSvrReady
+CallFun tongkim\battle_1_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_2050.lua GameSvrReady
+CallFun tongkim\battle_1_1250.lua GameSvrReady
+CallFun tongkim\battle_1_1450.lua GameSvrReady
+CallFun tongkim\battle_1_1650.lua GameSvrReady
+CallFun tongkim\battle_1_1850.lua GameSvrReady
+CallFun tongkim\battle_1_2050.lua GameSvrReady
+CallFun tongkim\battle_1_2250.lua GameSvrReady
+CallFun xephang\ladderload.lua GameSvrReady
+CallFun hoatdong\great_seed.lua GameSvrReady
+CallFun hoatdong\great_seed_20h.lua GameSvrReady
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrReady
+CallFun boss\bosstieu_2230\liu-qingqing.lua GameSvrReady
+CallFun boss\bosstieu_2230\miao-ru.lua GameSvrReady
+CallFun boss\bosstieu_2230\zhang-zongzheng.lua GameSvrReady
+CallFun phonglangdo\fengling_ferry_00.lua GameSvrReady
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun /script/gc_exit.lua main
+ExecuteCode /script/protocol.lua 
+ExecuteCode \script\lib\objbuffer_head.lua 
+ExecuteCode /script/sharedata_key.lua 
+ExecuteCode /script/event/msg2allworld.lua 
+ExecuteCode /script/event/jiefang0804/head.lua 
+ExecuteCode /script/event/other/caipiao/head_gc_old.lua 
+ExecuteCode /script/event/other/caipiao/head_gc.lua 
+ExecuteCode /script/event/zhaojingling/event.lua 
+ExecuteCode /script/event/expansion/201006/fuguijinhe/fuguijinhe.lua 
+ExecuteCode \script\lib\remoteexc.lua 
+ExecuteCode \script\lib\baseclass.lua 
+ExecuteCode \script\lib\common.lua 
+ExecuteCode /script/event/goldboss_adjust_2011/boss_initialize.lua 
+ExecuteCode /script/event/zhongqiu_jieri/2010/head.lua 
+ExecuteCode \script\lib\sharedata.lua 
+ExecuteCode /script/event/zhongqiu_jieri/head.lua 
+ExecuteCode \script\tong\tong_header.lua 
+ExecuteCode /script/event/card.lua 
+ExecuteCode /script/event/2011dayanqunxia/event.lua 
+ExecuteCode /script/event/2012april_zhushuai/event.lua 
+ExecuteCode /script/event/shengdan/200811/setbossdeath.lua 
+ExecuteCode \script\gb_taskfuncs.lua 
+ExecuteCode /script/event/bingo_machine/prize_pool.lua 
+ExecuteCode /script/event/citywar.lua 
+ExecuteCode /script/event/tongwar/event.lua 
+ExecuteCode /script/event/tongwar/score.lua 
+ExecuteCode /script/event/wulin_2nd/head.lua 
+ExecuteCode /script/event/wulin_2nd/task.lua 
+ExecuteCode /script/event/wulin_2nd/members.lua 
+ExecuteCode /script/lib/log.lua 
+ExecuteCode /script/lib/mapdb.lua 
+ExecuteCode /script/lib/toplist.lua 
+ExecuteCode /script/leaguematch/log.lua 
+ExecuteCode \script\leaguematch\head.lua 
+ExecuteCode \script\leaguematch\timetable.lua 
+ExecuteCode /script/leaguematch/joinmatch.lua 
+ExecuteCode /script/leaguematch/league.lua 
+ExecuteCode /script/leaguematch/task.lua 
+ExecuteCode \script\leaguematch\switch.lua 
+ExecuteCode /script/misc/timeline/serveropentimeevent.lua 
+ExecuteCode /script/misc/rank/rankdata.lua 
+ExecuteCode /script/misc/rank/rank.lua 
+ExecuteCode /script/misc/rank/equip_value_rank.lua 
+ExecuteCode /script/gb_modulefuncs.lua 
+ExecuteCode /script/limitedaward_head.lua 
+ExecuteCode /script/jxprivate/jx_xephang.lua 
+ExecuteCode /script/mission/sevencity/protocol.lua 
+ExecuteCode \script\mission\sevencity\war.lua 
+ExecuteCode /script/mission/dungeon/dungeonlog.lua 
+ExecuteCode /script/mission/dungeon/dungeondata.lua 
+ExecuteCode /script/mission/dungeon/datamanager.lua 
+ExecuteCode /script/mission/dungeon/dungeons/shiliantang/shiliantangdata.lua 
+ExecuteCode /script/mission/boss/bigboss.lua 
+ExecuteCode /script/mission/citywar_global/ladder.lua 
+ExecuteCode /script/missions/arena/protocol.lua 
+ExecuteCode \script\missions\arena\player.lua 
+ExecuteCode \script\missions\arena\map.lua 
+ExecuteCode /script/missions/arena/cmd.lua 
+ExecuteCode /script/second_hand_store/second_hand_gc.lua 
+ExecuteCode \script\second_hand_store\goodslist.lua 
+ExecuteCode /script/tong/contribution_entry.lua 
+ExecuteCode \script\tong\tong_setting.lua 
+ExecuteCode \script\tong\log.lua 
+ExecuteCode /script/tong/tong.lua 
+ExecuteCode \script\tong\workshop\workshop_setting.lua 
+ExecuteCode /script/tong/tong_statistics.lua 
+ExecuteCode /script/tong/workshop/workshop_head.lua 
+ExecuteCode \script\tong\workshop\workshop_logic.lua 
+ExecuteCode \script\tong\workshop\workshop_def.lua 
+ExecuteCode /script/tong/workshop/ws_shilian.lua 
+ExecuteCode /script/tong/workshop/ws_tiangong.lua 
+ExecuteCode /script/tong/workshop/tongcolltask.lua 
+ExecuteCode /script/tong/workshop/ws_liwu.lua 
+ExecuteCode /script/tong/workshop/ws_mianju.lua 
+ExecuteCode /script/tong/workshop/ws_huodong.lua 
+ExecuteCode /script/tong/workshop/ws_tianyi.lua 
+ExecuteCode /script/tong/workshop/ws_bingjia.lua 
+ExecuteCode /script/tong/addtongnpc.lua 
+ExecuteCode /script/tong/tong_mix.lua 
+ExecuteCode /script/gc_exit.lua 
+ExecuteCode \\RelaySetting\\battle\\script\\rf_bintree_fix.lua 
+ExecuteCode \RelaySetting\battle\script\rf_header.lua 
+ExecuteCode \relaysetting\task\banghoi\tong_claimwar.lua 
+ExecuteCode \RelaySetting\Task\thongbaohethong\announce.lua 
+CallFun \RelaySetting\Task\thongbaohethong\announce.lua TaskShedule
+ExecuteCode \RelaySetting\Task\game_module_settings.lua 
+CallFun \RelaySetting\Task\game_module_settings.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\miao-ru-1200.lua 
+ExecuteCode \RelaySetting\Task\boss\bosswhere.lua 
+ExecuteCode \RelaySetting\Task\boss\GoldBossHead.lua 
+CallFun \RelaySetting\Task\boss\miao-ru-1200.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\miao-ru-2000.lua 
+CallFun \RelaySetting\Task\boss\miao-ru-2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\miao-ru-2200.lua 
+CallFun \RelaySetting\Task\boss\miao-ru-2200.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\zhang-zongzheng-1200.lua 
+CallFun \RelaySetting\Task\boss\zhang-zongzheng-1200.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\zhang-zongzheng-2000.lua 
+CallFun \RelaySetting\Task\boss\zhang-zongzheng-2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\zhang-zongzheng-2200.lua 
+CallFun \RelaySetting\Task\boss\zhang-zongzheng-2200.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\liu-qingqing-1200.lua 
+CallFun \RelaySetting\Task\boss\liu-qingqing-1200.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\liu-qingqing-2000.lua 
+CallFun \RelaySetting\Task\boss\liu-qingqing-2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\liu-qingqing-2200.lua 
+CallFun \RelaySetting\Task\boss\liu-qingqing-2200.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\zhang-zongzheng.lua 
+CallFun \RelaySetting\Task\boss\zhang-zongzheng.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\miao-ru.lua 
+CallFun \RelaySetting\Task\boss\miao-ru.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\liu-qingqing.lua 
+CallFun \RelaySetting\Task\boss\liu-qingqing.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\small_goldboss_2000.lua 
+ExecuteCode \RelaySetting\Task\boss\goldbosshead_2000.lua 
+CallFun \RelaySetting\Task\boss\small_goldboss_2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\small_goldboss_0400.lua 
+ExecuteCode \RelaySetting\Task\boss\goldbosshead_0400.lua 
+CallFun \RelaySetting\Task\boss\small_goldboss_0400.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\small_goldboss_1230.lua 
+ExecuteCode \RelaySetting\Task\boss\goldbosshead_1230.lua 
+CallFun \RelaySetting\Task\boss\small_goldboss_1230.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\small_goldboss_2300.lua 
+ExecuteCode \RelaySetting\Task\boss\goldbosshead_2300.lua 
+CallFun \RelaySetting\Task\boss\small_goldboss_2300.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\make_new_big_boss.lua 
+CallFun \RelaySetting\Task\boss\make_new_big_boss.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\boss_thien_tri_2000.lua 
+CallFun \RelaySetting\Task\boss\boss_thien_tri_2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\goldbossadjust\goldbossadjust_2020.lua 
+CallFun \RelaySetting\Task\goldbossadjust\goldbossadjust_2020.lua TaskShedule
+ExecuteCode \RelaySetting\Task\goldbossadjust\goldbossadjust_2010.lua 
+CallFun \RelaySetting\Task\goldbossadjust\goldbossadjust_2010.lua TaskShedule
+ExecuteCode \RelaySetting\Task\goldbossadjust\goldbossadjust_2015.lua 
+CallFun \RelaySetting\Task\goldbossadjust\goldbossadjust_2015.lua TaskShedule
+ExecuteCode \RelaySetting\Task\makegoldboss\makegoldboss_0800.lua 
+ExecuteCode \RelaySetting\Task\makegoldboss\callboss_incityhead.lua 
+CallFun \RelaySetting\Task\makegoldboss\makegoldboss_0800.lua TaskShedule
+ExecuteCode \RelaySetting\Task\makegoldboss\makegoldboss_1930.lua 
+CallFun \RelaySetting\Task\makegoldboss\makegoldboss_1930.lua TaskShedule
+ExecuteCode \RelaySetting\Task\makegoldboss\makegoldboss_2200.lua 
+CallFun \RelaySetting\Task\makegoldboss\makegoldboss_2200.lua TaskShedule
+ExecuteCode \RelaySetting\Task\phonglangdo\fengling_ferry.lua 
+CallFun \RelaySetting\Task\phonglangdo\fengling_ferry.lua TaskShedule
+ExecuteCode \RelaySetting\Task\phonglangdo\fengling_ferry_1400.lua 
+CallFun \RelaySetting\Task\phonglangdo\fengling_ferry_1400.lua TaskShedule
+ExecuteCode \RelaySetting\Task\phonglangdo\fengling_ferry_1600.lua 
+CallFun \RelaySetting\Task\phonglangdo\fengling_ferry_1600.lua TaskShedule
+ExecuteCode \RelaySetting\Task\phonglangdo\fengling_ferry_1800.lua 
+CallFun \RelaySetting\Task\phonglangdo\fengling_ferry_1800.lua TaskShedule
+ExecuteCode \RelaySetting\Task\phonglangdo\fengling_ferry_2000.lua 
+CallFun \RelaySetting\Task\phonglangdo\fengling_ferry_2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_honour.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_honour.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1250.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1450.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1450.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1650.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1650.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1850.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1850.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_2250.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_2250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\ladderload.lua 
+CallFun \RelaySetting\Task\xephang\ladderload.lua TaskShedule
+ExecuteCode \RelaySetting\Task\hoatdong\great_seed.lua 
+CallFun \RelaySetting\Task\hoatdong\great_seed.lua TaskShedule
+ExecuteCode \RelaySetting\Task\hoatdong\great_seed_20h.lua 
+CallFun \RelaySetting\Task\hoatdong\great_seed_20h.lua TaskShedule
+ExecuteCode \RelaySetting\Task\vuotai\challegeoftime-dailyrank.lua 
+CallFun \RelaySetting\Task\vuotai\challegeoftime-dailyrank.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\bosstieu_2230\liu-qingqing.lua 
+CallFun \RelaySetting\Task\boss\bosstieu_2230\liu-qingqing.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\bosstieu_2230\miao-ru.lua 
+CallFun \RelaySetting\Task\boss\bosstieu_2230\miao-ru.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\bosstieu_2230\zhang-zongzheng.lua 
+CallFun \RelaySetting\Task\boss\bosstieu_2230\zhang-zongzheng.lua TaskShedule
+ExecuteCode \RelaySetting\Task\phonglangdo\fengling_ferry_00.lua 
+CallFun \RelaySetting\Task\phonglangdo\fengling_ferry_00.lua TaskShedule
+CallFun game_module_settings.lua TaskContent
+CallFun xephang\ladderload.lua TaskContent
+CallFun thongbaohethong\announce.lua GameSvrConnected
+CallFun game_module_settings.lua GameSvrConnected
+CallFun boss\miao-ru-1200.lua GameSvrConnected
+CallFun boss\miao-ru-2000.lua GameSvrConnected
+CallFun boss\miao-ru-2200.lua GameSvrConnected
+CallFun boss\zhang-zongzheng-1200.lua GameSvrConnected
+CallFun boss\zhang-zongzheng-2000.lua GameSvrConnected
+CallFun boss\zhang-zongzheng-2200.lua GameSvrConnected
+CallFun boss\liu-qingqing-1200.lua GameSvrConnected
+CallFun boss\liu-qingqing-2000.lua GameSvrConnected
+CallFun boss\liu-qingqing-2200.lua GameSvrConnected
+CallFun boss\zhang-zongzheng.lua GameSvrConnected
+CallFun boss\miao-ru.lua GameSvrConnected
+CallFun boss\liu-qingqing.lua GameSvrConnected
+CallFun boss\small_goldboss_2000.lua GameSvrConnected
+CallFun boss\small_goldboss_0400.lua GameSvrConnected
+CallFun boss\small_goldboss_1230.lua GameSvrConnected
+CallFun boss\small_goldboss_2300.lua GameSvrConnected
+CallFun boss\make_new_big_boss.lua GameSvrConnected
+CallFun boss\boss_thien_tri_2000.lua GameSvrConnected
+CallFun goldbossadjust\goldbossadjust_2020.lua GameSvrConnected
+CallFun goldbossadjust\goldbossadjust_2010.lua GameSvrConnected
+CallFun goldbossadjust\goldbossadjust_2015.lua GameSvrConnected
+CallFun makegoldboss\makegoldboss_0800.lua GameSvrConnected
+CallFun makegoldboss\makegoldboss_1930.lua GameSvrConnected
+CallFun makegoldboss\makegoldboss_2200.lua GameSvrConnected
+CallFun phonglangdo\fengling_ferry.lua GameSvrConnected
+CallFun phonglangdo\fengling_ferry_1400.lua GameSvrConnected
+CallFun phonglangdo\fengling_ferry_1600.lua GameSvrConnected
+CallFun phonglangdo\fengling_ferry_1800.lua GameSvrConnected
+CallFun phonglangdo\fengling_ferry_2000.lua GameSvrConnected
+CallFun tongkim\battle_1_honour.lua GameSvrConnected
+CallFun tongkim\battle_1_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_1250.lua GameSvrConnected
+CallFun tongkim\battle_1_1450.lua GameSvrConnected
+CallFun tongkim\battle_1_1650.lua GameSvrConnected
+CallFun tongkim\battle_1_1850.lua GameSvrConnected
+CallFun tongkim\battle_1_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_2250.lua GameSvrConnected
+CallFun xephang\ladderload.lua GameSvrConnected
+CallFun hoatdong\great_seed.lua GameSvrConnected
+CallFun hoatdong\great_seed_20h.lua GameSvrConnected
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrConnected
+CallFun boss\bosstieu_2230\liu-qingqing.lua GameSvrConnected
+CallFun boss\bosstieu_2230\miao-ru.lua GameSvrConnected
+CallFun boss\bosstieu_2230\zhang-zongzheng.lua GameSvrConnected
+CallFun phonglangdo\fengling_ferry_00.lua GameSvrConnected
+CallFun thongbaohethong\announce.lua GameSvrReady
+CallFun game_module_settings.lua GameSvrReady
+CallFun boss\miao-ru-1200.lua GameSvrReady
+CallFun boss\miao-ru-2000.lua GameSvrReady
+CallFun boss\miao-ru-2200.lua GameSvrReady
+CallFun boss\zhang-zongzheng-1200.lua GameSvrReady
+CallFun boss\zhang-zongzheng-2000.lua GameSvrReady
+CallFun boss\zhang-zongzheng-2200.lua GameSvrReady
+CallFun boss\liu-qingqing-1200.lua GameSvrReady
+CallFun boss\liu-qingqing-2000.lua GameSvrReady
+CallFun boss\liu-qingqing-2200.lua GameSvrReady
+CallFun boss\zhang-zongzheng.lua GameSvrReady
+CallFun boss\miao-ru.lua GameSvrReady
+CallFun boss\liu-qingqing.lua GameSvrReady
+CallFun boss\small_goldboss_2000.lua GameSvrReady
+CallFun boss\small_goldboss_0400.lua GameSvrReady
+CallFun boss\small_goldboss_1230.lua GameSvrReady
+CallFun boss\small_goldboss_2300.lua GameSvrReady
+CallFun boss\make_new_big_boss.lua GameSvrReady
+CallFun boss\boss_thien_tri_2000.lua GameSvrReady
+CallFun goldbossadjust\goldbossadjust_2020.lua GameSvrReady
+CallFun goldbossadjust\goldbossadjust_2010.lua GameSvrReady
+CallFun goldbossadjust\goldbossadjust_2015.lua GameSvrReady
+CallFun makegoldboss\makegoldboss_0800.lua GameSvrReady
+CallFun makegoldboss\makegoldboss_1930.lua GameSvrReady
+CallFun makegoldboss\makegoldboss_2200.lua GameSvrReady
+CallFun phonglangdo\fengling_ferry.lua GameSvrReady
+CallFun phonglangdo\fengling_ferry_1400.lua GameSvrReady
+CallFun phonglangdo\fengling_ferry_1600.lua GameSvrReady
+CallFun phonglangdo\fengling_ferry_1800.lua GameSvrReady
+CallFun phonglangdo\fengling_ferry_2000.lua GameSvrReady
+CallFun tongkim\battle_1_honour.lua GameSvrReady
+CallFun tongkim\battle_1_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_2050.lua GameSvrReady
+CallFun tongkim\battle_1_1250.lua GameSvrReady
+CallFun tongkim\battle_1_1450.lua GameSvrReady
+CallFun tongkim\battle_1_1650.lua GameSvrReady
+CallFun tongkim\battle_1_1850.lua GameSvrReady
+CallFun tongkim\battle_1_2050.lua GameSvrReady
+CallFun tongkim\battle_1_2250.lua GameSvrReady
+CallFun xephang\ladderload.lua GameSvrReady
+CallFun hoatdong\great_seed.lua GameSvrReady
+CallFun hoatdong\great_seed_20h.lua GameSvrReady
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrReady
+CallFun boss\bosstieu_2230\liu-qingqing.lua GameSvrReady
+CallFun boss\bosstieu_2230\miao-ru.lua GameSvrReady
+CallFun boss\bosstieu_2230\zhang-zongzheng.lua GameSvrReady
+CallFun phonglangdo\fengling_ferry_00.lua GameSvrReady
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun phonglangdo\fengling_ferry.lua TaskContent
+CallFun phonglangdo\fengling_ferry_1600.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun tongkim\battle_1_1650.lua TaskContent
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun phonglangdo\fengling_ferry.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_SaveRoundResult
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun phonglangdo\fengling_ferry.lua TaskContent
+CallFun phonglangdo\fengling_ferry_1800.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun tongkim\battle_1_1850.lua TaskContent
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun phonglangdo\fengling_ferry.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun boss\miao-ru-2000.lua TaskContent
+CallFun boss\zhang-zongzheng-2000.lua TaskContent
+CallFun boss\liu-qingqing-2000.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun boss\make_new_big_boss.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun boss\small_goldboss_2000.lua TaskContent
+CallFun boss\boss_thien_tri_2000.lua TaskContent
+CallFun makegoldboss\makegoldboss_1930.lua TaskContent
+CallFun phonglangdo\fengling_ferry.lua TaskContent
+CallFun phonglangdo\fengling_ferry_2000.lua TaskContent
+CallFun tongkim\battle_2_createnew.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun goldbossadjust\goldbossadjust_2010.lua TaskContent
+CallFun goldbossadjust\goldbossadjust_2015.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun goldbossadjust\goldbossadjust_2020.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun tongkim\battle_2_2050.lua TaskContent
+CallFun tongkim\battle_1_2050.lua TaskContent
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun phonglangdo\fengling_ferry.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_SaveRoundResult
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun makegoldboss\makegoldboss_2200.lua TaskContent
+CallFun phonglangdo\fengling_ferry.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun boss\bosstieu_2230\liu-qingqing.lua TaskContent
+CallFun boss\bosstieu_2230\miao-ru.lua TaskContent
+CallFun boss\bosstieu_2230\zhang-zongzheng.lua TaskContent
+ExecuteCode  
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun tongkim\battle_1_2250.lua TaskContent
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun boss\miao-ru-2200.lua TaskContent
+CallFun boss\zhang-zongzheng-2200.lua TaskContent
+CallFun boss\liu-qingqing-2200.lua TaskContent
+CallFun boss\small_goldboss_2300.lua TaskContent
+CallFun phonglangdo\fengling_ferry.lua TaskContent
+CallFun tongkim\battle_1_honour.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent
+CallFun hoatdong\great_seed_20h.lua TaskContent

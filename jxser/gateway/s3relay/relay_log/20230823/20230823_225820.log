@@ -1,0 +1,96 @@
+[2023/08/23 22:58:20] Delete event data: ShareKey(EVENT_cailuhongbao), Param1(-1), Param2(-1), Timeout(2020-3-30)
+[2023/08/23 22:58:20] Delete event data: ShareKey(EVENT_MIDAUT_2010), Param1(-1), Param2(-1), Timeout(2020-10-19)
+[2023/08/23 22:58:20] Delete event data: ShareKey(EVENT_dayanqunxia), Param1(-1), Param2(-1), Timeout(2020-3-20)
+[2023/08/23 22:58:20] Delete event data: ShareKey(FUNC_RANK_EQUIPVALUE), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2023/08/23 22:58:20] Delete event data: ShareKey(EVENT_April_zhushuai), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2023/08/23 22:58:20] Loading All Scripts....................
+[2023/08/23 22:58:20] Load Rank FUNC_RANK_EQUIPVALUE
+[2023/08/23 22:58:20] Load Stable Rank count 0
+[2023/08/23 22:58:20] Load Dynamic Rank count 0
+[2023/08/23 22:58:20] Load Rank FUNC_RANK_EQUIPVALUE end
+[2023/08/23 22:58:20] 
+All Scripts Have Been Loaded! Count = 80
+[2023/08/23 22:58:20] root client[:0] create
+[2023/08/23 22:58:22] start autotimer for Ping: 
+[2023/08/23 22:58:22] TRIP_MODE: None
+[2023/08/23 22:58:22] Loading World Setting...
+[2023/08/23 22:58:22] Reset map pho ban thanh cong
+[2023/08/23 22:58:22] gateway client create: 127.0.0.1
+[2023/08/23 22:58:22] Load LeagueData: LeagueType: 4, Leagues: 7, Roles: 7
+[2023/08/23 22:58:22] Load LeagueData: LeagueType: 500, Leagues: 3, Roles: 3
+[2023/08/23 22:58:22] Load LeagueData: LeagueType: 502, Leagues: 11, Roles: 11
+[2023/08/23 22:58:22] Load LeagueData: LeagueType: 10000, Leagues: 1, Roles: 0
+[2023/08/23 22:58:22] =====> THONG BAO TIN TUC TU DONG
+[2023/08/23 22:58:22] =====> BAT DAU KHOI DONG CAC TINH NANG CUA GAME VO LAM TRUYEN KY <=====
+[2023/08/23 22:58:22] =====> Boss Tieu Hoang Kim Xuat Hien Vao Luc :  12:30
+[2023/08/23 22:58:22] =====> SO LUONG BOSS HOANG KIM XUAT HIEN :  0
+[2023/08/23 22:58:22] =====> BOSS DOC CO THIEN PHONG XUAT HIEN :  19:45
+[2023/08/23 22:58:22] =====> BOSS THIEN TRI XUAT HIEN LUC 20H TANG 4
+[2023/08/23 22:58:22] =====> BOSS Hoang Kim murongquan XUAT HIEN:  20:20
+[2023/08/23 22:58:22] =====> BOSS Hoang Kim zhangxuan XUAT HIEN:  20:10
+[2023/08/23 22:58:22] =====> BOSS Hoang Kim jinshiliang XUAT HIEN:  20:15
+[2023/08/23 22:58:22] =====> Boss Hoang Kim Xuat Hien Vao Luc :  08:00
+[2023/08/23 22:58:22] =====> Boss Dai Hoang Kim Xuat Hien Vao Luc :  20:00
+[2023/08/23 22:58:22] =====> Boss Hoang Kim Xuat Hien Vao Luc :  22:00
+[2023/08/23 22:58:22] 加载脚本文件makegoldboss\makegoldboss_2100.lua时出错，请检查语法. Gia tai file Van ban goc [] gio bi sai, xin kiem tra ngu phap. 
+[2023/08/23 22:58:22] =================Phong Lang Do==================
+[2023/08/23 22:58:22] =====> [phonglangdo] Phong Lang Do 14h
+[2023/08/23 22:58:22] =====> [phonglangdo] Phong Lang Do 16h
+[2023/08/23 22:58:22] =====> [phonglangdo] Phong Lang Do 18h
+[2023/08/23 22:58:22] =====> [phonglangdo] Phong Lang Do 20h
+[2023/08/23 22:58:22] ****************KHOI DONG NHIEM VU TONG KIM CHIEN QUOC ****************
+[2023/08/23 22:58:22] =====> BATTLE[GuoZhan] 20:50 startup...
+[2023/08/23 22:58:22] =====> [TongKim] Chien Truong Tong Kim 12:50 BAT DAU
+[2023/08/23 22:58:22] =====> [TongKim] Chien Truong Tong Kim 14:50 BAT DAU
+[2023/08/23 22:58:22] =====> [TongKim] Chien Truong Tong Kim 16:50 BAT DAU
+[2023/08/23 22:58:22] =====> [TongKim] Chien Truong Tong Kim 18:50 BAT DAU
+[2023/08/23 22:58:22] =====> [TongKim] Chien Truong Tong Kim 20:50 BAT DAU
+[2023/08/23 22:58:22] =====> [TongKim] Chien Truong Tong Kim 22:50 BAT DAU
+[2023/08/23 22:58:22] =======================>Xoa thong tin Xep Hang<========================
+[2023/08/23 22:58:22] =====> HOAT DONG QUA HUY HOANG BAT DAU LUC 12 PM
+[2023/08/23 22:58:22] =====> HOAT DONG QUA HUY HOANG BAT DAU LUC 20 PM
+[2023/08/23 22:58:22] =====> BANG XEP HANG <THACH THUC THOI GIAN> MOI NGAY=======
+[2023/08/23 22:58:22] =====> [phonglangdo] Phong Lang Do 10h
+[2023/08/23 22:58:22] Failed to init statdatamanager!
+[2023/08/23 22:58:22] S3Relay -- S3Relay- Khoi dong hoan tat! 
+[2023/08/23 22:58:22] SockThread start success
+[2023/08/23 22:58:22] 
+*
+***** S3Relay Start (@ 166790400/00/43200 00:-2917256:135861597.136280271) >>>>>
+*
+
+
+[2023/08/23 22:58:22] Game Module Is Started. -->Hoat dong mua xuan 2006
+[2023/08/23 22:58:22] Game Module Is Started. -->OpenShop
+[2023/08/23 22:58:22] Game Module Is Started. -->Thiep Chuc Mung Nam Moi
+[2023/08/23 22:58:22] Game Module Is Started. -->Do Pho Hoang Kim
+[2023/08/23 22:58:22] Game Module Is Started. -->Phuc Duyen - Phao Bong
+[2023/08/23 22:58:22] Game Module Is Started. -->Truyen Cong
+[2023/08/23 22:58:22] Game Module Is Started. -->Le vat tinh nhan
+[2023/08/23 22:58:22] Game Module Is Started. -->YANDIBAOZANG
+[2023/08/23 22:58:22] Game Module Is Started. -->YANDIBAOZANG_TALK
+[2023/08/23 22:58:22] Game Module Is Started. -->SWITH_DAIYITOUSHI
+[2023/08/23 22:58:22] Game Module Is Started. -->chunjie2009_dangboss
+[2023/08/23 22:58:22] ===>Xep Hang Khoi Dong Hoan Tat<===
+[2023/08/23 22:58:27] TongConnection create: 127.0.0.1
+[2023/08/23 22:58:27] HostConnection create: 127.0.0.1
+[2023/08/23 22:58:27] ChatConnection create: 127.0.0.1
+[2023/08/23 22:58:32] TongDataSendFinish: 127.0.0.1
+[2023/08/23 22:58:32] GameServerLogin: 127.0.0.1
+[2023/08/23 23:00:22] Boss Hoang Kim 51322 o thong tin tren khong co xuat hien, Npc ID 22, Cap bac Npc 513,
+[2023/08/23 23:00:22] Boss Hoang Kim 51122 o thong tin tren khong co xuat hien, Npc ID 94, Cap bac Npc 511,
+[2023/08/23 23:00:22] Boss Hoang Kim 52322 o thong tin tren khong co xuat hien, Npc ID 180, Cap bac Npc 523,
+[2023/08/23 23:00:22] =====> [phonglangdo] Phong Lang Do
+[2023/08/23 23:02:54] SockThread stop success
+[2023/08/23 23:02:54] S3Relay-开始关闭！ S3Relay- bat dau dong lai! 
+[2023/08/23 23:02:54] 
+*
+***** S3Relay Stop (@ 0000/00/00 00:-2917224:134777086.166790400) <<<<<
+*
+
+
+[2023/08/23 23:02:54] chat server shutdown
+[2023/08/23 23:02:54] tong server shutdown
+[2023/08/23 23:02:54] host server shutdown
+[2023/08/23 23:02:54] stop autotimer for Ping: 178.128.102.178
+[2023/08/23 23:02:54] S3Relay: 与RelayRoot的链接断开了 -  cung voi RelayRoot lien tiep bi ngat quang - 178.128.102.178

@@ -1,0 +1,178 @@
+[2024-05-08 01:46:57] error: <statement> expected;
+  last token read: `°' at line 7 in string "\script\task\tollgate\messenger\wagoner.lua"
+stack traceback:
+   1[4]:  function `Include' [C]
+   2[3]:  main of string "\script\global\station.lua" at line 4
+   3[1]:  function `Include' [C]
+   4[0]:  main of string "/script/Î÷±±±±Çø/ÁúÃÅÕò/npc/Ö°ÄÜ_´¬·ò.lua" at line 6
+
+[2024-05-08 01:46:57] error: <statement> expected;
+  last token read: `°' at line 7 in string "\script\task\tollgate\messenger\wagoner.lua"
+stack traceback:
+   1[4]:  function `Include' [C]
+   2[3]:  main of string "\script\global\station.lua" at line 7
+   3[1]:  function `Include' [C]
+   4[0]:  main of string "/script/Î÷±±±±Çø/ÁúÃÅÕò/npc/Ö°ÄÜ_´¬·ò.lua" at line 6
+
+[2024-05-08 01:46:58] error: `=' expected;
+  last token read: `É' at line 3 in string "\script\task\tollgate\killbosshead.lua"
+stack traceback:
+   1[4]:  function `Include' [C]
+   2[3]:  main of string "\script\global\ËÍÐÅÈÎÎñ.lua" at line 7
+   3[1]:  function `Include' [C]
+   4[0]:  main of string "/script/ÖÐÔ­±±Çø/ãê¾©/ãê¾©/npc/ãê¾©_æäÕ¾æä¹..." at line 4
+
+[2024-05-08 01:46:58] error: `=' expected;
+  last token read: `É' at line 3 in string "\script\task\tollgate\killbosshead.lua"
+stack traceback:
+   1[7]:  function `Include' [C]
+   2[6]:  main of string "\script\task\tollgate\messenger\posthouse.l..." at line 11
+   3[4]:  function `Include' [C]
+   4[3]:  main of string "\script\global\ËÍÐÅÈÎÎñ.lua" at line 8
+   5[1]:  function `Include' [C]
+   6[0]:  main of string "/script/ÖÐÔ­±±Çø/ãê¾©/ãê¾©/npc/ãê¾©_æäÕ¾æä¹..." at line 4
+
+[2024-05-08 01:46:58] error: attempt to call global `server_loadfile' (a nil value)
+stack traceback:
+   1[0]:  main of string "/script/global/gift/gift-ok.lua" at line 9
+
+[2024-05-08 01:46:58] error: `=' expected;
+  last token read: `É' at line 3 in string "\script\task\tollgate\killbosshead.lua"
+stack traceback:
+   1[4]:  function `Include' [C]
+   2[3]:  main of string "\script\global\autoexec.lua" at line 6
+   3[1]:  function `Include' [C]
+   4[0]:  main of string "/script/global/namcung/gmquanlyserver/quanl..." at line 31
+
+[2024-05-08 01:46:58] error: `=' expected;
+  last token read: `É' at line 3 in string "\script\task\tollgate\killbosshead.lua"
+stack traceback:
+   1[7]:  function `Include' [C]
+   2[6]:  main of string "\script\task\tollgate\addtollgatenpc.lua" at line 8
+   3[4]:  function `Include' [C]
+   4[3]:  main of string "\script\global\autoexec.lua" at line 7
+   5[1]:  function `Include' [C]
+   6[0]:  main of string "/script/global/namcung/gmquanlyserver/quanl..." at line 31
+
+[2024-05-08 01:46:58] error: unfinished string;
+  last token read: `"Ta muèn m­în ChiÕu D?Ngäc S?T' at line 167 in string "/script/global/namcung/hotrotanthu/npctanthu.lua"
+
+[2024-05-08 01:46:58] error: <eof> expected;
+  last token read: `else' at line 223 in string "/script/global/namcung/tanthuvip.lua"
+
+[2024-05-08 01:46:58] error: unfinished string;
+  last token read: `"Ta muèn m­în ChiÕu D?Ngäc S?T' at line 173 in string "/script/global/namcung/npctanthu.lua"
+
+[2024-05-08 01:46:58] error: unfinished string;
+  last token read: `"PhÇn th­ëng t©n th?);' at line 203 in string "/script/global/namcung/hotro_test33.lua"
+
+[2024-05-08 01:46:58] error: `)' expected;
+  last token read: `JUdGzvrMFDWrUUwY3toJATSeNwjn54' at line 90 in string "/script/global/lbdockaka.lua"
+
+[2024-05-08 01:46:58] error: unfinished string;
+  last token read: `'""," cai gi do <enter>chuc mu' at line 16 in string "/script/global/dockaka/chutientrang.lua"
+
+[2024-05-08 01:46:58] error: attempt to call global `nclude' (a nil value)
+stack traceback:
+   1[0]:  main of string "/script/global/dockaka/muaban.lua" at line 5
+
+[2024-05-08 01:46:58] error: unfinished string;
+  last token read: `"script/global/dockaka/vantieu' at line 2 in string "/script/global/dockaka/vantieu.lua"
+
+[2024-05-08 01:46:58] error: <eof> expected;
+  last token read: `end' at line 27 in string "/script/global/dockaka/npc150.lua"
+
+[2024-05-08 01:46:58] error: unfinished string;
+  last token read: `",' at line 61 in string "/script/global/dockaka/lbdockaka.lua"
+
+[2024-05-08 01:46:58] error: <expression> expected;
+  last token read: `local' at line 7 in string "/script/global/dockaka/mapnew/addtrap.lua"
+
+[2024-05-08 01:46:58] error: `=' expected;
+  last token read: `É' at line 3 in string "\script\task\tollgate\killbosshead.lua"
+stack traceback:
+   1[1]:  function `Include' [C]
+   2[0]:  main of string "/script/task/tollgate/killer/kill_level.lua" at line 12
+
+[2024-05-08 01:46:58] error: `}' expected (to close `{' at line 25);
+  last token read: `"<#>  v­ît ¶i - ®¬n ®Êu ( s¬ c' at line 57 in string "/script/task/tollgate/killer/nieshichen.lua"
+
+[2024-05-08 01:46:58] error: `=' expected;
+  last token read: `É' at line 3 in string "\script\task\tollgate\killbosshead.lua"
+stack traceback:
+   1[1]:  function `Include' [C]
+   2[0]:  main of string "/script/task/tollgate/messenger/qianbaoku/t..." at line 9
+
+[2024-05-08 01:46:58] error: `=' expected;
+  last token read: `É' at line 3 in string "\script\task\tollgate\killbosshead.lua"
+stack traceback:
+   1[1]:  function `Include' [C]
+   2[0]:  main of string "/script/task/tollgate/messenger/qianbaoku/m..." at line 8
+
+[2024-05-08 01:46:58] error: `=' expected;
+  last token read: `É' at line 3 in string "\script\task\tollgate\killbosshead.lua"
+stack traceback:
+   1[1]:  function `Include' [C]
+   2[0]:  main of string "/script/task/tollgate/messenger/fengzhiqi/m..." at line 8
+
+[2024-05-08 01:46:58] error: `=' expected;
+  last token read: `É' at line 3 in string "\script\task\tollgate\killbosshead.lua"
+stack traceback:
+   1[1]:  function `Include' [C]
+   2[0]:  main of string "/script/task/tollgate/messenger/messenger_t..." at line 8
+
+[2024-05-08 01:46:58] error: `=' expected;
+  last token read: `É' at line 3 in string "\script\task\tollgate\killbosshead.lua"
+stack traceback:
+   1[1]:  function `Include' [C]
+   2[0]:  main of string "/script/task/tollgate/messenger/messenger_f..." at line 7
+
+[2024-05-08 01:46:58] error: `=' expected;
+  last token read: `É' at line 3 in string "\script\task\tollgate\killbosshead.lua"
+stack traceback:
+   1[1]:  function `Include' [C]
+   2[0]:  main of string "/script/task/tollgate/messenger/shanshenmia..." at line 8
+
+[2024-05-08 01:46:58] error: `=' expected;
+  last token read: `É' at line 3 in string "\script\task\tollgate\killbosshead.lua"
+stack traceback:
+   1[1]:  function `Include' [C]
+   2[0]:  main of string "/script/task/tollgate/messenger/messenger_t..." at line 7
+
+[2024-05-08 01:46:58] error: <statement> expected;
+  last token read: `°' at line 7 in string "/script/task/tollgate/messenger/wagoner.lua"
+
+[2024-05-08 01:46:58] error: `=' expected;
+  last token read: `É' at line 3 in string "\script\task\tollgate\killbosshead.lua"
+stack traceback:
+   1[1]:  function `Include' [C]
+   2[0]:  main of string "/script/task/tollgate/messenger/posthouse-o..." at line 11
+
+[2024-05-08 01:46:58] error: `=' expected;
+  last token read: `É' at line 3 in string "\script\task\tollgate\killbosshead.lua"
+stack traceback:
+   1[1]:  function `Include' [C]
+   2[0]:  main of string "/script/task/tollgate/addtollgatenpc-old.lu..." at line 8
+
+[2024-05-08 01:46:58] error: `=' expected;
+  last token read: `É' at line 3 in string "/script/task/tollgate/killbosshead-old.lua"
+
+[2024-05-08 01:46:58] error: `=' expected;
+  last token read: `É' at line 3 in string "/script/task/tollgate/killbosshead.lua"
+
+[2024-05-08 01:46:59] error: `end' expected (to close `if' at line 22);
+  last token read: `RemoveSkillState' at line 26 in string "/script/maps/9x.lua"
+
+[2024-05-08 01:47:03] error: `=' expected;
+  last token read: `É' at line 3 in string "\script\task\tollgate\killbosshead.lua"
+stack traceback:
+   1[154]:  function `Include' [C]
+   2[153]:  main of file `script/global/autoexec.lua' at line 6
+   3[151]:  function `dofile' [C]
+   4[150]:  function `main' at line 371 [string "\script\global\autoexec.lua"]
+
+[2024-05-08 01:47:03] error: attempt to call global `add_killertasknpc' (a nil value)
+stack traceback:
+   1[151]:  function `add_alltollgatenpc' at line 12 [string "\script\task\tollgate\addtollgatenpc.lua"]
+   2[150]:  function <370:string "\script\global\autoexec.lua"> at line 412
+

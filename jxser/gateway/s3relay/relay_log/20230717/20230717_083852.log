@@ -1,0 +1,274 @@
+[2023/07/17 08:38:52] Delete event data: ShareKey(EVENT_cailuhongbao), Param1(-1), Param2(-1), Timeout(2020-3-30)
+[2023/07/17 08:38:52] Delete event data: ShareKey(EVENT_MIDAUT_2010), Param1(-1), Param2(-1), Timeout(2020-10-19)
+[2023/07/17 08:38:52] Delete event data: ShareKey(EVENT_dayanqunxia), Param1(-1), Param2(-1), Timeout(2020-3-20)
+[2023/07/17 08:38:52] Delete event data: ShareKey(FUNC_RANK_EQUIPVALUE), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2023/07/17 08:38:52] Delete event data: ShareKey(EVENT_April_zhushuai), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2023/07/17 08:38:52] Loading All Scripts....................
+[2023/07/17 08:38:52] Load Rank FUNC_RANK_EQUIPVALUE
+[2023/07/17 08:38:52] Load Stable Rank count 0
+[2023/07/17 08:38:52] Load Dynamic Rank count 0
+[2023/07/17 08:38:52] Load Rank FUNC_RANK_EQUIPVALUE end
+[2023/07/17 08:38:52] 
+All Scripts Have Been Loaded! Count = 80
+[2023/07/17 08:38:52] root client[:0] create
+[2023/07/17 08:38:54] start autotimer for Ping: 
+[2023/07/17 08:38:54] TRIP_MODE: None
+[2023/07/17 08:38:54] Loading World Setting...
+[2023/07/17 08:38:54] Reset map pho ban thanh cong
+[2023/07/17 08:38:54] gateway client create: 127.0.0.1
+[2023/07/17 08:38:54] 1 tong(s) loaded from tongex DB.
+[2023/07/17 08:38:54] Load LeagueData: LeagueType: 4, Leagues: 7, Roles: 7
+[2023/07/17 08:38:54] Load LeagueData: LeagueType: 500, Leagues: 6, Roles: 6
+[2023/07/17 08:38:54] Load LeagueData: LeagueType: 502, Leagues: 11, Roles: 11
+[2023/07/17 08:38:54] Load LeagueData: LeagueType: 508, Leagues: 7, Roles: 0
+[2023/07/17 08:38:54] Load LeagueData: LeagueType: 509, Leagues: 7, Roles: 0
+[2023/07/17 08:38:54] Load LeagueData: LeagueType: 8888, Leagues: 1, Roles: 0
+[2023/07/17 08:38:54] Load LeagueData: LeagueType: 10000, Leagues: 1, Roles: 0
+[2023/07/17 08:38:54] =====> THONG BAO TIN TUC TU DONG
+[2023/07/17 08:38:54] =====> BAT DAU KHOI DONG CAC TINH NANG CUA GAME VO LAM TRUYEN KY <=====
+[2023/07/17 08:38:54] ****************KHOI DONG NHIEM VU TONG KIM CHIEN QUOC ****************
+[2023/07/17 08:38:54] =====> BATTLE[GuoZhan] 20:50 startup...
+[2023/07/17 08:38:54] =====> [TongKim] Chien Truong Tong Kim 10:50 BAT DAU
+[2023/07/17 08:38:54] =====> [TongKim] Chien Truong Tong Kim 12:50 BAT DAU
+[2023/07/17 08:38:54] =====> [TongKim] Chien Truong Tong Kim 14:50 BAT DAU
+[2023/07/17 08:38:54] =====> [TongKim] Chien Truong Tong Kim 16:50 BAT DAU
+[2023/07/17 08:38:54] =====> [TongKim] Chien Truong Tong Kim 18:50 BAT DAU
+[2023/07/17 08:38:54] =====> [TongKim] Chien Truong Tong Kim 20:50 BAT DAU
+[2023/07/17 08:38:54] =====> [TongKim] Chien Truong Tong Kim 22:50 BAT DAU
+[2023/07/17 08:38:54] =======================>Xoa thong tin Xep Hang<========================
+[2023/07/17 08:38:54] =====> DANH SACH TOP 10 TOAN SERVER 0H
+[2023/07/17 08:38:54] =====> DANH SACH TOP 10 TOAN SERVER 10H
+[2023/07/17 08:38:54] =====> BANG XEP HANG <THACH THUC THOI GIAN> MOI NGAY=======
+[2023/07/17 08:38:54] =====> VUOT AI KHIEU CHIEN THOI GIAN BAT DAU 9:0...
+[2023/07/17 08:38:54] Failed to init statdatamanager!
+[2023/07/17 08:38:54] S3Relay -- S3Relay- Khoi dong hoan tat! 
+[2023/07/17 08:38:54] 
+*
+***** S3Relay Start (@ 147715328/00/43200 00:-86280:135861597.136280271) >>>>>
+*
+
+
+[2023/07/17 08:38:54] SockThread start success
+[2023/07/17 08:38:55] Game Module Is Started. -->Hoat dong mua xuan 2006
+[2023/07/17 08:38:55] Game Module Is Started. -->OpenShop
+[2023/07/17 08:38:55] Game Module Is Started. -->Thiep Chuc Mung Nam Moi
+[2023/07/17 08:38:55] Game Module Is Started. -->Do Pho Hoang Kim
+[2023/07/17 08:38:55] Game Module Is Started. -->Phuc Duyen - Phao Bong
+[2023/07/17 08:38:55] Game Module Is Started. -->Truyen Cong
+[2023/07/17 08:38:55] Game Module Is Started. -->Le vat tinh nhan
+[2023/07/17 08:38:55] Game Module Is Started. -->YANDIBAOZANG
+[2023/07/17 08:38:55] Game Module Is Started. -->YANDIBAOZANG_TALK
+[2023/07/17 08:38:55] Game Module Is Started. -->SWITH_DAIYITOUSHI
+[2023/07/17 08:38:55] Game Module Is Started. -->chunjie2009_dangboss
+[2023/07/17 08:38:55] ===>Xep Hang Khoi Dong Hoan Tat<===
+[2023/07/17 08:39:04] ChatConnection create: 127.0.0.1
+[2023/07/17 08:39:04] HostConnection create: 127.0.0.1
+[2023/07/17 08:39:04] TongConnection create: 127.0.0.1
+[2023/07/17 08:39:10] GameServerLogin: 127.0.0.1
+[2023/07/17 08:39:10] TongDataSendFinish: 127.0.0.1
+[2023/07/17 08:39:10] Assign Dynamic map(948,71064) for GS:0
+[2023/07/17 08:39:10] GS:0 Total Dynamic map:1
+[2023/07/17 08:39:10] GS:0 Total Static map:621
+[2023/07/17 08:39:10] Assign Dynamic map(948,71065) for GS:0
+[2023/07/17 08:39:10] GS:0 Total Dynamic map:2
+[2023/07/17 08:39:10] GS:0 Total Static map:621
+[2023/07/17 08:39:10] Assign Dynamic map(948,71066) for GS:0
+[2023/07/17 08:39:10] GS:0 Total Dynamic map:3
+[2023/07/17 08:39:10] GS:0 Total Static map:621
+[2023/07/17 08:39:10] Assign Dynamic map(948,71067) for GS:0
+[2023/07/17 08:39:10] GS:0 Total Dynamic map:4
+[2023/07/17 08:39:10] GS:0 Total Static map:621
+[2023/07/17 08:39:10] Assign Dynamic map(948,71068) for GS:0
+[2023/07/17 08:39:10] GS:0 Total Dynamic map:5
+[2023/07/17 08:39:10] GS:0 Total Static map:621
+[2023/07/17 08:39:10] Assign Dynamic map(976,65536) for GS:0
+[2023/07/17 08:39:10] GS:0 Total Dynamic map:6
+[2023/07/17 08:39:10] GS:0 Total Static map:621
+[2023/07/17 08:39:10] Assign Dynamic map(976,65537) for GS:0
+[2023/07/17 08:39:10] GS:0 Total Dynamic map:7
+[2023/07/17 08:39:10] GS:0 Total Static map:621
+[2023/07/17 08:39:10] Assign Dynamic map(976,65538) for GS:0
+[2023/07/17 08:39:10] GS:0 Total Dynamic map:8
+[2023/07/17 08:39:10] GS:0 Total Static map:621
+[2023/07/17 08:39:10] Assign Dynamic map(976,65539) for GS:0
+[2023/07/17 08:39:10] GS:0 Total Dynamic map:9
+[2023/07/17 08:39:10] GS:0 Total Static map:621
+[2023/07/17 08:39:10] Assign Dynamic map(976,65540) for GS:0
+[2023/07/17 08:39:10] GS:0 Total Dynamic map:10
+[2023/07/17 08:39:10] GS:0 Total Static map:621
+[2023/07/17 08:39:10] Assign Dynamic map(958,71069) for GS:0
+[2023/07/17 08:39:10] GS:0 Total Dynamic map:11
+[2023/07/17 08:39:10] GS:0 Total Static map:621
+[2023/07/17 08:39:10] Assign Dynamic map(958,71070) for GS:0
+[2023/07/17 08:39:10] GS:0 Total Dynamic map:12
+[2023/07/17 08:39:10] GS:0 Total Static map:621
+[2023/07/17 08:39:10] Assign Dynamic map(958,71071) for GS:0
+[2023/07/17 08:39:10] GS:0 Total Dynamic map:13
+[2023/07/17 08:39:10] GS:0 Total Static map:621
+[2023/07/17 08:39:10] Assign Dynamic map(958,71072) for GS:0
+[2023/07/17 08:39:10] GS:0 Total Dynamic map:14
+[2023/07/17 08:39:10] GS:0 Total Static map:621
+[2023/07/17 08:39:10] Assign Dynamic map(958,71073) for GS:0
+[2023/07/17 08:39:10] GS:0 Total Dynamic map:15
+[2023/07/17 08:39:10] GS:0 Total Static map:621
+[2023/07/17 08:39:10] Assign Dynamic map(975,65541) for GS:0
+[2023/07/17 08:39:10] GS:0 Total Dynamic map:16
+[2023/07/17 08:39:10] GS:0 Total Static map:621
+[2023/07/17 08:39:10] Assign Dynamic map(975,65542) for GS:0
+[2023/07/17 08:39:10] GS:0 Total Dynamic map:17
+[2023/07/17 08:39:10] GS:0 Total Static map:621
+[2023/07/17 08:39:10] Assign Dynamic map(975,65543) for GS:0
+[2023/07/17 08:39:10] GS:0 Total Dynamic map:18
+[2023/07/17 08:39:10] GS:0 Total Static map:621
+[2023/07/17 08:39:10] Assign Dynamic map(975,65544) for GS:0
+[2023/07/17 08:39:10] GS:0 Total Dynamic map:19
+[2023/07/17 08:39:10] GS:0 Total Static map:621
+[2023/07/17 08:39:10] Assign Dynamic map(975,65545) for GS:0
+[2023/07/17 08:39:10] GS:0 Total Dynamic map:20
+[2023/07/17 08:39:10] GS:0 Total Static map:621
+[2023/07/17 09:00:54] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/07/17 09:04:59] ChatConnection close: 127.0.0.1
+[2023/07/17 09:04:59] TongConnection close: 127.0.0.1
+[2023/07/17 09:04:59] HostConnection close: 127.0.0.1
+[2023/07/17 09:05:25] ChatConnection create: 127.0.0.1
+[2023/07/17 09:05:25] TongConnection create: 127.0.0.1
+[2023/07/17 09:05:25] HostConnection create: 127.0.0.1
+[2023/07/17 09:05:30] GameServerLogin: 127.0.0.1
+[2023/07/17 09:05:30] TongDataSendFinish: 127.0.0.1
+[2023/07/17 09:05:31] Assign Dynamic map(976,65546) for GS:0
+[2023/07/17 09:05:31] GS:0 Total Dynamic map:21
+[2023/07/17 09:05:31] GS:0 Total Static map:621
+[2023/07/17 09:05:31] Assign Dynamic map(976,65547) for GS:0
+[2023/07/17 09:05:31] GS:0 Total Dynamic map:22
+[2023/07/17 09:05:31] GS:0 Total Static map:621
+[2023/07/17 09:05:31] Assign Dynamic map(976,65548) for GS:0
+[2023/07/17 09:05:31] GS:0 Total Dynamic map:23
+[2023/07/17 09:05:31] GS:0 Total Static map:621
+[2023/07/17 09:05:31] Assign Dynamic map(976,65549) for GS:0
+[2023/07/17 09:05:31] GS:0 Total Dynamic map:24
+[2023/07/17 09:05:31] GS:0 Total Static map:621
+[2023/07/17 09:05:31] Assign Dynamic map(976,65550) for GS:0
+[2023/07/17 09:05:31] GS:0 Total Dynamic map:25
+[2023/07/17 09:05:31] GS:0 Total Static map:621
+[2023/07/17 09:05:31] Assign Dynamic map(975,65551) for GS:0
+[2023/07/17 09:05:31] GS:0 Total Dynamic map:26
+[2023/07/17 09:05:31] GS:0 Total Static map:621
+[2023/07/17 09:05:31] Assign Dynamic map(975,65552) for GS:0
+[2023/07/17 09:05:31] GS:0 Total Dynamic map:27
+[2023/07/17 09:05:31] GS:0 Total Static map:621
+[2023/07/17 09:05:31] Assign Dynamic map(975,65553) for GS:0
+[2023/07/17 09:05:31] GS:0 Total Dynamic map:28
+[2023/07/17 09:05:31] GS:0 Total Static map:621
+[2023/07/17 09:05:31] Assign Dynamic map(975,65554) for GS:0
+[2023/07/17 09:05:31] GS:0 Total Dynamic map:29
+[2023/07/17 09:05:31] GS:0 Total Static map:621
+[2023/07/17 09:05:31] Assign Dynamic map(975,65555) for GS:0
+[2023/07/17 09:05:31] GS:0 Total Dynamic map:30
+[2023/07/17 09:05:31] GS:0 Total Static map:621
+[2023/07/17 09:05:40] ChatConnection close: 127.0.0.1
+[2023/07/17 09:05:40] TongConnection close: 127.0.0.1
+[2023/07/17 09:05:40] HostConnection close: 127.0.0.1
+[2023/07/17 09:06:01] ChatConnection create: 127.0.0.1
+[2023/07/17 09:06:01] TongConnection create: 127.0.0.1
+[2023/07/17 09:06:01] HostConnection create: 127.0.0.1
+[2023/07/17 09:06:06] GameServerLogin: 127.0.0.1
+[2023/07/17 09:06:06] TongDataSendFinish: 127.0.0.1
+[2023/07/17 09:06:07] Assign Dynamic map(976,65556) for GS:0
+[2023/07/17 09:06:07] GS:0 Total Dynamic map:31
+[2023/07/17 09:06:07] GS:0 Total Static map:621
+[2023/07/17 09:06:07] Assign Dynamic map(976,65557) for GS:0
+[2023/07/17 09:06:07] GS:0 Total Dynamic map:32
+[2023/07/17 09:06:07] GS:0 Total Static map:621
+[2023/07/17 09:06:07] Assign Dynamic map(976,65558) for GS:0
+[2023/07/17 09:06:07] GS:0 Total Dynamic map:33
+[2023/07/17 09:06:07] GS:0 Total Static map:621
+[2023/07/17 09:06:07] Assign Dynamic map(976,65559) for GS:0
+[2023/07/17 09:06:07] GS:0 Total Dynamic map:34
+[2023/07/17 09:06:07] GS:0 Total Static map:621
+[2023/07/17 09:06:07] Assign Dynamic map(976,65560) for GS:0
+[2023/07/17 09:06:07] GS:0 Total Dynamic map:35
+[2023/07/17 09:06:07] GS:0 Total Static map:621
+[2023/07/17 09:06:07] Assign Dynamic map(975,65561) for GS:0
+[2023/07/17 09:06:07] GS:0 Total Dynamic map:36
+[2023/07/17 09:06:07] GS:0 Total Static map:621
+[2023/07/17 09:06:07] Assign Dynamic map(975,65562) for GS:0
+[2023/07/17 09:06:07] GS:0 Total Dynamic map:37
+[2023/07/17 09:06:07] GS:0 Total Static map:621
+[2023/07/17 09:06:07] Assign Dynamic map(975,65563) for GS:0
+[2023/07/17 09:06:07] GS:0 Total Dynamic map:38
+[2023/07/17 09:06:07] GS:0 Total Static map:621
+[2023/07/17 09:06:07] Assign Dynamic map(975,65564) for GS:0
+[2023/07/17 09:06:07] GS:0 Total Dynamic map:39
+[2023/07/17 09:06:07] GS:0 Total Static map:621
+[2023/07/17 09:06:07] Assign Dynamic map(975,65565) for GS:0
+[2023/07/17 09:06:07] GS:0 Total Dynamic map:40
+[2023/07/17 09:06:07] GS:0 Total Static map:621
+[2023/07/17 09:06:14] ChatConnection close: 127.0.0.1
+[2023/07/17 09:06:14] TongConnection close: 127.0.0.1
+[2023/07/17 09:06:14] HostConnection close: 127.0.0.1
+[2023/07/17 09:07:30] ChatConnection create: 127.0.0.1
+[2023/07/17 09:07:30] TongConnection create: 127.0.0.1
+[2023/07/17 09:07:30] HostConnection create: 127.0.0.1
+[2023/07/17 09:07:35] GameServerLogin: 127.0.0.1
+[2023/07/17 09:07:35] TongDataSendFinish: 127.0.0.1
+[2023/07/17 09:07:36] Assign Dynamic map(976,65566) for GS:0
+[2023/07/17 09:07:36] GS:0 Total Dynamic map:41
+[2023/07/17 09:07:36] GS:0 Total Static map:621
+[2023/07/17 09:07:36] Assign Dynamic map(976,65567) for GS:0
+[2023/07/17 09:07:36] GS:0 Total Dynamic map:42
+[2023/07/17 09:07:36] GS:0 Total Static map:621
+[2023/07/17 09:07:36] Assign Dynamic map(976,65568) for GS:0
+[2023/07/17 09:07:36] GS:0 Total Dynamic map:43
+[2023/07/17 09:07:36] GS:0 Total Static map:621
+[2023/07/17 09:07:36] Assign Dynamic map(976,65569) for GS:0
+[2023/07/17 09:07:36] GS:0 Total Dynamic map:44
+[2023/07/17 09:07:36] GS:0 Total Static map:621
+[2023/07/17 09:07:36] Assign Dynamic map(976,65570) for GS:0
+[2023/07/17 09:07:36] GS:0 Total Dynamic map:45
+[2023/07/17 09:07:36] GS:0 Total Static map:621
+[2023/07/17 09:07:36] Assign Dynamic map(958,71074) for GS:0
+[2023/07/17 09:07:36] GS:0 Total Dynamic map:46
+[2023/07/17 09:07:36] GS:0 Total Static map:621
+[2023/07/17 09:07:36] Assign Dynamic map(958,71075) for GS:0
+[2023/07/17 09:07:36] GS:0 Total Dynamic map:47
+[2023/07/17 09:07:36] GS:0 Total Static map:621
+[2023/07/17 09:07:36] Assign Dynamic map(958,71076) for GS:0
+[2023/07/17 09:07:36] GS:0 Total Dynamic map:48
+[2023/07/17 09:07:36] GS:0 Total Static map:621
+[2023/07/17 09:07:36] Assign Dynamic map(958,71077) for GS:0
+[2023/07/17 09:07:36] GS:0 Total Dynamic map:49
+[2023/07/17 09:07:36] GS:0 Total Static map:621
+[2023/07/17 09:07:36] Assign Dynamic map(958,71078) for GS:0
+[2023/07/17 09:07:36] GS:0 Total Dynamic map:50
+[2023/07/17 09:07:36] GS:0 Total Static map:621
+[2023/07/17 09:07:36] Assign Dynamic map(975,65571) for GS:0
+[2023/07/17 09:07:36] GS:0 Total Dynamic map:51
+[2023/07/17 09:07:36] GS:0 Total Static map:621
+[2023/07/17 09:07:36] Assign Dynamic map(975,65572) for GS:0
+[2023/07/17 09:07:36] GS:0 Total Dynamic map:52
+[2023/07/17 09:07:36] GS:0 Total Static map:621
+[2023/07/17 09:07:36] Assign Dynamic map(975,65573) for GS:0
+[2023/07/17 09:07:36] GS:0 Total Dynamic map:53
+[2023/07/17 09:07:36] GS:0 Total Static map:621
+[2023/07/17 09:07:36] Assign Dynamic map(975,65574) for GS:0
+[2023/07/17 09:07:36] GS:0 Total Dynamic map:54
+[2023/07/17 09:07:36] GS:0 Total Static map:621
+[2023/07/17 09:07:36] Assign Dynamic map(975,65575) for GS:0
+[2023/07/17 09:07:36] GS:0 Total Dynamic map:55
+[2023/07/17 09:07:36] GS:0 Total Static map:621
+[2023/07/17 09:07:43] ChatConnection close: 127.0.0.1
+[2023/07/17 09:07:43] TongConnection close: 127.0.0.1
+[2023/07/17 09:07:43] HostConnection close: 127.0.0.1
+[2023/07/17 10:00:54] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/07/17 10:50:54] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/07/17 10:50:54] [2023-07-17 10:50:54]  NEW BATTLE START
+[2023/07/17 10:50:54] BattleID: 1   BattleLevel: 1   Issue: 3   2th.Round
+[2023/07/17 10:50:54] RoundID: 3   MapPattern: 12   BattleMapID:  14   WorldMapID: 378   MapName: Hoµng Sa L©m Ngao ChiÕn   RuleID: 7
+[2023/07/17 10:50:54] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/07/17 10:50:54] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/07/17 10:50:54] [2023-07-17 10:50:54]  NEW BATTLE START
+[2023/07/17 10:50:54] BattleID: 1   BattleLevel: 2   Issue: 3   2th.Round
+[2023/07/17 10:50:54] RoundID: 3   MapPattern: 12   BattleMapID:  14   WorldMapID: 379   MapName: Hoµng Sa L©m Ngao ChiÕn   RuleID: 7
+[2023/07/17 10:50:54] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/07/17 10:50:54] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/07/17 10:50:54] [2023-07-17 10:50:

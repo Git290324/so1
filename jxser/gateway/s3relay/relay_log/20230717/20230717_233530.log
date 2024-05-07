@@ -1,0 +1,68 @@
+[2023/07/17 23:35:30] Loading All Scripts....................
+[2023/07/17 23:35:30] load[NIL] is not supported!!!
+[2023/07/17 23:35:30] Load Rank FUNC_RANK_EQUIPVALUE
+[2023/07/17 23:35:30] Load Stable Rank count 0
+[2023/07/17 23:35:30] Load Dynamic Rank count 0
+[2023/07/17 23:35:30] Load Rank FUNC_RANK_EQUIPVALUE end
+[2023/07/17 23:35:30] 
+All Scripts Have Been Loaded! Count = 80
+[2023/07/17 23:35:30] root client[:0] create
+[2023/07/17 23:35:32] start autotimer for Ping: 
+[2023/07/17 23:35:32] TRIP_MODE: None
+[2023/07/17 23:35:32] Loading World Setting...
+[2023/07/17 23:35:32] gateway client create: 127.0.0.1
+[2023/07/17 23:35:32] Reset map pho ban thanh cong
+[2023/07/17 23:35:33] Load League Data...Not League Data.
+[2023/07/17 23:35:33] =====> THONG BAO TIN TUC TU DONG
+[2023/07/17 23:35:33] =====> BAT DAU KHOI DONG CAC TINH NANG CUA GAME VO LAM TRUYEN KY <=====
+[2023/07/17 23:35:33] ****************KHOI DONG NHIEM VU TONG KIM CHIEN QUOC ****************
+[2023/07/17 23:35:33] =====> BATTLE[GuoZhan] 20:50 startup...
+[2023/07/17 23:35:33] =====> [TongKim] Chien Truong Tong Kim 10:50 BAT DAU
+[2023/07/17 23:35:33] =====> [TongKim] Chien Truong Tong Kim 12:50 BAT DAU
+[2023/07/17 23:35:33] =====> [TongKim] Chien Truong Tong Kim 14:50 BAT DAU
+[2023/07/17 23:35:33] =====> [TongKim] Chien Truong Tong Kim 16:50 BAT DAU
+[2023/07/17 23:35:33] =====> [TongKim] Chien Truong Tong Kim 18:50 BAT DAU
+[2023/07/17 23:35:33] =====> [TongKim] Chien Truong Tong Kim 20:50 BAT DAU
+[2023/07/17 23:35:33] =====> [TongKim] Chien Truong Tong Kim 22:50 BAT DAU
+[2023/07/17 23:35:33] =======================>Xoa thong tin Xep Hang<========================
+[2023/07/17 23:35:33] =====> DANH SACH TOP 10 TOAN SERVER 0H
+[2023/07/17 23:35:33] =====> DANH SACH TOP 10 TOAN SERVER 10H
+[2023/07/17 23:35:33] =====> BANG XEP HANG <THACH THUC THOI GIAN> MOI NGAY=======
+[2023/07/17 23:35:33] =====> VUOT AI KHIEU CHIEN THOI GIAN BAT DAU 0:0...
+[2023/07/17 23:35:33] Failed to init statdatamanager!
+[2023/07/17 23:35:33] S3Relay -- S3Relay- Khoi dong hoan tat! 
+[2023/07/17 23:35:33] 
+*
+***** S3Relay Start (@ 141956352/00/43200 00:-7393400:135861597.136280271) >>>>>
+*
+
+
+[2023/07/17 23:35:33] SockThread start success
+[2023/07/17 23:35:33] Game Module Is Started. -->Hoat dong mua xuan 2006
+[2023/07/17 23:35:33] New Game Module Is Started. -->Hoat dong mua xuan 2006
+[2023/07/17 23:35:33] Game Module Is Started. -->OpenShop
+[2023/07/17 23:35:33] New Game Module Is Started. -->OpenShop
+[2023/07/17 23:35:33] Game Module Is Started. -->Thiep Chuc Mung Nam Moi
+[2023/07/17 23:35:33] New Game Module Is Started. -->Thiep Chuc Mung Nam Moi
+[2023/07/17 23:35:33] Game Module Is Started. -->Do Pho Hoang Kim
+[2023/07/17 23:35:33] New Game Module Is Started. -->Do Pho Hoang Kim
+[2023/07/17 23:35:33] Game Module Is Started. -->Phuc Duyen - Phao Bong
+[2023/07/17 23:35:33] New Game Module Is Started. -->Phuc Duyen - Phao Bong
+[2023/07/17 23:35:33] Game Module Is Started. -->Truyen Cong
+[2023/07/17 23:35:33] New Game Module Is Started. -->Truyen Cong
+[2023/07/17 23:35:33] Game Module Is Started. -->Le vat tinh nhan
+[2023/07/17 23:35:33] New Game Module Is Started. -->Le vat tinh nhan
+[2023/07/17 23:35:33] Game Module Is Started. -->YANDIBAOZANG
+[2023/07/17 23:35:33] New Game Module Is Started. -->YANDIBAOZANG
+[2023/07/17 23:35:33] Game Module Is Started. -->YANDIBAOZANG_TALK
+[2023/07/17 23:35:33] New Game Module Is Started. -->YANDIBAOZANG_TALK
+[2023/07/17 23:35:33] Game Module Is Started. -->SWITH_DAIYITOUSHI
+[2023/07/17 23:35:33] New Game Module Is Started. -->SWITH_DAIYITOUSHI
+[2023/07/17 23:35:33] Game Module Is Started. -->chunjie2009_dangboss
+[2023/07/17 23:35:33] New Game Module Is Started. -->chunjie2009_dangboss
+[2023/07/17 23:35:33] ===>Xep Hang Khoi Dong Hoan Tat<===
+[2023/07/17 23:35:37] ChatConnection create: 127.0.0.1
+[2023/07/17 23:35:37] TongConnection create: 127.0.0.1
+[2023/07/17 23:35:37] HostConnection create: 127.0.0.1
+[2023/07/17 23:35:42] TongDataSendFinish: 127.0.0.1
+[2023/07/17 23:35:42] GameServerLogin:

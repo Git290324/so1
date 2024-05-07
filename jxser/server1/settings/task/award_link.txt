@@ -1,0 +1,36 @@
+Num	Name	Quality	Genre	Detail	Particular	Level	GoodsFive	Magiclevel	TaskValue
+100	Tiªn Th¶o Lé 	0	6	1	71	0	1	0	10000
+200	Thiªn s¬n  B¶o Lé 	0	6	1	72	0	1	0	10000
+300	QuÕ Hoa Töu 	0	6	1	125	0	1	0	10000
+400	Tö Thñy Tinh	0	4	239	1	0	1	0	10000
+400	Lam Thñy Tinh	0	4	238	1	0	1	0	10000
+400	Lôc Thñy Tinh	0	4	240	1	0	1	0	10000
+500	Tinh Hång B¶o Th¹ch	0	4	353	1	0	1	0	10000
+1000	Tiªn Th¶o Lé ®Æc biÖt 	0	6	1	1765	0	1	0	10000
+1300	Vâ L©m MËt TÞch 	0	6	1	26	0	1	0	10000
+1600	TÈy Tñy Kinh 	0	6	1	22	0	1	0	10000
+2000	§Þnh Quèc CÈm Nang 	0	6	1	1260	0	1	0	10000
+3000	An Bang CÈm Nang 	0	6	1	1261	0	1	0	10000
+6000	Méng Long Kim Ti ChÝnh Hång Cµ Sa	1	2	0	0	0	1	0	10000
+6000	Tø Kh«ng Gi¸ng Ma Giíi ®ao	1	11	0	0	0	1	0	10000
+6000	Phôc Ma Tö Kim C«n	1	6	0	0	0	1	0	10000
+6000	KÕ NghiÖp B«n L«i Toµn Long th­¬ng	1	21	0	0	0	1	0	10000
+6000	Ngù Long L­îng Ng©n B¶o ®ao	1	26	0	0	0	1	0	10000
+6000	§Þa Ph¸ch H¾c DiÖm Xung Thiªn Liªn	1	87	0	0	0	1	0	10000
+6000	B¨ng Hµn §¬n ChØ Phi §ao	1	71	0	0	0	1	0	10000
+6000	S©m Hoang Phi Tinh §o¹t Hån	1	81	0	0	0	1	0	10000
+6000	Thiªn Quang §Þnh T©m Ng­ng ThÇn Phï 	1	77	0	0	0	1	0	10000
+6000	Chó Ph­îc DiÖt L«i C¶nh Phï 	1	67	0	0	0	1	0	10000
+6000	Minh ¶o Tµ S¸t §éc NhËn	1	61	0	0	0	1	0	10000
+6000	Tª Hoµng Phông Nghi ®ao	1	46	0	0	0	1	0	10000
+6000	BÝch H¶i Uyªn ¦¬ng Liªn Hoµn ®ao	1	51	0	0	0	1	0	10000
+6000	V« Ma Hång Truy NhuyÔn Th¸p hµi	1	40	0	0	0	1	0	10000
+6000	V« Ma TÈy T­îng Ngäc KhÊu 	1	39	0	0	0	1	0	10000
+6000	CËp Phong Tam Thanh Phï 	1	122	0	0	0	1	0	10000
+6000	Vô ¶o B¾c Minh §¹o qu¸n	1	136	0	0	0	1	0	10000
+6000	S­¬ng Tinh Thiªn Niªn Hµn ThiÕt	1	126	0	0	0	1	0	10000
+6000	L«i Khung Thiªn §Þa Hé phï 	1	132	0	0	0	1	0	10000
+6000	Ma ThÞ s¬n  H¶i Phi Hång Lý 	1	115	0	0	0	1	0	10000
+6000	Ma Hoµng ¸n XuÊt Hæ H¹ng Khuyªn	1	107	0	0	0	1	0	10000
+6000	§ång Cõu Kh¸ng Long Hé UyÓn	1	94	0	0	0	1	0	10000
+6000	§Þch Kh¸i Lôc Ngäc Tr­îng	1	96	0	0	0	1	0	10000

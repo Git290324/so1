@@ -1,0 +1,121 @@
+[2023/01/07 21:01:00] Delete event data: ShareKey(EVENT_cailuhongbao), Param1(-1), Param2(-1), Timeout(2020-3-30)
+[2023/01/07 21:01:00] Delete event data: ShareKey(EVENT_MIDAUT_2010), Param1(-1), Param2(-1), Timeout(2020-10-19)
+[2023/01/07 21:01:00] Delete event data: ShareKey(EVENT_dayanqunxia), Param1(-1), Param2(-1), Timeout(2020-3-20)
+[2023/01/07 21:01:00] Delete event data: ShareKey(FUNC_RANK_EQUIPVALUE), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2023/01/07 21:01:00] Delete event data: ShareKey(EVENT_April_zhushuai), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2023/01/07 21:01:00] Loading All Scripts....................
+[2023/01/07 21:01:00] Load Rank FUNC_RANK_EQUIPVALUE
+[2023/01/07 21:01:00] Load Stable Rank count 0
+[2023/01/07 21:01:00] Load Dynamic Rank count 0
+[2023/01/07 21:01:00] Load Rank FUNC_RANK_EQUIPVALUE end
+[2023/01/07 21:01:00] 
+All Scripts Have Been Loaded! Count = 80
+[2023/01/07 21:01:00] root client[:0] create
+[2023/01/07 21:01:02] start autotimer for Ping: 
+[2023/01/07 21:01:02] gateway client create: 127.0.0.1
+[2023/01/07 21:01:02] TRIP_MODE: None
+[2023/01/07 21:01:02] Loading World Setting...
+[2023/01/07 21:01:02] Reset map pho ban thanh cong
+[2023/01/07 21:01:02] Load LeagueData: LeagueType: 4, Leagues: 7, Roles: 7
+[2023/01/07 21:01:02] Load LeagueData: LeagueType: 500, Leagues: 1, Roles: 1
+[2023/01/07 21:01:02] Load LeagueData: LeagueType: 502, Leagues: 11, Roles: 11
+[2023/01/07 21:01:02] Load LeagueData: LeagueType: 10000, Leagues: 1, Roles: 0
+[2023/01/07 21:01:02] =====> THONG BAO TIN TUC TU DONG
+[2023/01/07 21:01:02] =====> BAT DAU KHOI DONG CAC TINH NANG CUA GAME VO LAM TRUYEN KY <=====
+[2023/01/07 21:01:02] ****************KHOI DONG NHIEM VU TONG KIM CHIEN QUOC ****************
+[2023/01/07 21:01:02] =====> BATTLE[GuoZhan] 20:50 startup...
+[2023/01/07 21:01:02] =====> [TongKim] Chien Truong Tong Kim 12:50 BAT DAU
+[2023/01/07 21:01:02] =====> [TongKim] Chien Truong Tong Kim 14:50 BAT DAU
+[2023/01/07 21:01:02] =====> [TongKim] Chien Truong Tong Kim 20:50 BAT DAU
+[2023/01/07 21:01:02] =====> [TongKim] Chien Truong Tong Kim 22:50 BAT DAU
+[2023/01/07 21:01:02] =======================>Xoa thong tin Xep Hang<========================
+[2023/01/07 21:01:02] =====> BANG XEP HANG <THACH THUC THOI GIAN> MOI NGAY=======
+[2023/01/07 21:01:02] =====> VUOT AI KHIEU CHIEN THOI GIAN BAT DAU 22:0...
+[2023/01/07 21:01:02] Failed to init statdatamanager!
+[2023/01/07 21:01:02] S3Relay -- S3Relay- Khoi dong hoan tat! 
+[2023/01/07 21:01:02] 
+*
+***** S3Relay Start (@ 159712488/00/43200 00:-6261144:135861597.136280271) >>>>>
+*
+
+
+[2023/01/07 21:01:02] SockThread start success
+[2023/01/07 21:01:02] Game Module Is Started. -->Hoat dong mua xuan 2006
+[2023/01/07 21:01:02] Game Module Is Started. -->OpenShop
+[2023/01/07 21:01:02] Game Module Is Started. -->Thiep Chuc Mung Nam Moi
+[2023/01/07 21:01:02] Game Module Is Started. -->Do Pho Hoang Kim
+[2023/01/07 21:01:02] Game Module Is Started. -->Phuc Duyen - Phao Bong
+[2023/01/07 21:01:02] Game Module Is Started. -->Truyen Cong
+[2023/01/07 21:01:02] Game Module Is Started. -->Le vat tinh nhan
+[2023/01/07 21:01:02] Game Module Is Started. -->YANDIBAOZANG
+[2023/01/07 21:01:02] Game Module Is Started. -->YANDIBAOZANG_TALK
+[2023/01/07 21:01:02] Game Module Is Started. -->SWITH_DAIYITOUSHI
+[2023/01/07 21:01:02] Game Module Is Started. -->chunjie2009_dangboss
+[2023/01/07 21:01:02] ===>Xep Hang Khoi Dong Hoan Tat<===
+[2023/01/07 21:01:21] ChatConnection create: 127.0.0.1
+[2023/01/07 21:01:21] HostConnection create: 127.0.0.1
+[2023/01/07 21:01:21] TongConnection create: 127.0.0.1
+[2023/01/07 21:01:30] TongDataSendFinish: 127.0.0.1
+[2023/01/07 21:01:30] GameServerLogin: 127.0.0.1
+[2023/01/07 21:01:31] Assign Dynamic map(948,70165) for GS:0
+[2023/01/07 21:01:31] GS:0 Total Dynamic map:1
+[2023/01/07 21:01:31] GS:0 Total Static map:621
+[2023/01/07 21:01:31] Assign Dynamic map(948,70166) for GS:0
+[2023/01/07 21:01:31] GS:0 Total Dynamic map:2
+[2023/01/07 21:01:31] GS:0 Total Static map:621
+[2023/01/07 21:01:31] Assign Dynamic map(948,70167) for GS:0
+[2023/01/07 21:01:31] GS:0 Total Dynamic map:3
+[2023/01/07 21:01:31] GS:0 Total Static map:621
+[2023/01/07 21:01:31] Assign Dynamic map(948,70168) for GS:0
+[2023/01/07 21:01:31] GS:0 Total Dynamic map:4
+[2023/01/07 21:01:31] GS:0 Total Static map:621
+[2023/01/07 21:01:31] Assign Dynamic map(948,70169) for GS:0
+[2023/01/07 21:01:31] GS:0 Total Dynamic map:5
+[2023/01/07 21:01:31] GS:0 Total Static map:621
+[2023/01/07 21:01:31] Assign Dynamic map(976,65536) for GS:0
+[2023/01/07 21:01:31] GS:0 Total Dynamic map:6
+[2023/01/07 21:01:31] GS:0 Total Static map:621
+[2023/01/07 21:01:31] Assign Dynamic map(976,65537) for GS:0
+[2023/01/07 21:01:31] GS:0 Total Dynamic map:7
+[2023/01/07 21:01:31] GS:0 Total Static map:621
+[2023/01/07 21:01:31] Assign Dynamic map(976,65538) for GS:0
+[2023/01/07 21:01:31] GS:0 Total Dynamic map:8
+[2023/01/07 21:01:31] GS:0 Total Static map:621
+[2023/01/07 21:01:31] Assign Dynamic map(976,65539) for GS:0
+[2023/01/07 21:01:31] GS:0 Total Dynamic map:9
+[2023/01/07 21:01:31] GS:0 Total Static map:621
+[2023/01/07 21:01:31] Assign Dynamic map(976,65540) for GS:0
+[2023/01/07 21:01:31] GS:0 Total Dynamic map:10
+[2023/01/07 21:01:31] GS:0 Total Static map:621
+[2023/01/07 21:01:31] Assign Dynamic map(958,70170) for GS:0
+[2023/01/07 21:01:31] GS:0 Total Dynamic map:11
+[2023/01/07 21:01:31] GS:0 Total Static map:621
+[2023/01/07 21:01:31] Assign Dynamic map(958,70171) for GS:0
+[2023/01/07 21:01:31] GS:0 Total Dynamic map:12
+[2023/01/07 21:01:31] GS:0 Total Static map:621
+[2023/01/07 21:01:31] Assign Dynamic map(958,70172) for GS:0
+[2023/01/07 21:01:31] GS:0 Total Dynamic map:13
+[2023/01/07 21:01:31] GS:0 Total Static map:621
+[2023/01/07 21:01:31] Assign Dynamic map(958,70173) for GS:0
+[2023/01/07 21:01:31] GS:0 Total Dynamic map:14
+[2023/01/07 21:01:31] GS:0 Total Static map:621
+[2023/01/07 21:01:31] Assign Dynamic map(958,70174) for GS:0
+[2023/01/07 21:01:31] GS:0 Total Dynamic map:15
+[2023/01/07 21:01:31] GS:0 Total Static map:621
+[2023/01/07 21:01:31] Assign Dynamic map(975,65541) for GS:0
+[2023/01/07 21:01:31] GS:0 Total Dynamic map:16
+[2023/01/07 21:01:31] GS:0 Total Static map:621
+[2023/01/07 21:01:31] Assign Dynamic map(975,65542) for GS:0
+[2023/01/07 21:01:31] GS:0 Total Dynamic map:17
+[2023/01/07 21:01:31] GS:0 Total Static map:621
+[2023/01/07 21:01:31] Assign Dynamic map(975,65543) for GS:0
+[2023/01/07 21:01:31] GS:0 Total Dynamic map:18
+[2023/01/07 21:01:31] GS:0 Total Static map:621
+[2023/01/07 21:01:31] Assign Dynamic map(975,65544) for GS:0
+[2023/01/07 21:01:31] GS:0 Total Dynamic map:19
+[2023/01/07 21:01:31] GS:0 Total Static map:621
+[2023/01/07 21:01:31] Assign Dynamic map(975,65545) for GS:0
+[2023/01/07 21:01:31] GS:0 Total Dynamic map:20
+[2023/01/07 21:01:31] GS:0 Total Static map:621
+[2023/01/07 21:03:29] HostConnection close: 127.0.0.1
+[2023/01/07 21:03:29] TongConnection close: 127.0.0.1

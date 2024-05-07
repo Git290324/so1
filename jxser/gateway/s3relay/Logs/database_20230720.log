@@ -1,0 +1,37 @@
+[2023-07-20 07:23:16]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-20 07:38:18]QueryCount:140, ErrorCount:0
+[2023-07-20 07:38:18]Close database
+[2023-07-20 07:38:37]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-20 08:01:09]QueryCount:130, ErrorCount:0
+[2023-07-20 08:01:09]Close database
+[2023-07-20 08:01:13]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-20 08:48:05]QueryCount:62, ErrorCount:0
+[2023-07-20 08:48:05]Close database
+[2023-07-20 08:50:53]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-20 09:35:24]QueryCount:62, ErrorCount:0
+[2023-07-20 09:35:24]Close database
+[2023-07-20 09:36:23]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-20 12:24:18]QueryCount:86, ErrorCount:0
+[2023-07-20 12:24:18]Close database
+[2023-07-20 12:24:33]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-20 12:26:54]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-20 16:34:05]QueryCount:102, ErrorCount:0
+[2023-07-20 16:34:05]Close database
+[2023-07-20 16:34:09]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-20 16:38:11]QueryCount:62, ErrorCount:0
+[2023-07-20 16:38:11]Close database
+[2023-07-20 16:38:19]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-20 16:56:51]QueryCount:98, ErrorCount:0
+[2023-07-20 16:56:51]Close database
+[2023-07-20 16:56:58]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-20 17:00:50]QueryCount:66, ErrorCount:0
+[2023-07-20 17:00:50]Close database
+[2023-07-20 17:00:53]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-20 17:43:39]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-20 21:43:41]sql[SELECT COUNT(*) FROM ShareData WHERE ShareKey='GAME_LADDER\0' AND Param1=10271 AND Param2=1] fail: Table 'server1.ShareData' doesn't exist
+[2023-07-20 21:47:02]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-20 21:53:54]QueryCount:428, ErrorCount:0
+[2023-07-20 21:53:54]Close database
+[2023-07-20 21:54:02]Connect to database[server1] on 127.0.0.1:3306
+[2023-07-21 07:16:30]QueryCount:566, ErrorCount:0
+[2023-07-21 07:16:30]Close database

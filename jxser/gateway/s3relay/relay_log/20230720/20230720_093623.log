@@ -1,0 +1,95 @@
+[2023/07/20 09:36:23] Delete event data: ShareKey(EVENT_cailuhongbao), Param1(-1), Param2(-1), Timeout(2020-3-30)
+[2023/07/20 09:36:23] Delete event data: ShareKey(EVENT_MIDAUT_2010), Param1(-1), Param2(-1), Timeout(2020-10-19)
+[2023/07/20 09:36:23] Delete event data: ShareKey(EVENT_dayanqunxia), Param1(-1), Param2(-1), Timeout(2020-3-20)
+[2023/07/20 09:36:23] Delete event data: ShareKey(FUNC_RANK_EQUIPVALUE), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2023/07/20 09:36:23] Delete event data: ShareKey(EVENT_April_zhushuai), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2023/07/20 09:36:23] Loading All Scripts....................
+[2023/07/20 09:36:23] Load Rank FUNC_RANK_EQUIPVALUE
+[2023/07/20 09:36:23] Load Stable Rank count 0
+[2023/07/20 09:36:23] Load Dynamic Rank count 0
+[2023/07/20 09:36:23] Load Rank FUNC_RANK_EQUIPVALUE end
+[2023/07/20 09:36:23] 
+All Scripts Have Been Loaded! Count = 80
+[2023/07/20 09:36:23] root client[:0] create
+[2023/07/20 09:36:25] start autotimer for Ping: 
+[2023/07/20 09:36:25] gateway client create: 127.0.0.1
+[2023/07/20 09:36:25] TRIP_MODE: None
+[2023/07/20 09:36:25] Loading World Setting...
+[2023/07/20 09:36:25] Reset map pho ban thanh cong
+[2023/07/20 09:36:25] Load LeagueData: LeagueType: 4, Leagues: 7, Roles: 7
+[2023/07/20 09:36:25] Load LeagueData: LeagueType: 502, Leagues: 11, Roles: 11
+[2023/07/20 09:36:25] Load LeagueData: LeagueType: 10000, Leagues: 1, Roles: 0
+[2023/07/20 09:36:25] =====> THONG BAO TIN TUC TU DONG
+[2023/07/20 09:36:25] =====> BAT DAU KHOI DONG CAC TINH NANG CUA GAME VO LAM TRUYEN KY <=====
+[2023/07/20 09:36:25] ****************KHOI DONG NHIEM VU TONG KIM CHIEN QUOC ****************
+[2023/07/20 09:36:25] =====> BATTLE[GuoZhan] 20:50 startup...
+[2023/07/20 09:36:25] =====> [TongKim] Chien Truong Tong Kim 10:50 BAT DAU
+[2023/07/20 09:36:25] =====> [TongKim] Chien Truong Tong Kim 12:50 BAT DAU
+[2023/07/20 09:36:25] =====> [TongKim] Chien Truong Tong Kim 14:50 BAT DAU
+[2023/07/20 09:36:25] =====> [TongKim] Chien Truong Tong Kim 16:50 BAT DAU
+[2023/07/20 09:36:25] =====> [TongKim] Chien Truong Tong Kim 18:50 BAT DAU
+[2023/07/20 09:36:25] =====> [TongKim] Chien Truong Tong Kim 20:50 BAT DAU
+[2023/07/20 09:36:25] =====> [TongKim] Chien Truong Tong Kim 22:50 BAT DAU
+[2023/07/20 09:36:25] =======================>Xoa thong tin Xep Hang<========================
+[2023/07/20 09:36:25] =====> DANH SACH TOP 10 TOAN SERVER 0H
+[2023/07/20 09:36:25] =====> DANH SACH TOP 10 TOAN SERVER 10H
+[2023/07/20 09:36:25] =====> BANG XEP HANG <THACH THUC THOI GIAN> MOI NGAY=======
+[2023/07/20 09:36:25] =====> VUOT AI KHIEU CHIEN THOI GIAN BAT DAU 10:0...
+[2023/07/20 09:36:25] Failed to init statdatamanager!
+[2023/07/20 09:36:25] S3Relay -- S3Relay- Khoi dong hoan tat! 
+[2023/07/20 09:36:25] 
+*
+***** S3Relay Start (@ 150033664/00/43200 00:-1774024:135861597.136280271) >>>>>
+*
+
+
+[2023/07/20 09:36:25] SockThread start success
+[2023/07/20 09:36:25] Game Module Is Started. -->Hoat dong mua xuan 2006
+[2023/07/20 09:36:25] Game Module Is Started. -->OpenShop
+[2023/07/20 09:36:25] Game Module Is Started. -->Thiep Chuc Mung Nam Moi
+[2023/07/20 09:36:25] Game Module Is Started. -->Do Pho Hoang Kim
+[2023/07/20 09:36:25] Game Module Is Started. -->Phuc Duyen - Phao Bong
+[2023/07/20 09:36:25] Game Module Is Started. -->Truyen Cong
+[2023/07/20 09:36:25] Game Module Is Started. -->Le vat tinh nhan
+[2023/07/20 09:36:25] Game Module Is Started. -->YANDIBAOZANG
+[2023/07/20 09:36:25] Game Module Is Started. -->YANDIBAOZANG_TALK
+[2023/07/20 09:36:25] Game Module Is Started. -->SWITH_DAIYITOUSHI
+[2023/07/20 09:36:25] Game Module Is Started. -->chunjie2009_dangboss
+[2023/07/20 09:36:25] ===>Xep Hang Khoi Dong Hoan Tat<===
+[2023/07/20 09:37:10] ChatConnection create: 127.0.0.1
+[2023/07/20 09:37:10] HostConnection create: 127.0.0.1
+[2023/07/20 09:37:10] TongConnection create: 127.0.0.1
+[2023/07/20 09:37:15] TongDataSendFinish: 127.0.0.1
+[2023/07/20 09:37:15] GameServerLogin: 127.0.0.1
+[2023/07/20 10:00:25] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/07/20 10:50:25] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/07/20 10:50:25] [2023-07-20 10:50:25]  NEW BATTLE START
+[2023/07/20 10:50:25] BattleID: 1   BattleLevel: 1   Issue: 1   10th.Round
+[2023/07/20 10:50:25] RoundID: 16   MapPattern: 10   BattleMapID:  11   WorldMapID: 378   MapName: Ho祅g Sa L﹎ Ngao Chi課   RuleID: 7
+[2023/07/20 10:50:25] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/07/20 10:50:25] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/07/20 10:50:25] [2023-07-20 10:50:25]  NEW BATTLE START
+[2023/07/20 10:50:25] BattleID: 1   BattleLevel: 2   Issue: 1   16th.Round
+[2023/07/20 10:50:25] RoundID: 1   MapPattern: 9   BattleMapID:  9   WorldMapID: 382   MapName: C玭g th祅h chi課 (khu v鵦 C鰑 K   RuleID: 7
+[2023/07/20 10:50:25] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/07/20 10:50:25] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/07/20 10:50:25] [2023-07-20 10:50:25]  NEW BATTLE START
+[2023/07/20 10:50:25] BattleID: 1   BattleLevel: 3   Issue: 1   16th.Round
+[2023/07/20 10:50:25] RoundID: 1   MapPattern: 9   BattleMapID:  9   WorldMapID: 380   MapName: C玭g th祅h chi課 (khu v鵦 C鰑 K   RuleID: 7
+[2023/07/20 10:50:25] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/07/20 10:50:25] =====> [TongKim] Chien Truong Tong Kim 10:50 BAT DAU
+[2023/07/20 11:00:25] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/07/20 12:00:25] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/07/20 12:24:17] SockThread stop success
+[2023/07/20 12:24:17] S3Relay-开始关闭！ S3Relay- bat dau dong lai! 
+[2023/07/20 12:24:17] 
+*
+***** S3Relay Stop (@ 0000/00/00 00:-1773992:134777086.150033664) <<<<<
+*
+
+
+[2023/07/20 12:24:17] chat server shutdown
+[2023/07/20 12:24:17] tong server shutdown
+[2023/07/20 12:24:17] host server shutdown
+[2023/07/20 12:24:17] stop autotimer for Ping: 178.128.102.178
+[2023/07/20 12:24:17] S3Relay: 与RelayRoot的链接断开了 -  cung voi RelayRoot lien tiep bi ngat quang - 178.128.102.178

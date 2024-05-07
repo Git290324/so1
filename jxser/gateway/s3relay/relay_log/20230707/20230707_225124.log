@@ -1,0 +1,500 @@
+[2023/07/07 22:51:24] Delete event data: ShareKey(EVENT_cailuhongbao), Param1(-1), Param2(-1), Timeout(2020-3-30)
+[2023/07/07 22:51:24] Delete event data: ShareKey(EVENT_MIDAUT_2010), Param1(-1), Param2(-1), Timeout(2020-10-19)
+[2023/07/07 22:51:24] Delete event data: ShareKey(EVENT_dayanqunxia), Param1(-1), Param2(-1), Timeout(2020-3-20)
+[2023/07/07 22:51:24] Delete event data: ShareKey(FUNC_RANK_EQUIPVALUE), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2023/07/07 22:51:24] Delete event data: ShareKey(EVENT_April_zhushuai), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2023/07/07 22:51:24] Loading All Scripts....................
+[2023/07/07 22:51:24] Load Rank FUNC_RANK_EQUIPVALUE
+[2023/07/07 22:51:24] Load Stable Rank count 0
+[2023/07/07 22:51:24] Load Dynamic Rank count 0
+[2023/07/07 22:51:24] Load Rank FUNC_RANK_EQUIPVALUE end
+[2023/07/07 22:51:24] 
+All Scripts Have Been Loaded! Count = 80
+[2023/07/07 22:51:24] root client[:0] create
+[2023/07/07 22:51:26] start autotimer for Ping: 
+[2023/07/07 22:51:26] TRIP_MODE: None
+[2023/07/07 22:51:26] Loading World Setting...
+[2023/07/07 22:51:26] Reset map pho ban thanh cong
+[2023/07/07 22:51:26] 1 tong(s) loaded from tongex DB.
+[2023/07/07 22:51:26] gateway client create: 127.0.0.1
+[2023/07/07 22:51:26] Load LeagueData: LeagueType: 4, Leagues: 7, Roles: 7
+[2023/07/07 22:51:26] Load LeagueData: LeagueType: 500, Leagues: 5, Roles: 5
+[2023/07/07 22:51:26] Load LeagueData: LeagueType: 502, Leagues: 11, Roles: 11
+[2023/07/07 22:51:26] Load LeagueData: LeagueType: 508, Leagues: 7, Roles: 0
+[2023/07/07 22:51:26] Load LeagueData: LeagueType: 509, Leagues: 7, Roles: 0
+[2023/07/07 22:51:26] Load LeagueData: LeagueType: 8888, Leagues: 1, Roles: 0
+[2023/07/07 22:51:26] Load LeagueData: LeagueType: 10000, Leagues: 1, Roles: 0
+[2023/07/07 22:51:26] =====> THONG BAO TIN TUC TU DONG
+[2023/07/07 22:51:26] =====> BAT DAU KHOI DONG CAC TINH NANG CUA GAME VO LAM TRUYEN KY <=====
+[2023/07/07 22:51:26] ****************KHOI DONG NHIEM VU TONG KIM CHIEN QUOC ****************
+[2023/07/07 22:51:26] =====> BATTLE[GuoZhan] 20:50 startup...
+[2023/07/07 22:51:26] =====> [TongKim] Chien Truong Tong Kim 10:50 BAT DAU
+[2023/07/07 22:51:26] =====> [TongKim] Chien Truong Tong Kim 12:50 BAT DAU
+[2023/07/07 22:51:26] =====> [TongKim] Chien Truong Tong Kim 14:50 BAT DAU
+[2023/07/07 22:51:26] =====> [TongKim] Chien Truong Tong Kim 16:50 BAT DAU
+[2023/07/07 22:51:26] =====> [TongKim] Chien Truong Tong Kim 18:50 BAT DAU
+[2023/07/07 22:51:26] =====> [TongKim] Chien Truong Tong Kim 20:50 BAT DAU
+[2023/07/07 22:51:26] =====> [TongKim] Chien Truong Tong Kim 22:50 BAT DAU
+[2023/07/07 22:51:26] =======================>Xoa thong tin Xep Hang<========================
+[2023/07/07 22:51:26] =====> DANH SACH TOP 10 TOAN SERVER 0H
+[2023/07/07 22:51:26] =====> DANH SACH TOP 10 TOAN SERVER 10H
+[2023/07/07 22:51:26] =====> BANG XEP HANG <THACH THUC THOI GIAN> MOI NGAY=======
+[2023/07/07 22:51:26] =====> VUOT AI KHIEU CHIEN THOI GIAN BAT DAU 23:0...
+[2023/07/07 22:51:26] Failed to init statdatamanager!
+[2023/07/07 22:51:26] S3Relay -- S3Relay- Khoi dong hoan tat! 
+[2023/07/07 22:51:26] 
+*
+***** S3Relay Start (@ 146531584/00/43200 00:-7967320:135861597.136280271) >>>>>
+*
+
+
+[2023/07/07 22:51:26] SockThread start success
+[2023/07/07 22:51:27] Game Module Is Started. -->Hoat dong mua xuan 2006
+[2023/07/07 22:51:27] Game Module Is Started. -->OpenShop
+[2023/07/07 22:51:27] Game Module Is Started. -->Thiep Chuc Mung Nam Moi
+[2023/07/07 22:51:27] Game Module Is Started. -->Do Pho Hoang Kim
+[2023/07/07 22:51:27] Game Module Is Started. -->Phuc Duyen - Phao Bong
+[2023/07/07 22:51:27] Game Module Is Started. -->Truyen Cong
+[2023/07/07 22:51:27] Game Module Is Started. -->Le vat tinh nhan
+[2023/07/07 22:51:27] Game Module Is Started. -->YANDIBAOZANG
+[2023/07/07 22:51:27] Game Module Is Started. -->YANDIBAOZANG_TALK
+[2023/07/07 22:51:27] Game Module Is Started. -->SWITH_DAIYITOUSHI
+[2023/07/07 22:51:27] Game Module Is Started. -->chunjie2009_dangboss
+[2023/07/07 22:51:27] ===>Xep Hang Khoi Dong Hoan Tat<===
+[2023/07/07 22:51:33] TongConnection create: 127.0.0.1
+[2023/07/07 22:51:33] ChatConnection create: 127.0.0.1
+[2023/07/07 22:51:33] HostConnection create: 127.0.0.1
+[2023/07/07 22:51:37] GameServerLogin: 127.0.0.1
+[2023/07/07 22:51:37] TongDataSendFinish: 127.0.0.1
+[2023/07/07 22:51:38] Assign Dynamic map(948,70681) for GS:0
+[2023/07/07 22:51:38] GS:0 Total Dynamic map:1
+[2023/07/07 22:51:38] GS:0 Total Static map:621
+[2023/07/07 22:51:38] Assign Dynamic map(948,70682) for GS:0
+[2023/07/07 22:51:38] GS:0 Total Dynamic map:2
+[2023/07/07 22:51:38] GS:0 Total Static map:621
+[2023/07/07 22:51:38] Assign Dynamic map(948,70683) for GS:0
+[2023/07/07 22:51:38] GS:0 Total Dynamic map:3
+[2023/07/07 22:51:38] GS:0 Total Static map:621
+[2023/07/07 22:51:38] Assign Dynamic map(948,70684) for GS:0
+[2023/07/07 22:51:38] GS:0 Total Dynamic map:4
+[2023/07/07 22:51:38] GS:0 Total Static map:621
+[2023/07/07 22:51:38] Assign Dynamic map(948,70685) for GS:0
+[2023/07/07 22:51:38] GS:0 Total Dynamic map:5
+[2023/07/07 22:51:38] GS:0 Total Static map:621
+[2023/07/07 22:51:38] Assign Dynamic map(976,65536) for GS:0
+[2023/07/07 22:51:38] GS:0 Total Dynamic map:6
+[2023/07/07 22:51:38] GS:0 Total Static map:621
+[2023/07/07 22:51:38] Assign Dynamic map(976,65537) for GS:0
+[2023/07/07 22:51:38] GS:0 Total Dynamic map:7
+[2023/07/07 22:51:38] GS:0 Total Static map:621
+[2023/07/07 22:51:38] Assign Dynamic map(976,65538) for GS:0
+[2023/07/07 22:51:38] GS:0 Total Dynamic map:8
+[2023/07/07 22:51:38] GS:0 Total Static map:621
+[2023/07/07 22:51:38] Assign Dynamic map(976,65539) for GS:0
+[2023/07/07 22:51:38] GS:0 Total Dynamic map:9
+[2023/07/07 22:51:38] GS:0 Total Static map:621
+[2023/07/07 22:51:38] Assign Dynamic map(976,65540) for GS:0
+[2023/07/07 22:51:38] GS:0 Total Dynamic map:10
+[2023/07/07 22:51:38] GS:0 Total Static map:621
+[2023/07/07 22:51:38] Assign Dynamic map(958,70686) for GS:0
+[2023/07/07 22:51:38] GS:0 Total Dynamic map:11
+[2023/07/07 22:51:38] GS:0 Total Static map:621
+[2023/07/07 22:51:38] Assign Dynamic map(958,70687) for GS:0
+[2023/07/07 22:51:38] GS:0 Total Dynamic map:12
+[2023/07/07 22:51:38] GS:0 Total Static map:621
+[2023/07/07 22:51:38] Assign Dynamic map(958,70688) for GS:0
+[2023/07/07 22:51:38] GS:0 Total Dynamic map:13
+[2023/07/07 22:51:38] GS:0 Total Static map:621
+[2023/07/07 22:51:38] Assign Dynamic map(958,70689) for GS:0
+[2023/07/07 22:51:38] GS:0 Total Dynamic map:14
+[2023/07/07 22:51:38] GS:0 Total Static map:621
+[2023/07/07 22:51:38] Assign Dynamic map(958,70690) for GS:0
+[2023/07/07 22:51:38] GS:0 Total Dynamic map:15
+[2023/07/07 22:51:38] GS:0 Total Static map:621
+[2023/07/07 22:51:38] Assign Dynamic map(975,65541) for GS:0
+[2023/07/07 22:51:38] GS:0 Total Dynamic map:16
+[2023/07/07 22:51:38] GS:0 Total Static map:621
+[2023/07/07 22:51:38] Assign Dynamic map(975,65542) for GS:0
+[2023/07/07 22:51:38] GS:0 Total Dynamic map:17
+[2023/07/07 22:51:38] GS:0 Total Static map:621
+[2023/07/07 22:51:38] Assign Dynamic map(975,65543) for GS:0
+[2023/07/07 22:51:38] GS:0 Total Dynamic map:18
+[2023/07/07 22:51:38] GS:0 Total Static map:621
+[2023/07/07 22:51:38] Assign Dynamic map(975,65544) for GS:0
+[2023/07/07 22:51:38] GS:0 Total Dynamic map:19
+[2023/07/07 22:51:38] GS:0 Total Static map:621
+[2023/07/07 22:51:38] Assign Dynamic map(975,65545) for GS:0
+[2023/07/07 22:51:38] GS:0 Total Dynamic map:20
+[2023/07/07 22:51:38] GS:0 Total Static map:621
+[2023/07/07 23:00:26] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/07/08 00:00:26] =====> Bang Xep Hang Vuot Ai Moi Ngay 00:00 Bat Dau==================
+[2023/07/08 00:00:26] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/07/08 01:00:26] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/07/08 02:00:26] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/07/08 03:00:26] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/07/08 04:00:26] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/07/08 05:00:26] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/07/08 06:00:26] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/07/08 06:58:27] stop autotimer for Ping: 178.128.102.178
+[2023/07/08 06:58:27] S3Relay: 与RelayRoot的链接断开了 -  cung voi RelayRoot lien tiep bi ngat quang - 178.128.102.178
+[2023/07/08 06:58:37] root client[178.128.102.178:7777] create
+[2023/07/08 06:59:03] root client[178.128.102.178:7777] create
+[2023/07/08 06:59:29] root client[178.128.102.178:7777] create
+[2023/07/08 06:59:55] root client[178.128.102.178:7777] create
+[2023/07/08 07:00:21] root client[178.128.102.178:7777] create
+[2023/07/08 07:00:26] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/07/08 07:00:47] root client[178.128.102.178:7777] create
+[2023/07/08 07:01:13] root client[178.128.102.178:7777] create
+[2023/07/08 07:01:39] root client[178.128.102.178:7777] create
+[2023/07/08 07:02:05] root client[178.128.102.178:7777] create
+[2023/07/08 07:02:31] root client[178.128.102.178:7777] create
+[2023/07/08 07:02:57] root client[178.128.102.178:7777] create
+[2023/07/08 07:03:23] root client[178.128.102.178:7777] create
+[2023/07/08 07:03:49] root client[178.128.102.178:7777] create
+[2023/07/08 07:04:15] root client[178.128.102.178:7777] create
+[2023/07/08 07:04:41] root client[178.128.102.178:7777] create
+[2023/07/08 07:05:07] root client[178.128.102.178:7777] create
+[2023/07/08 07:05:33] root client[178.128.102.178:7777] create
+[2023/07/08 07:05:59] root client[178.128.102.178:7777] create
+[2023/07/08 07:06:25] root client[178.128.102.178:7777] create
+[2023/07/08 07:06:51] root client[178.128.102.178:7777] create
+[2023/07/08 07:07:17] root client[178.128.102.178:7777] create
+[2023/07/08 07:07:43] root client[178.128.102.178:7777] create
+[2023/07/08 07:08:09] root client[178.128.102.178:7777] create
+[2023/07/08 07:08:35] root client[178.128.102.178:7777] create
+[2023/07/08 07:09:01] root client[178.128.102.178:7777] create
+[2023/07/08 07:09:27] root client[178.128.102.178:7777] create
+[2023/07/08 07:09:53] root client[178.128.102.178:7777] create
+[2023/07/08 07:10:19] root client[178.128.102.178:7777] create
+[2023/07/08 07:10:45] root client[178.128.102.178:7777] create
+[2023/07/08 07:11:11] root client[178.128.102.178:7777] create
+[2023/07/08 07:11:37] root client[178.128.102.178:7777] create
+[2023/07/08 07:12:03] root client[178.128.102.178:7777] create
+[2023/07/08 07:12:29] root client[178.128.102.178:7777] create
+[2023/07/08 07:12:55] root client[178.128.102.178:7777] create
+[2023/07/08 07:13:21] root client[178.128.102.178:7777] create
+[2023/07/08 07:13:47] root client[178.128.102.178:7777] create
+[2023/07/08 07:14:13] root client[178.128.102.178:7777] create
+[2023/07/08 07:14:39] root client[178.128.102.178:7777] create
+[2023/07/08 07:15:05] root client[178.128.102.178:7777] create
+[2023/07/08 07:15:31] root client[178.128.102.178:7777] create
+[2023/07/08 07:15:57] root client[178.128.102.178:7777] create
+[2023/07/08 07:16:23] root client[178.128.102.178:7777] create
+[2023/07/08 07:16:49] root client[178.128.102.178:7777] create
+[2023/07/08 07:17:15] root client[178.128.102.178:7777] create
+[2023/07/08 07:17:41] root client[178.128.102.178:7777] create
+[2023/07/08 07:18:07] root client[178.128.102.178:7777] create
+[2023/07/08 07:18:33] root client[178.128.102.178:7777] create
+[2023/07/08 07:18:59] root client[178.128.102.178:7777] create
+[2023/07/08 07:19:25] root client[178.128.102.178:7777] create
+[2023/07/08 07:19:51] root client[178.128.102.178:7777] create
+[2023/07/08 07:20:17] root client[178.128.102.178:7777] create
+[2023/07/08 07:20:43] root client[178.128.102.178:7777] create
+[2023/07/08 07:21:09] root client[178.128.102.178:7777] create
+[2023/07/08 07:21:35] root client[178.128.102.178:7777] create
+[2023/07/08 07:22:01] root client[178.128.102.178:7777] create
+[2023/07/08 07:22:27] root client[178.128.102.178:7777] create
+[2023/07/08 07:22:53] root client[178.128.102.178:7777] create
+[2023/07/08 07:23:19] root client[178.128.102.178:7777] create
+[2023/07/08 07:23:45] root client[178.128.102.178:7777] create
+[2023/07/08 07:24:11] root client[178.128.102.178:7777] create
+[2023/07/08 07:24:37] root client[178.128.102.178:7777] create
+[2023/07/08 07:25:03] root client[178.128.102.178:7777] create
+[2023/07/08 07:25:29] root client[178.128.102.178:7777] create
+[2023/07/08 07:25:55] root client[178.128.102.178:7777] create
+[2023/07/08 07:26:21] root client[178.128.102.178:7777] create
+[2023/07/08 07:26:47] root client[178.128.102.178:7777] create
+[2023/07/08 07:27:13] root client[178.128.102.178:7777] create
+[2023/07/08 07:27:39] root client[178.128.102.178:7777] create
+[2023/07/08 07:28:05] root client[178.128.102.178:7777] create
+[2023/07/08 07:28:31] root client[178.128.102.178:7777] create
+[2023/07/08 07:28:57] root client[178.128.102.178:7777] create
+[2023/07/08 07:29:23] root client[178.128.102.178:7777] create
+[2023/07/08 07:29:49] root client[178.128.102.178:7777] create
+[2023/07/08 07:30:15] root client[178.128.102.178:7777] create
+[2023/07/08 07:30:41] root client[178.128.102.178:7777] create
+[2023/07/08 07:31:07] root client[178.128.102.178:7777] create
+[2023/07/08 07:31:33] root client[178.128.102.178:7777] create
+[2023/07/08 07:31:59] root client[178.128.102.178:7777] create
+[2023/07/08 07:32:25] root client[178.128.102.178:7777] create
+[2023/07/08 07:32:51] root client[178.128.102.178:7777] create
+[2023/07/08 07:33:17] root client[178.128.102.178:7777] create
+[2023/07/08 07:33:43] root client[178.128.102.178:7777] create
+[2023/07/08 07:34:09] root client[178.128.102.178:7777] create
+[2023/07/08 07:34:35] root client[178.128.102.178:7777] create
+[2023/07/08 07:35:01] root client[178.128.102.178:7777] create
+[2023/07/08 07:35:27] root client[178.128.102.178:7777] create
+[2023/07/08 07:35:53] root client[178.128.102.178:7777] create
+[2023/07/08 07:36:19] root client[178.128.102.178:7777] create
+[2023/07/08 07:36:45] root client[178.128.102.178:7777] create
+[2023/07/08 07:37:11] root client[178.128.102.178:7777] create
+[2023/07/08 07:37:37] root client[178.128.102.178:7777] create
+[2023/07/08 07:38:03] root client[178.128.102.178:7777] create
+[2023/07/08 07:38:29] root client[178.128.102.178:7777] create
+[2023/07/08 07:38:55] root client[178.128.102.178:7777] create
+[2023/07/08 07:39:21] root client[178.128.102.178:7777] create
+[2023/07/08 07:39:47] root client[178.128.102.178:7777] create
+[2023/07/08 07:40:13] root client[178.128.102.178:7777] create
+[2023/07/08 07:40:39] root client[178.128.102.178:7777] create
+[2023/07/08 07:41:05] root client[178.128.102.178:7777] create
+[2023/07/08 07:41:31] root client[178.128.102.178:7777] create
+[2023/07/08 07:41:57] root client[178.128.102.178:7777] create
+[2023/07/08 07:42:23] root client[178.128.102.178:7777] create
+[2023/07/08 07:42:49] root client[178.128.102.178:7777] create
+[2023/07/08 07:43:15] root client[178.128.102.178:7777] create
+[2023/07/08 07:43:41] root client[178.128.102.178:7777] create
+[2023/07/08 07:44:07] root client[178.128.102.178:7777] create
+[2023/07/08 07:44:33] root client[178.128.102.178:7777] create
+[2023/07/08 07:44:59] root client[178.128.102.178:7777] create
+[2023/07/08 07:45:25] root client[178.128.102.178:7777] create
+[2023/07/08 07:45:51] root client[178.128.102.178:7777] create
+[2023/07/08 07:46:17] root client[178.128.102.178:7777] create
+[2023/07/08 07:46:43] root client[178.128.102.178:7777] create
+[2023/07/08 07:47:09] root client[178.128.102.178:7777] create
+[2023/07/08 07:47:35] root client[178.128.102.178:7777] create
+[2023/07/08 07:48:01] root client[178.128.102.178:7777] create
+[2023/07/08 07:48:27] root client[178.128.102.178:7777] create
+[2023/07/08 07:48:53] root client[178.128.102.178:7777] create
+[2023/07/08 07:49:19] root client[178.128.102.178:7777] create
+[2023/07/08 07:49:45] root client[178.128.102.178:7777] create
+[2023/07/08 07:50:11] root client[178.128.102.178:7777] create
+[2023/07/08 07:50:37] root client[178.128.102.178:7777] create
+[2023/07/08 07:51:03] root client[178.128.102.178:7777] create
+[2023/07/08 07:51:29] root client[178.128.102.178:7777] create
+[2023/07/08 07:51:55] root client[178.128.102.178:7777] create
+[2023/07/08 07:52:21] root client[178.128.102.178:7777] create
+[2023/07/08 07:52:47] root client[178.128.102.178:7777] create
+[2023/07/08 07:53:13] root client[178.128.102.178:7777] create
+[2023/07/08 07:53:39] root client[178.128.102.178:7777] create
+[2023/07/08 07:54:05] root client[178.128.102.178:7777] create
+[2023/07/08 07:54:31] root client[178.128.102.178:7777] create
+[2023/07/08 07:54:57] root client[178.128.102.178:7777] create
+[2023/07/08 07:55:23] root client[178.128.102.178:7777] create
+[2023/07/08 07:55:49] root client[178.128.102.178:7777] create
+[2023/07/08 07:56:15] root client[178.128.102.178:7777] create
+[2023/07/08 07:56:41] root client[178.128.102.178:7777] create
+[2023/07/08 07:57:07] root client[178.128.102.178:7777] create
+[2023/07/08 07:57:33] root client[178.128.102.178:7777] create
+[2023/07/08 07:57:59] root client[178.128.102.178:7777] create
+[2023/07/08 07:58:25] root client[178.128.102.178:7777] create
+[2023/07/08 07:58:51] root client[178.128.102.178:7777] create
+[2023/07/08 07:59:17] root client[178.128.102.178:7777] create
+[2023/07/08 07:59:43] root client[178.128.102.178:7777] create
+[2023/07/08 08:00:09] root client[178.128.102.178:7777] create
+[2023/07/08 08:00:26] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/07/08 08:00:35] root client[178.128.102.178:7777] create
+[2023/07/08 08:01:01] root client[178.128.102.178:7777] create
+[2023/07/08 08:01:27] root client[178.128.102.178:7777] create
+[2023/07/08 08:01:53] root client[178.128.102.178:7777] create
+[2023/07/08 08:02:19] root client[178.128.102.178:7777] create
+[2023/07/08 08:02:45] root client[178.128.102.178:7777] create
+[2023/07/08 08:03:11] root client[178.128.102.178:7777] create
+[2023/07/08 08:03:37] root client[178.128.102.178:7777] create
+[2023/07/08 08:04:03] root client[178.128.102.178:7777] create
+[2023/07/08 08:04:29] root client[178.128.102.178:7777] create
+[2023/07/08 08:04:55] root client[178.128.102.178:7777] create
+[2023/07/08 08:05:21] root client[178.128.102.178:7777] create
+[2023/07/08 08:05:47] root client[178.128.102.178:7777] create
+[2023/07/08 08:06:13] root client[178.128.102.178:7777] create
+[2023/07/08 08:06:39] root client[178.128.102.178:7777] create
+[2023/07/08 08:07:05] root client[178.128.102.178:7777] create
+[2023/07/08 08:07:31] root client[178.128.102.178:7777] create
+[2023/07/08 08:07:57] root client[178.128.102.178:7777] create
+[2023/07/08 08:08:23] root client[178.128.102.178:7777] create
+[2023/07/08 08:08:49] root client[178.128.102.178:7777] create
+[2023/07/08 08:09:15] root client[178.128.102.178:7777] create
+[2023/07/08 08:09:41] root client[178.128.102.178:7777] create
+[2023/07/08 08:10:07] root client[178.128.102.178:7777] create
+[2023/07/08 08:10:33] root client[178.128.102.178:7777] create
+[2023/07/08 08:10:59] root client[178.128.102.178:7777] create
+[2023/07/08 08:11:25] root client[178.128.102.178:7777] create
+[2023/07/08 08:11:51] root client[178.128.102.178:7777] create
+[2023/07/08 08:12:17] root client[178.128.102.178:7777] create
+[2023/07/08 08:12:43] root client[178.128.102.178:7777] create
+[2023/07/08 08:13:09] root client[178.128.102.178:7777] create
+[2023/07/08 08:13:35] root client[178.128.102.178:7777] create
+[2023/07/08 08:14:01] root client[178.128.102.178:7777] create
+[2023/07/08 08:14:27] root client[178.128.102.178:7777] create
+[2023/07/08 08:14:53] root client[178.128.102.178:7777] create
+[2023/07/08 08:15:19] root client[178.128.102.178:7777] create
+[2023/07/08 08:15:45] root client[178.128.102.178:7777] create
+[2023/07/08 08:16:11] root client[178.128.102.178:7777] create
+[2023/07/08 08:16:37] root client[178.128.102.178:7777] create
+[2023/07/08 08:17:03] root client[178.128.102.178:7777] create
+[2023/07/08 08:17:29] root client[178.128.102.178:7777] create
+[2023/07/08 08:17:55] root client[178.128.102.178:7777] create
+[2023/07/08 08:18:21] root client[178.128.102.178:7777] create
+[2023/07/08 08:18:47] root client[178.128.102.178:7777] create
+[2023/07/08 08:19:13] root client[178.128.102.178:7777] create
+[2023/07/08 08:19:39] root client[178.128.102.178:7777] create
+[2023/07/08 08:20:05] root client[178.128.102.178:7777] create
+[2023/07/08 08:20:31] root client[178.128.102.178:7777] create
+[2023/07/08 08:20:57] root client[178.128.102.178:7777] create
+[2023/07/08 08:21:23] root client[178.128.102.178:7777] create
+[2023/07/08 08:21:49] root client[178.128.102.178:7777] create
+[2023/07/08 08:22:15] root client[178.128.102.178:7777] create
+[2023/07/08 08:22:41] root client[178.128.102.178:7777] create
+[2023/07/08 08:23:07] root client[178.128.102.178:7777] create
+[2023/07/08 08:23:33] root client[178.128.102.178:7777] create
+[2023/07/08 08:23:59] root client[178.128.102.178:7777] create
+[2023/07/08 08:24:25] root client[178.128.102.178:7777] create
+[2023/07/08 08:24:51] root client[178.128.102.178:7777] create
+[2023/07/08 08:25:17] root client[178.128.102.178:7777] create
+[2023/07/08 08:25:43] root client[178.128.102.178:7777] create
+[2023/07/08 08:26:09] root client[178.128.102.178:7777] create
+[2023/07/08 08:26:35] root client[178.128.102.178:7777] create
+[2023/07/08 08:27:01] root client[178.128.102.178:7777] create
+[2023/07/08 08:27:27] root client[178.128.102.178:7777] create
+[2023/07/08 08:27:53] root client[178.128.102.178:7777] create
+[2023/07/08 08:28:19] root client[178.128.102.178:7777] create
+[2023/07/08 08:28:45] root client[178.128.102.178:7777] create
+[2023/07/08 08:29:11] root client[178.128.102.178:7777] create
+[2023/07/08 08:29:37] root client[178.128.102.178:7777] create
+[2023/07/08 08:30:03] root client[178.128.102.178:7777] create
+[2023/07/08 08:30:29] root client[178.128.102.178:7777] create
+[2023/07/08 08:30:55] root client[178.128.102.178:7777] create
+[2023/07/08 08:31:21] root client[178.128.102.178:7777] create
+[2023/07/08 08:31:47] root client[178.128.102.178:7777] create
+[2023/07/08 08:32:13] root client[178.128.102.178:7777] create
+[2023/07/08 08:32:39] root client[178.128.102.178:7777] create
+[2023/07/08 08:33:05] root client[178.128.102.178:7777] create
+[2023/07/08 08:33:31] root client[178.128.102.178:7777] create
+[2023/07/08 08:33:57] root client[178.128.102.178:7777] create
+[2023/07/08 08:34:23] root client[178.128.102.178:7777] create
+[2023/07/08 08:34:49] root client[178.128.102.178:7777] create
+[2023/07/08 08:35:15] root client[178.128.102.178:7777] create
+[2023/07/08 08:35:41] root client[178.128.102.178:7777] create
+[2023/07/08 08:36:07] root client[178.128.102.178:7777] create
+[2023/07/08 08:36:33] root client[178.128.102.178:7777] create
+[2023/07/08 08:36:59] root client[178.128.102.178:7777] create
+[2023/07/08 08:37:25] root client[178.128.102.178:7777] create
+[2023/07/08 08:37:51] root client[178.128.102.178:7777] create
+[2023/07/08 08:38:17] root client[178.128.102.178:7777] create
+[2023/07/08 08:38:43] root client[178.128.102.178:7777] create
+[2023/07/08 08:39:09] root client[178.128.102.178:7777] create
+[2023/07/08 08:39:35] root client[178.128.102.178:7777] create
+[2023/07/08 08:40:01] root client[178.128.102.178:7777] create
+[2023/07/08 08:40:27] root client[178.128.102.178:7777] create
+[2023/07/08 08:40:53] root client[178.128.102.178:7777] create
+[2023/07/08 08:41:19] root client[178.128.102.178:7777] create
+[2023/07/08 08:41:45] root client[178.128.102.178:7777] create
+[2023/07/08 08:42:11] root client[178.128.102.178:7777] create
+[2023/07/08 08:42:37] root client[178.128.102.178:7777] create
+[2023/07/08 08:43:03] root client[178.128.102.178:7777] create
+[2023/07/08 08:43:29] root client[178.128.102.178:7777] create
+[2023/07/08 08:43:55] root client[178.128.102.178:7777] create
+[2023/07/08 08:44:21] root client[178.128.102.178:7777] create
+[2023/07/08 08:44:47] root client[178.128.102.178:7777] create
+[2023/07/08 08:45:13] root client[178.128.102.178:7777] create
+[2023/07/08 08:45:39] root client[178.128.102.178:7777] create
+[2023/07/08 08:46:05] root client[178.128.102.178:7777] create
+[2023/07/08 08:46:31] root client[178.128.102.178:7777] create
+[2023/07/08 08:46:57] root client[178.128.102.178:7777] create
+[2023/07/08 08:47:23] root client[178.128.102.178:7777] create
+[2023/07/08 08:47:49] root client[178.128.102.178:7777] create
+[2023/07/08 08:48:15] root client[178.128.102.178:7777] create
+[2023/07/08 08:48:41] root client[178.128.102.178:7777] create
+[2023/07/08 08:49:07] root client[178.128.102.178:7777] create
+[2023/07/08 08:49:33] root client[178.128.102.178:7777] create
+[2023/07/08 08:49:59] root client[178.128.102.178:7777] create
+[2023/07/08 08:50:25] root client[178.128.102.178:7777] create
+[2023/07/08 08:50:51] root client[178.128.102.178:7777] create
+[2023/07/08 08:51:17] root client[178.128.102.178:7777] create
+[2023/07/08 08:51:43] root client[178.128.102.178:7777] create
+[2023/07/08 08:52:09] root client[178.128.102.178:7777] create
+[2023/07/08 08:52:35] root client[178.128.102.178:7777] create
+[2023/07/08 08:53:01] root client[178.128.102.178:7777] create
+[2023/07/08 08:53:27] root client[178.128.102.178:7777] create
+[2023/07/08 08:53:53] root client[178.128.102.178:7777] create
+[2023/07/08 08:54:19] root client[178.128.102.178:7777] create
+[2023/07/08 08:54:45] root client[178.128.102.178:7777] create
+[2023/07/08 08:55:11] root client[178.128.102.178:7777] create
+[2023/07/08 08:55:37] root client[178.128.102.178:7777] create
+[2023/07/08 08:56:03] root client[178.128.102.178:7777] create
+[2023/07/08 08:56:29] root client[178.128.102.178:7777] create
+[2023/07/08 08:56:55] root client[178.128.102.178:7777] create
+[2023/07/08 08:57:21] root client[178.128.102.178:7777] create
+[2023/07/08 08:57:47] root client[178.128.102.178:7777] create
+[2023/07/08 08:58:13] root client[178.128.102.178:7777] create
+[2023/07/08 08:58:39] root client[178.128.102.178:7777] create
+[2023/07/08 08:59:05] root client[178.128.102.178:7777] create
+[2023/07/08 08:59:31] root client[178.128.102.178:7777] create
+[2023/07/08 08:59:57] root client[178.128.102.178:7777] create
+[2023/07/08 09:00:23] root client[178.128.102.178:7777] create
+[2023/07/08 09:00:26] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/07/08 09:00:49] root client[178.128.102.178:7777] create
+[2023/07/08 09:01:15] root client[178.128.102.178:7777] create
+[2023/07/08 09:01:41] root client[178.128.102.178:7777] create
+[2023/07/08 09:02:07] root client[178.128.102.178:7777] create
+[2023/07/08 09:02:33] root client[178.128.102.178:7777] create
+[2023/07/08 09:02:59] root client[178.128.102.178:7777] create
+[2023/07/08 09:03:25] root client[178.128.102.178:7777] create
+[2023/07/08 09:03:51] root client[178.128.102.178:7777] create
+[2023/07/08 09:04:17] root client[178.128.102.178:7777] create
+[2023/07/08 09:04:43] root client[178.128.102.178:7777] create
+[2023/07/08 09:05:09] root client[178.128.102.178:7777] create
+[2023/07/08 09:05:35] root client[178.128.102.178:7777] create
+[2023/07/08 09:06:01] root client[178.128.102.178:7777] create
+[2023/07/08 09:06:27] root client[178.128.102.178:7777] create
+[2023/07/08 09:06:53] root client[178.128.102.178:7777] create
+[2023/07/08 09:07:19] root client[178.128.102.178:7777] create
+[2023/07/08 09:07:45] root client[178.128.102.178:7777] create
+[2023/07/08 09:08:11] root client[178.128.102.178:7777] create
+[2023/07/08 09:08:37] root client[178.128.102.178:7777] create
+[2023/07/08 09:09:03] root client[178.128.102.178:7777] create
+[2023/07/08 09:09:29] root client[178.128.102.178:7777] create
+[2023/07/08 09:09:55] root client[178.128.102.178:7777] create
+[2023/07/08 09:10:21] root client[178.128.102.178:7777] create
+[2023/07/08 09:10:47] root client[178.128.102.178:7777] create
+[2023/07/08 09:11:13] root client[178.128.102.178:7777] create
+[2023/07/08 09:11:39] root client[178.128.102.178:7777] create
+[2023/07/08 09:12:05] root client[178.128.102.178:7777] create
+[2023/07/08 09:12:31] root client[178.128.102.178:7777] create
+[2023/07/08 09:12:57] root client[178.128.102.178:7777] create
+[2023/07/08 09:13:23] root client[178.128.102.178:7777] create
+[2023/07/08 09:13:49] root client[178.128.102.178:7777] create
+[2023/07/08 09:14:15] root client[178.128.102.178:7777] create
+[2023/07/08 09:14:41] root client[178.128.102.178:7777] create
+[2023/07/08 09:15:07] root client[178.128.102.178:7777] create
+[2023/07/08 09:15:33] root client[178.128.102.178:7777] create
+[2023/07/08 09:15:59] root client[178.128.102.178:7777] create
+[2023/07/08 09:16:25] root client[178.128.102.178:7777] create
+[2023/07/08 09:16:51] root client[178.128.102.178:7777] create
+[2023/07/08 09:17:17] root client[178.128.102.178:7777] create
+[2023/07/08 09:17:43] root client[178.128.102.178:7777] create
+[2023/07/08 09:18:09] root client[178.128.102.178:7777] create
+[2023/07/08 09:18:35] root client[178.128.102.178:7777] create
+[2023/07/08 09:19:01] root client[178.128.102.178:7777] create
+[2023/07/08 09:19:27] root client[178.128.102.178:7777] create
+[2023/07/08 09:19:53] root client[178.128.102.178:7777] create
+[2023/07/08 09:20:19] root client[178.128.102.178:7777] create
+[2023/07/08 09:20:45] root client[178.128.102.178:7777] create
+[2023/07/08 09:21:11] root client[178.128.102.178:7777] create
+[2023/07/08 09:21:37] root client[178.128.102.178:7777] create
+[2023/07/08 09:22:03] root client[178.128.102.178:7777] create
+[2023/07/08 09:22:29] root client[178.128.102.178:7777] create
+[2023/07/08 09:22:55] root client[178.128.102.178:7777] create
+[2023/07/08 09:23:21] root client[178.128.102.178:7777] create
+[2023/07/08 09:23:47] root client[178.128.102.178:7777] create
+[2023/07/08 09:24:13] root client[178.128.102.178:7777] create
+[2023/07/08 09:24:39] root client[178.128.102.178:7777] create
+[2023/07/08 09:25:05] root client[178.128.102.178:7777] create
+[2023/07/08 09:25:31] root client[178.128.102.178:7777] create
+[2023/07/08 09:25:57] root client[178.128.102.178:7777] create
+[2023/07/08 09:26:24] root client[178.128.102.178:7777] create
+[2023/07/08 09:26:50] root client[178.128.102.178:7777] create
+[2023/07/08 09:27:16] root client[178.128.102.178:7777] create
+[2023/07/08 09:27:42] root client[178.128.102.178:7777] create
+[2023/07/08 09:28:08] root client[178.128.102.178:7777] create
+[2023/07/08 09:28:34] root client[178.128.102.178:7777] create
+[2023/07/08 09:28:57] SockThread stop success
+[2023/07/08 09:28:57] S3Relay-开始关闭！ S3Relay- bat dau dong lai! 
+[2023/07/08 09:28:57] 
+*
+***** S3Relay Stop (@ 0000/00/00 00:-7967288:134777086.146531584) <<<<<
+*
+
+
+[2023/07/08 09:28:57] chat server shutdown
+[2023/07/08 09:28:57] tong server shutdown
+[2023/07/08 09:28:57] host server shutdown

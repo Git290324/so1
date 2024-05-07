@@ -1,0 +1,97 @@
+[2024/05/07 00:22:39] Delete event data: ShareKey(EVENT_cailuhongbao), Param1(-1), Param2(-1), Timeout(2020-3-30)
+[2024/05/07 00:22:39] Delete event data: ShareKey(EVENT_MIDAUT_2010), Param1(-1), Param2(-1), Timeout(2020-10-19)
+[2024/05/07 00:22:39] Delete event data: ShareKey(EVENT_dayanqunxia), Param1(-1), Param2(-1), Timeout(2020-3-20)
+[2024/05/07 00:22:39] Delete event data: ShareKey(FUNC_RANK_EQUIPVALUE), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2024/05/07 00:22:39] Delete event data: ShareKey(EVENT_April_zhushuai), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2024/05/07 00:22:39] Loading All Scripts....................
+[2024/05/07 00:22:39] Load Rank FUNC_RANK_EQUIPVALUE
+[2024/05/07 00:22:39] Load Stable Rank count 0
+[2024/05/07 00:22:39] Load Dynamic Rank count 0
+[2024/05/07 00:22:39] Load Rank FUNC_RANK_EQUIPVALUE end
+[2024/05/07 00:22:39] 
+All Scripts Have Been Loaded! Count = 80
+[2024/05/07 00:22:39] root client[:0] create
+[2024/05/07 00:22:41] start autotimer for Ping: 
+[2024/05/07 00:22:41] TRIP_MODE: None
+[2024/05/07 00:22:41] Loading World Setting...
+[2024/05/07 00:22:41] Reset map pho ban thanh cong
+[2024/05/07 00:22:41] Load LeagueData: LeagueType: 4, Leagues: 7, Roles: 7
+[2024/05/07 00:22:41] Load LeagueData: LeagueType: 500, Leagues: 3, Roles: 3
+[2024/05/07 00:22:41] Load LeagueData: LeagueType: 502, Leagues: 11, Roles: 11
+[2024/05/07 00:22:41] Load LeagueData: LeagueType: 10000, Leagues: 1, Roles: 0
+[2024/05/07 00:22:41] gateway client create: 127.0.0.1
+[2024/05/07 00:22:41] =====> THONG BAO TIN TUC TU DONG
+[2024/05/07 00:22:41] =====> BAT DAU KHOI DONG CAC TINH NANG CUA GAME VO LAM TRUYEN KY <=====
+[2024/05/07 00:22:41] =====> Boss Tieu Hoang Kim Xuat Hien Vao Luc :  12:30
+[2024/05/07 00:22:41] =====> SO LUONG BOSS HOANG KIM XUAT HIEN :  0
+[2024/05/07 00:22:41] =====> BOSS DOC CO THIEN PHONG XUAT HIEN :  19:45
+[2024/05/07 00:22:41] =====> BOSS THIEN TRI XUAT HIEN LUC 20H TANG 4
+[2024/05/07 00:22:41] =====> BOSS Hoang Kim murongquan XUAT HIEN:  20:20
+[2024/05/07 00:22:41] =====> BOSS Hoang Kim zhangxuan XUAT HIEN:  20:10
+[2024/05/07 00:22:41] =====> BOSS Hoang Kim jinshiliang XUAT HIEN:  20:15
+[2024/05/07 00:22:41] =====> Boss Hoang Kim Xuat Hien Vao Luc :  08:00
+[2024/05/07 00:22:41] =====> Boss Dai Hoang Kim Xuat Hien Vao Luc :  20:00
+[2024/05/07 00:22:41] =====> Boss Hoang Kim Xuat Hien Vao Luc :  22:00
+[2024/05/07 00:22:41] 加载脚本文件makegoldboss\makegoldboss_2100.lua时出错，请检查语法. Gia tai file Van ban goc [] gio bi sai, xin kiem tra ngu phap. 
+[2024/05/07 00:22:41] =================Phong Lang Do==================
+[2024/05/07 00:22:41] =====> [phonglangdo] Phong Lang Do 14h
+[2024/05/07 00:22:41] =====> [phonglangdo] Phong Lang Do 16h
+[2024/05/07 00:22:41] =====> [phonglangdo] Phong Lang Do 18h
+[2024/05/07 00:22:41] =====> [phonglangdo] Phong Lang Do 20h
+[2024/05/07 00:22:41] ****************KHOI DONG NHIEM VU TONG KIM CHIEN QUOC ****************
+[2024/05/07 00:22:41] =====> BATTLE[GuoZhan] 20:50 startup...
+[2024/05/07 00:22:41] =====> [TongKim] Chien Truong Tong Kim 12:50 BAT DAU
+[2024/05/07 00:22:41] =====> [TongKim] Chien Truong Tong Kim 14:50 BAT DAU
+[2024/05/07 00:22:41] =====> [TongKim] Chien Truong Tong Kim 16:50 BAT DAU
+[2024/05/07 00:22:41] =====> [TongKim] Chien Truong Tong Kim 18:50 BAT DAU
+[2024/05/07 00:22:41] =====> [TongKim] Chien Truong Tong Kim 20:50 BAT DAU
+[2024/05/07 00:22:41] =====> [TongKim] Chien Truong Tong Kim 22:50 BAT DAU
+[2024/05/07 00:22:41] =======================>Xoa thong tin Xep Hang<========================
+[2024/05/07 00:22:41] =====> HOAT DONG QUA HUY HOANG BAT DAU LUC 12 PM
+[2024/05/07 00:22:41] =====> HOAT DONG QUA HUY HOANG BAT DAU LUC 20 PM
+[2024/05/07 00:22:41] =====> BANG XEP HANG <THACH THUC THOI GIAN> MOI NGAY=======
+[2024/05/07 00:22:41] =====> [phonglangdo] Phong Lang Do 10h
+[2024/05/07 00:22:41] Failed to init statdatamanager!
+[2024/05/07 00:22:41] S3Relay -- S3Relay- Khoi dong hoan tat! 
+[2024/05/07 00:22:41] 
+*
+***** S3Relay Start (@ 169551104/00/43200 00:-7430440:135861597.136280271) >>>>>
+*
+
+
+[2024/05/07 00:22:41] SockThread start success
+[2024/05/07 00:22:41] Game Module Is Started. -->Hoat dong mua xuan 2006
+[2024/05/07 00:22:41] Game Module Is Started. -->OpenShop
+[2024/05/07 00:22:41] Game Module Is Started. -->Thiep Chuc Mung Nam Moi
+[2024/05/07 00:22:41] Game Module Is Started. -->Do Pho Hoang Kim
+[2024/05/07 00:22:41] Game Module Is Started. -->Phuc Duyen - Phao Bong
+[2024/05/07 00:22:41] Game Module Is Started. -->Truyen Cong
+[2024/05/07 00:22:41] Game Module Is Started. -->Le vat tinh nhan
+[2024/05/07 00:22:41] Game Module Is Started. -->YANDIBAOZANG
+[2024/05/07 00:22:41] Game Module Is Started. -->YANDIBAOZANG_TALK
+[2024/05/07 00:22:41] Game Module Is Started. -->SWITH_DAIYITOUSHI
+[2024/05/07 00:22:41] Game Module Is Started. -->chunjie2009_dangboss
+[2024/05/07 00:22:41] ===>Xep Hang Khoi Dong Hoan Tat<===
+[2024/05/07 00:22:51] ChatConnection create: 127.0.0.1
+[2024/05/07 00:22:51] HostConnection create: 127.0.0.1
+[2024/05/07 00:22:51] TongConnection create: 127.0.0.1
+[2024/05/07 00:22:55] TongDataSendFinish: 127.0.0.1
+[2024/05/07 00:22:55] GameServerLogin: 127.0.0.1
+[2024/05/07 01:00:41] =====> [phonglangdo] Phong Lang Do
+[2024/05/07 02:00:41] =====> [phonglangdo] Phong Lang Do
+[2024/05/07 03:00:41] =====> [phonglangdo] Phong Lang Do
+[2024/05/07 04:00:41] =====> [phonglangdo] Phong Lang Do
+[2024/05/07 05:00:41] =====> [phonglangdo] Phong Lang Do
+[2024/05/07 05:38:35] SockThread stop success
+[2024/05/07 05:38:35] S3Relay-开始关闭！ S3Relay- bat dau dong lai! 
+[2024/05/07 05:38:35] 
+*
+***** S3Relay Stop (@ 0000/00/00 00:-7430408:134777086.169551104) <<<<<
+*
+
+
+[2024/05/07 05:38:35] chat server shutdown
+[2024/05/07 05:38:35] tong server shutdown
+[2024/05/07 05:38:35] host server shutdown
+[2024/05/07 05:38:35] stop autotimer for Ping: 43.228.215.224
+[2024/05/07 05:38:35] S3Relay: 与RelayRoot的链接断开了 -  cung voi RelayRoot lien tiep bi ngat quang - 43.228.215.224

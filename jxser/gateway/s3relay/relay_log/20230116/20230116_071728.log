@@ -1,0 +1,185 @@
+[2023/01/16 07:17:28] Delete event data: ShareKey(EVENT_cailuhongbao), Param1(-1), Param2(-1), Timeout(2020-3-30)
+[2023/01/16 07:17:28] Delete event data: ShareKey(EVENT_MIDAUT_2010), Param1(-1), Param2(-1), Timeout(2020-10-19)
+[2023/01/16 07:17:28] Delete event data: ShareKey(EVENT_dayanqunxia), Param1(-1), Param2(-1), Timeout(2020-3-20)
+[2023/01/16 07:17:28] Delete event data: ShareKey(FUNC_RANK_EQUIPVALUE), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2023/01/16 07:17:28] Delete event data: ShareKey(EVENT_April_zhushuai), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2023/01/16 07:17:28] Loading All Scripts....................
+[2023/01/16 07:17:28] Load Rank FUNC_RANK_EQUIPVALUE
+[2023/01/16 07:17:28] Load Stable Rank count 0
+[2023/01/16 07:17:28] Load Dynamic Rank count 0
+[2023/01/16 07:17:28] Load Rank FUNC_RANK_EQUIPVALUE end
+[2023/01/16 07:17:28] 
+All Scripts Have Been Loaded! Count = 80
+[2023/01/16 07:17:28] root client[:0] create
+[2023/01/16 07:17:31] start autotimer for Ping: 
+[2023/01/16 07:17:31] TRIP_MODE: None
+[2023/01/16 07:17:31] Loading World Setting...
+[2023/01/16 07:17:31] Reset map pho ban thanh cong
+[2023/01/16 07:17:31] gateway client create: 127.0.0.1
+[2023/01/16 07:17:31] Load LeagueData: LeagueType: 4, Leagues: 7, Roles: 7
+[2023/01/16 07:17:31] Load LeagueData: LeagueType: 502, Leagues: 11, Roles: 11
+[2023/01/16 07:17:31] =====> THONG BAO TIN TUC TU DONG
+[2023/01/16 07:17:31] =====> BAT DAU KHOI DONG CAC TINH NANG CUA GAME VO LAM TRUYEN KY <=====
+[2023/01/16 07:17:31] ****************KHOI DONG NHIEM VU TONG KIM CHIEN QUOC ****************
+[2023/01/16 07:17:31] =====> BATTLE[GuoZhan] 20:50 startup...
+[2023/01/16 07:17:31] =====> [TongKim] Chien Truong Tong Kim 12:50 BAT DAU
+[2023/01/16 07:17:31] =====> [TongKim] Chien Truong Tong Kim 14:50 BAT DAU
+[2023/01/16 07:17:31] =====> [TongKim] Chien Truong Tong Kim 20:50 BAT DAU
+[2023/01/16 07:17:31] =====> [TongKim] Chien Truong Tong Kim 22:50 BAT DAU
+[2023/01/16 07:17:31] =======================>Xoa thong tin Xep Hang<========================
+[2023/01/16 07:17:31] =====> BANG XEP HANG <THACH THUC THOI GIAN> MOI NGAY=======
+[2023/01/16 07:17:31] =====> VUOT AI KHIEU CHIEN THOI GIAN BAT DAU 8:0...
+[2023/01/16 07:17:31] Failed to init statdatamanager!
+[2023/01/16 07:17:31] S3Relay -- S3Relay- Khoi dong hoan tat! 
+[2023/01/16 07:17:31] 
+*
+***** S3Relay Start (@ 150103296/00/43200 00:-4180376:135861597.136280271) >>>>>
+*
+
+
+[2023/01/16 07:17:31] SockThread start success
+[2023/01/16 07:17:31] Game Module Is Started. -->Hoat dong mua xuan 2006
+[2023/01/16 07:17:31] Game Module Is Started. -->OpenShop
+[2023/01/16 07:17:31] Game Module Is Started. -->Thiep Chuc Mung Nam Moi
+[2023/01/16 07:17:31] Game Module Is Started. -->Do Pho Hoang Kim
+[2023/01/16 07:17:31] Game Module Is Started. -->Phuc Duyen - Phao Bong
+[2023/01/16 07:17:31] Game Module Is Started. -->Truyen Cong
+[2023/01/16 07:17:31] Game Module Is Started. -->Le vat tinh nhan
+[2023/01/16 07:17:31] Game Module Is Started. -->YANDIBAOZANG
+[2023/01/16 07:17:31] Game Module Is Started. -->YANDIBAOZANG_TALK
+[2023/01/16 07:17:31] Game Module Is Started. -->SWITH_DAIYITOUSHI
+[2023/01/16 07:17:31] Game Module Is Started. -->chunjie2009_dangboss
+[2023/01/16 07:17:31] ===>Xep Hang Khoi Dong Hoan Tat<===
+[2023/01/16 07:17:34] TongConnection create: 127.0.0.1
+[2023/01/16 07:17:34] ChatConnection create: 127.0.0.1
+[2023/01/16 07:17:34] HostConnection create: 127.0.0.1
+[2023/01/16 07:17:38] TongDataSendFinish: 127.0.0.1
+[2023/01/16 07:17:38] GameServerLogin: 127.0.0.1
+[2023/01/16 07:17:39] Assign Dynamic map(948,70021) for GS:0
+[2023/01/16 07:17:39] GS:0 Total Dynamic map:1
+[2023/01/16 07:17:39] GS:0 Total Static map:621
+[2023/01/16 07:17:39] Assign Dynamic map(948,70022) for GS:0
+[2023/01/16 07:17:39] GS:0 Total Dynamic map:2
+[2023/01/16 07:17:39] GS:0 Total Static map:621
+[2023/01/16 07:17:39] Assign Dynamic map(948,70023) for GS:0
+[2023/01/16 07:17:39] GS:0 Total Dynamic map:3
+[2023/01/16 07:17:39] GS:0 Total Static map:621
+[2023/01/16 07:17:39] Assign Dynamic map(948,70024) for GS:0
+[2023/01/16 07:17:39] GS:0 Total Dynamic map:4
+[2023/01/16 07:17:39] GS:0 Total Static map:621
+[2023/01/16 07:17:39] Assign Dynamic map(948,70025) for GS:0
+[2023/01/16 07:17:39] GS:0 Total Dynamic map:5
+[2023/01/16 07:17:39] GS:0 Total Static map:621
+[2023/01/16 07:17:39] Assign Dynamic map(976,65536) for GS:0
+[2023/01/16 07:17:39] GS:0 Total Dynamic map:6
+[2023/01/16 07:17:39] GS:0 Total Static map:621
+[2023/01/16 07:17:39] Assign Dynamic map(976,65537) for GS:0
+[2023/01/16 07:17:39] GS:0 Total Dynamic map:7
+[2023/01/16 07:17:39] GS:0 Total Static map:621
+[2023/01/16 07:17:39] Assign Dynamic map(976,65538) for GS:0
+[2023/01/16 07:17:39] GS:0 Total Dynamic map:8
+[2023/01/16 07:17:39] GS:0 Total Static map:621
+[2023/01/16 07:17:39] Assign Dynamic map(976,65539) for GS:0
+[2023/01/16 07:17:39] GS:0 Total Dynamic map:9
+[2023/01/16 07:17:39] GS:0 Total Static map:621
+[2023/01/16 07:17:39] Assign Dynamic map(976,65540) for GS:0
+[2023/01/16 07:17:39] GS:0 Total Dynamic map:10
+[2023/01/16 07:17:39] GS:0 Total Static map:621
+[2023/01/16 07:17:39] Assign Dynamic map(958,70026) for GS:0
+[2023/01/16 07:17:39] GS:0 Total Dynamic map:11
+[2023/01/16 07:17:39] GS:0 Total Static map:621
+[2023/01/16 07:17:39] Assign Dynamic map(958,70027) for GS:0
+[2023/01/16 07:17:39] GS:0 Total Dynamic map:12
+[2023/01/16 07:17:39] GS:0 Total Static map:621
+[2023/01/16 07:17:39] Assign Dynamic map(958,70028) for GS:0
+[2023/01/16 07:17:39] GS:0 Total Dynamic map:13
+[2023/01/16 07:17:39] GS:0 Total Static map:621
+[2023/01/16 07:17:39] Assign Dynamic map(958,70029) for GS:0
+[2023/01/16 07:17:39] GS:0 Total Dynamic map:14
+[2023/01/16 07:17:39] GS:0 Total Static map:621
+[2023/01/16 07:17:39] Assign Dynamic map(958,70030) for GS:0
+[2023/01/16 07:17:39] GS:0 Total Dynamic map:15
+[2023/01/16 07:17:39] GS:0 Total Static map:621
+[2023/01/16 07:17:39] Assign Dynamic map(975,65541) for GS:0
+[2023/01/16 07:17:39] GS:0 Total Dynamic map:16
+[2023/01/16 07:17:39] GS:0 Total Static map:621
+[2023/01/16 07:17:39] Assign Dynamic map(975,65542) for GS:0
+[2023/01/16 07:17:39] GS:0 Total Dynamic map:17
+[2023/01/16 07:17:39] GS:0 Total Static map:621
+[2023/01/16 07:17:39] Assign Dynamic map(975,65543) for GS:0
+[2023/01/16 07:17:39] GS:0 Total Dynamic map:18
+[2023/01/16 07:17:39] GS:0 Total Static map:621
+[2023/01/16 07:17:39] Assign Dynamic map(975,65544) for GS:0
+[2023/01/16 07:17:39] GS:0 Total Dynamic map:19
+[2023/01/16 07:17:39] GS:0 Total Static map:621
+[2023/01/16 07:17:39] Assign Dynamic map(975,65545) for GS:0
+[2023/01/16 07:17:39] GS:0 Total Dynamic map:20
+[2023/01/16 07:17:39] GS:0 Total Static map:621
+[2023/01/15 16:19:54] warning: root client timeout: 103.179.172.139
+[2023/01/15 16:19:54] warning: root client timeout: 103.179.172.139
+[2023/01/15 16:19:54] warning: root client timeout: 103.179.172.139
+[2023/01/15 16:19:54] warning: root client timeout: 103.179.172.139
+[2023/01/15 16:19:54] warning: root client timeout: 103.179.172.139
+[2023/01/15 16:19:54] warning: root client timeout: 103.179.172.139
+[2023/01/15 16:20:39] ChatConnection close: 127.0.0.1
+[2023/01/15 16:20:39] TongConnection close: 127.0.0.1
+[2023/01/15 16:20:39] HostConnection close: 127.0.0.1
+[2023/01/15 16:20:41] gateway client close: 127.0.0.1
+[2023/01/16 16:20:35] warning: root client timeout: 103.179.172.139
+[2023/01/16 16:20:35] warning: root client timeout: 103.179.172.139
+[2023/01/16 16:20:35] warning: root client timeout: 103.179.172.139
+[2023/01/16 16:20:35] warning: root client timeout: 103.179.172.139
+[2023/01/16 16:20:35] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/01/16 16:20:35] [2023-01-16 16:20:35]  NEW BATTLE START
+[2023/01/16 16:20:35] BattleID: 1   BattleLevel: 1   Issue: 1   1th.Round
+[2023/01/16 16:20:35] RoundID: 1   MapPattern: 9   BattleMapID:  9   WorldMapID: 381   MapName: C玭g th祅h chi課 (khu v鵦 C鰑 K   RuleID: 7
+[2023/01/16 16:20:35] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/01/16 16:20:35] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/01/16 16:20:35] [2023-01-16 16:20:35]  NEW BATTLE START
+[2023/01/16 16:20:35] BattleID: 1   BattleLevel: 2   Issue: 1   1th.Round
+[2023/01/16 16:20:35] RoundID: 1   MapPattern: 9   BattleMapID:  9   WorldMapID: 382   MapName: C玭g th祅h chi課 (khu v鵦 C鰑 K   RuleID: 7
+[2023/01/16 16:20:35] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/01/16 16:20:35] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/01/16 16:20:35] [2023-01-16 16:20:35]  NEW BATTLE START
+[2023/01/16 16:20:35] BattleID: 1   BattleLevel: 3   Issue: 1   1th.Round
+[2023/01/16 16:20:35] RoundID: 1   MapPattern: 9   BattleMapID:  9   WorldMapID: 380   MapName: C玭g th祅h chi課 (khu v鵦 C鰑 K   RuleID: 7
+[2023/01/16 16:20:35] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/01/16 16:20:35] =====> [TongKim] Chien Truong Tong Kim 12:50 BAT DAU
+[2023/01/16 16:20:35] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/01/16 16:20:35] [2023-01-16 16:20:35]  NEW BATTLE START
+[2023/01/16 16:20:35] BattleID: 1   BattleLevel: 2   Issue: 1   2th.Round
+[2023/01/16 16:20:35] RoundID: 3   MapPattern: 12   BattleMapID:  14   WorldMapID: 379   MapName: Ho祅g Sa L﹎ Ngao Chi課   RuleID: 7
+[2023/01/16 16:20:35] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/01/16 16:20:35] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/01/16 16:20:35] [2023-01-16 16:20:35]  NEW BATTLE START
+[2023/01/16 16:20:35] BattleID: 1   BattleLevel: 3   Issue: 1   2th.Round
+[2023/01/16 16:20:35] RoundID: 3   MapPattern: 12   BattleMapID:  14   WorldMapID: 380   MapName: Ho祅g Sa L﹎ Ngao Chi課   RuleID: 7
+[2023/01/16 16:20:35] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/01/16 16:20:35] =====> [TongKim] Chien Truong Tong Kim 14:50 BAT DAU
+[2023/01/16 16:20:35] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/01/16 16:20:35] warning: root client timeout: 103.179.172.139
+[2023/01/16 16:20:35] warning: root client timeout: 103.179.172.139
+[2023/01/16 16:20:35] warning: root client timeout: 103.179.172.139
+[2023/01/16 16:20:35] warning: root client timeout: 103.179.172.139
+[2023/01/16 16:20:35] warning: root client timeout: 103.179.172.139
+[2023/01/16 16:20:35] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/01/16 16:20:35] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/01/16 16:20:35] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/01/16 16:20:35] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/01/16 16:20:35] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/01/16 16:20:35] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/01/16 16:20:35] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/01/16 16:20:35] VUOT AI KHIEU CHIEN THOI GIAN DANG GHI DANH
+[2023/01/16 16:20:39] SockThread stop success
+[2023/01/16 16:20:39] S3Relay-开始关闭！ S3Relay- bat dau dong lai! 
+[2023/01/16 16:20:39] 
+*
+***** S3Relay Stop (@ 0000/00/00 00:-4180344:134777086.150103296) <<<<<
+*
+
+
+[2023/01/16 16:20:39] chat server shutdown
+[2023/01/16 16:20:39] tong server shutdown
+[2023/01/16 16:20:40] host server shutdown
+[2023/01/16 16:20:40] stop autotimer for Ping: 103.179.172.139
+[2023/01/16 16:20:40] S3Relay: 与RelayRoot的链接断开了 -  cung voi RelayRoot lien tiep bi ngat quang - 103.179.172.139

@@ -1,0 +1,140 @@
+[2023/08/14 18:45:34] Delete event data: ShareKey(EVENT_cailuhongbao), Param1(-1), Param2(-1), Timeout(2020-3-30)
+[2023/08/14 18:45:34] Delete event data: ShareKey(EVENT_MIDAUT_2010), Param1(-1), Param2(-1), Timeout(2020-10-19)
+[2023/08/14 18:45:34] Delete event data: ShareKey(EVENT_dayanqunxia), Param1(-1), Param2(-1), Timeout(2020-3-20)
+[2023/08/14 18:45:34] Delete event data: ShareKey(FUNC_RANK_EQUIPVALUE), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2023/08/14 18:45:34] Delete event data: ShareKey(EVENT_April_zhushuai), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2023/08/14 18:45:34] Loading All Scripts....................
+[2023/08/14 18:45:34] Load Rank FUNC_RANK_EQUIPVALUE
+[2023/08/14 18:45:34] Load Stable Rank count 0
+[2023/08/14 18:45:34] Load Dynamic Rank count 0
+[2023/08/14 18:45:34] Load Rank FUNC_RANK_EQUIPVALUE end
+[2023/08/14 18:45:34] 
+All Scripts Have Been Loaded! Count = 80
+[2023/08/14 18:45:34] root client[:0] create
+[2023/08/14 18:45:36] start autotimer for Ping: 
+[2023/08/14 18:45:36] TRIP_MODE: None
+[2023/08/14 18:45:36] Loading World Setting...
+[2023/08/14 18:45:36] Reset map pho ban thanh cong
+[2023/08/14 18:45:36] gateway client create: 127.0.0.1
+[2023/08/14 18:45:36] Load LeagueData: LeagueType: 4, Leagues: 7, Roles: 7
+[2023/08/14 18:45:36] Load LeagueData: LeagueType: 500, Leagues: 3, Roles: 3
+[2023/08/14 18:45:36] Load LeagueData: LeagueType: 502, Leagues: 11, Roles: 11
+[2023/08/14 18:45:36] Load LeagueData: LeagueType: 10000, Leagues: 1, Roles: 0
+[2023/08/14 18:45:36] =====> THONG BAO TIN TUC TU DONG
+[2023/08/14 18:45:36] =====> BAT DAU KHOI DONG CAC TINH NANG CUA GAME VO LAM TRUYEN KY <=====
+[2023/08/14 18:45:36] =====> Boss Tieu Hoang Kim Xuat Hien Vao Luc :  12:30
+[2023/08/14 18:45:36] =====> SO LUONG BOSS HOANG KIM XUAT HIEN :  0
+[2023/08/14 18:45:36] =====> BOSS DOC CO THIEN PHONG XUAT HIEN :  19:45
+[2023/08/14 18:45:36] =====> BOSS THIEN TRI XUAT HIEN LUC 20H TANG 4
+[2023/08/14 18:45:36] =====> BOSS Hoang Kim murongquan XUAT HIEN:  20:20
+[2023/08/14 18:45:36] =====> BOSS Hoang Kim zhangxuan XUAT HIEN:  20:10
+[2023/08/14 18:45:36] =====> BOSS Hoang Kim jinshiliang XUAT HIEN:  20:15
+[2023/08/14 18:45:36] =====> Boss Hoang Kim Xuat Hien Vao Luc :  08:00
+[2023/08/14 18:45:36] =====> Boss Dai Hoang Kim Xuat Hien Vao Luc :  20:00
+[2023/08/14 18:45:36] =====> Boss Hoang Kim Xuat Hien Vao Luc :  22:00
+[2023/08/14 18:45:36] ¼ÓÔØ½Å±¾ÎÄ¼þmakegoldboss\makegoldboss_2100.luaÊ±³ö´í£¬Çë¼ì²éÓï·¨. Gia tai file Van ban goc [] gio bi sai, xin kiem tra ngu phap. 
+[2023/08/14 18:45:36] =================Phong Lang Do==================
+[2023/08/14 18:45:36] =====> [phonglangdo] Phong Lang Do 14h
+[2023/08/14 18:45:36] =====> [phonglangdo] Phong Lang Do 16h
+[2023/08/14 18:45:36] =====> [phonglangdo] Phong Lang Do 18h
+[2023/08/14 18:45:36] =====> [phonglangdo] Phong Lang Do 20h
+[2023/08/14 18:45:36] ****************KHOI DONG NHIEM VU TONG KIM CHIEN QUOC ****************
+[2023/08/14 18:45:36] =====> BATTLE[GuoZhan] 20:50 startup...
+[2023/08/14 18:45:36] =====> [TongKim] Chien Truong Tong Kim 12:50 BAT DAU
+[2023/08/14 18:45:36] =====> [TongKim] Chien Truong Tong Kim 14:50 BAT DAU
+[2023/08/14 18:45:36] =====> [TongKim] Chien Truong Tong Kim 16:50 BAT DAU
+[2023/08/14 18:45:36] =====> [TongKim] Chien Truong Tong Kim 18:50 BAT DAU
+[2023/08/14 18:45:36] =====> [TongKim] Chien Truong Tong Kim 20:50 BAT DAU
+[2023/08/14 18:45:36] =====> [TongKim] Chien Truong Tong Kim 22:50 BAT DAU
+[2023/08/14 18:45:36] =======================>Xoa thong tin Xep Hang<========================
+[2023/08/14 18:45:36] =====> HOAT DONG QUA HUY HOANG BAT DAU LUC 12 PM
+[2023/08/14 18:45:36] =====> HOAT DONG QUA HUY HOANG BAT DAU LUC 20 PM
+[2023/08/14 18:45:36] =====> BANG XEP HANG <THACH THUC THOI GIAN> MOI NGAY=======
+[2023/08/14 18:45:36] =====> [phonglangdo] Phong Lang Do 10h
+[2023/08/14 18:45:36] Failed to init statdatamanager!
+[2023/08/14 18:45:36] S3Relay -- S3Relay- Khoi dong hoan tat! 
+[2023/08/14 18:45:36] SockThread start success
+[2023/08/14 18:45:36] 
+*
+***** S3Relay Start (@ 156173568/00/43200 00:-941544:135861597.136280271) >>>>>
+*
+
+
+[2023/08/14 18:45:36] Game Module Is Started. -->Hoat dong mua xuan 2006
+[2023/08/14 18:45:36] Game Module Is Started. -->OpenShop
+[2023/08/14 18:45:36] Game Module Is Started. -->Thiep Chuc Mung Nam Moi
+[2023/08/14 18:45:36] Game Module Is Started. -->Do Pho Hoang Kim
+[2023/08/14 18:45:36] Game Module Is Started. -->Phuc Duyen - Phao Bong
+[2023/08/14 18:45:36] Game Module Is Started. -->Truyen Cong
+[2023/08/14 18:45:36] Game Module Is Started. -->Le vat tinh nhan
+[2023/08/14 18:45:36] Game Module Is Started. -->YANDIBAOZANG
+[2023/08/14 18:45:36] Game Module Is Started. -->YANDIBAOZANG_TALK
+[2023/08/14 18:45:36] Game Module Is Started. -->SWITH_DAIYITOUSHI
+[2023/08/14 18:45:36] Game Module Is Started. -->chunjie2009_dangboss
+[2023/08/14 18:45:36] ===>Xep Hang Khoi Dong Hoan Tat<===
+[2023/08/14 18:45:49] ChatConnection create: 127.0.0.1
+[2023/08/14 18:45:49] HostConnection create: 127.0.0.1
+[2023/08/14 18:45:49] TongConnection create: 127.0.0.1
+[2023/08/14 18:45:54] TongDataSendFinish: 127.0.0.1
+[2023/08/14 18:45:54] GameServerLogin: 127.0.0.1
+[2023/08/14 18:50:36] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/08/14 18:50:36] [2023-08-14 18:50:36]  NEW BATTLE START
+[2023/08/14 18:50:36] BattleID: 1   BattleLevel: 1   Issue: 4   4th.Round
+[2023/08/14 18:50:36] RoundID: 15   MapPattern: 11   BattleMapID:  12   WorldMapID: 381   MapName: C«ng thµnh chiÕn (khu vùc Cöu K   RuleID: 7
+[2023/08/14 18:50:36] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/08/14 18:50:36] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/08/14 18:50:36] [2023-08-14 18:50:36]  NEW BATTLE START
+[2023/08/14 18:50:36] BattleID: 1   BattleLevel: 2   Issue: 4   5th.Round
+[2023/08/14 18:50:36] RoundID: 16   MapPattern: 10   BattleMapID:  11   WorldMapID: 379   MapName: Hoµng Sa L©m Ngao ChiÕn   RuleID: 7
+[2023/08/14 18:50:36] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/08/14 18:50:36] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/08/14 18:50:36] [2023-08-14 18:50:36]  NEW BATTLE START
+[2023/08/14 18:50:36] BattleID: 1   BattleLevel: 3   Issue: 4   5th.Round
+[2023/08/14 18:50:36] RoundID: 16   MapPattern: 10   BattleMapID:  11   WorldMapID: 380   MapName: Hoµng Sa L©m Ngao ChiÕn   RuleID: 7
+[2023/08/14 18:50:36] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/08/14 18:50:36] =====> [TongKim] Chien Truong Tong Kim 18:50 BAT DAU
+[2023/08/14 19:00:36] =====> [phonglangdo] Phong Lang Do
+[2023/08/14 19:30:36] Boss Hoang Kim 51320 o thong tin tren khong co xuat hien, Npc ID 71, Cap bac Npc 513,
+[2023/08/14 19:30:36] Boss Hoang Kim 51120 o thong tin tren khong co xuat hien, Npc ID 4, Cap bac Npc 511,
+[2023/08/14 19:30:36] Boss Hoang Kim 52320 o thong tin tren khong co xuat hien, Npc ID 5, Cap bac Npc 523,
+[2023/08/14 19:45:36] GOLD BOSS COUNT :  0
+[2023/08/14 19:45:36] Create Boss Doc Co Thien Phong,1506,95,1,1497,3383,1----202308141945
+[2023/08/14 20:00:36] =====> BOSS THIEN TRI XUAT HIEN LUC 20H TANG 4 (boss_thien_tri_2000.lua)
+[2023/08/14 20:00:36] TRIEU HOI BOSS DAI TuyÒn C¬ Tö,747,95,162,1404,3417,4----202308142000
+[2023/08/14 20:00:36] TRIEU HOI BOSS DAI M¹nh Th­¬ng L­¬ng,583,95,224,1739,2857,3----202308142000
+[2023/08/14 20:00:36] =====> [phonglangdo] Phong Lang Do
+[2023/08/14 20:00:36] =====> [phonglangdo] Phong Lang Do 20h
+[2023/08/14 20:00:36] **************** Create GUOZHAN New Battle ****************
+[2023/08/14 20:00:36] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/08/14 20:00:36] [2023-08-14 20:00:36]  NEW BATTLE START
+[2023/08/14 20:00:36] BattleID: 2   BattleLevel: 3   Issue: 4   1th.Round
+[2023/08/14 20:00:36] RoundID: 1   MapPattern: 1   BattleMapID:  15   WorldMapID: 900   MapName: Quèc chiÕn Hoµng Sa L©m   RuleID: 10
+[2023/08/14 20:00:36] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/08/14 20:00:36] ***********************************************************
+[2023/08/14 20:10:36] =====> BOSS Hoang Kim jinshiliang XUAT HIEN:  20:10 (goldbossadjust_2010.lua)
+[2023/08/14 20:15:36] =====> BOSS Hoang Kim jinshiliang XUAT HIEN:  20:15 (goldbossadjust_2015.lua)
+[2023/08/14 20:20:36] =====> BOSS Hoang Kim jinshiliang XUAT HIEN:  20:20 (goldbossadjust_2020.lua)
+[2023/08/14 20:50:36] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/08/14 20:50:36] [2023-08-14 20:50:36]  NEW BATTLE START
+[2023/08/14 20:50:36] BattleID: 1   BattleLevel: 2   Issue: 4   6th.Round
+[2023/08/14 20:50:36] RoundID: 1   MapPattern: 8   BattleMapID:  8   WorldMapID: 379   MapName: Hoµng Sa L©m Ngao ChiÕn   RuleID: 7
+[2023/08/14 20:50:36] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/08/14 20:50:36] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/08/14 20:50:36] [2023-08-14 20:50:36]  NEW BATTLE START
+[2023/08/14 20:50:36] BattleID: 1   BattleLevel: 3   Issue: 4   6th.Round
+[2023/08/14 20:50:36] RoundID: 1   MapPattern: 8   BattleMapID:  8   WorldMapID: 380   MapName: Hoµng Sa L©m Ngao ChiÕn   RuleID: 7
+[2023/08/14 20:50:36] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/08/14 20:50:36] =====> [TongKim] Chien Truong Tong Kim 20:50 BAT DAU
+[2023/08/14 20:50:50] SockThread stop success
+[2023/08/14 20:50:50] S3Relay-¿ªÊ¼¹Ø±Õ£¡ S3Relay- bat dau dong lai! 
+[2023/08/14 20:50:50] 
+*
+***** S3Relay Stop (@ 0000/00/00 00:-941512:134777086.156173568) <<<<<
+*
+
+
+[2023/08/14 20:50:50] chat server shutdown
+[2023/08/14 20:50:50] tong server shutdown
+[2023/08/14 20:50:50] host server shutdown
+[2023/08/14 20:50:50] stop autotimer for Ping: 178.128.102.178
+[2023/08/14 20:50:50] S3Relay: ÓëRelayRootµÄÁ´½Ó¶Ï¿ªÁË -  cung voi RelayRoot lien tiep bi ngat quang - 178.128.102.178

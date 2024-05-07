@@ -1,0 +1,28 @@
+[2023-08-15 08:33:24]Connect to database[server1] on 127.0.0.1:3306
+[2023-08-15 13:20:45]QueryCount:342, ErrorCount:0
+[2023-08-15 13:20:45]Close database
+[2023-08-15 13:20:49]Connect to database[server1] on 127.0.0.1:3306
+[2023-08-15 13:52:31]QueryCount:102, ErrorCount:0
+[2023-08-15 13:52:31]Close database
+[2023-08-15 13:52:39]Connect to database[server1] on 127.0.0.1:3306
+[2023-08-15 13:59:51]QueryCount:70, ErrorCount:0
+[2023-08-15 13:59:51]Close database
+[2023-08-15 13:59:54]Connect to database[server1] on 127.0.0.1:3306
+[2023-08-15 15:07:16]QueryCount:226, ErrorCount:0
+[2023-08-15 15:07:16]Close database
+[2023-08-15 15:09:53]Connect to database[server1] on 127.0.0.1:3306
+[2023-08-15 18:46:25]QueryCount:306, ErrorCount:0
+[2023-08-15 18:46:25]Close database
+[2023-08-15 18:46:29]Connect to database[server1] on 127.0.0.1:3306
+[2023-08-15 20:28:50]QueryCount:428, ErrorCount:0
+[2023-08-15 20:28:50]Close database
+[2023-08-15 20:28:53]Connect to database[server1] on 127.0.0.1:3306
+[2023-08-15 20:37:35]QueryCount:84, ErrorCount:0
+[2023-08-15 20:37:35]Close database
+[2023-08-15 20:37:38]Connect to database[server1] on 127.0.0.1:3306
+[2023-08-15 20:40:30]QueryCount:70, ErrorCount:0
+[2023-08-15 20:40:30]Close database
+[2023-08-15 20:40:34]Connect to database[server1] on 127.0.0.1:3306
+[2023-08-15 20:47:16]QueryCount:78, ErrorCount:0
+[2023-08-15 20:47:16]Close database
+[2023-08-15 20:47:19]Connect to database[server1] on 127.0.0.1:3306

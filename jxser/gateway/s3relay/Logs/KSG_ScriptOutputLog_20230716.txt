@@ -1,0 +1,1919 @@
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun vuotai\challegeoftime-dailyrank.lua TaskContent
+CallFun vuotai\challengeoftime.lua TaskContent
+CallFun xephang\topten_sortlist_00_00.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun vuotai\challengeoftime.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun vuotai\challengeoftime.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun vuotai\challengeoftime.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun vuotai\challengeoftime.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun vuotai\challengeoftime.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun vuotai\challengeoftime.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun vuotai\challengeoftime.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun vuotai\challengeoftime.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun /script/gc_exit.lua main
+ExecuteCode /script/protocol.lua 
+ExecuteCode \script\lib\objbuffer_head.lua 
+ExecuteCode /script/sharedata_key.lua 
+ExecuteCode /script/event/msg2allworld.lua 
+ExecuteCode /script/event/jiefang0804/head.lua 
+ExecuteCode /script/event/other/caipiao/head_gc_old.lua 
+ExecuteCode /script/event/other/caipiao/head_gc.lua 
+ExecuteCode /script/event/zhaojingling/event.lua 
+ExecuteCode /script/event/expansion/201006/fuguijinhe/fuguijinhe.lua 
+ExecuteCode \script\lib\remoteexc.lua 
+ExecuteCode \script\lib\baseclass.lua 
+ExecuteCode \script\lib\common.lua 
+ExecuteCode /script/event/goldboss_adjust_2011/boss_initialize.lua 
+ExecuteCode /script/event/zhongqiu_jieri/2010/head.lua 
+ExecuteCode \script\lib\sharedata.lua 
+ExecuteCode /script/event/zhongqiu_jieri/head.lua 
+ExecuteCode \script\tong\tong_header.lua 
+ExecuteCode /script/event/card.lua 
+ExecuteCode /script/event/2011dayanqunxia/event.lua 
+ExecuteCode /script/event/2012april_zhushuai/event.lua 
+ExecuteCode /script/event/shengdan/200811/setbossdeath.lua 
+ExecuteCode \script\gb_taskfuncs.lua 
+ExecuteCode /script/event/bingo_machine/prize_pool.lua 
+ExecuteCode /script/event/citywar.lua 
+ExecuteCode /script/event/tongwar/event.lua 
+ExecuteCode /script/event/tongwar/score.lua 
+ExecuteCode /script/event/wulin_2nd/head.lua 
+ExecuteCode /script/event/wulin_2nd/task.lua 
+ExecuteCode /script/event/wulin_2nd/members.lua 
+ExecuteCode /script/lib/log.lua 
+ExecuteCode /script/lib/mapdb.lua 
+ExecuteCode /script/lib/toplist.lua 
+ExecuteCode /script/leaguematch/log.lua 
+ExecuteCode \script\leaguematch\head.lua 
+ExecuteCode \script\leaguematch\timetable.lua 
+ExecuteCode /script/leaguematch/joinmatch.lua 
+ExecuteCode /script/leaguematch/league.lua 
+ExecuteCode /script/leaguematch/task.lua 
+ExecuteCode \script\leaguematch\switch.lua 
+ExecuteCode /script/misc/timeline/serveropentimeevent.lua 
+ExecuteCode /script/misc/rank/rankdata.lua 
+ExecuteCode /script/misc/rank/rank.lua 
+ExecuteCode /script/misc/rank/equip_value_rank.lua 
+ExecuteCode /script/gb_modulefuncs.lua 
+ExecuteCode /script/limitedaward_head.lua 
+ExecuteCode /script/jxprivate/jx_xephang.lua 
+ExecuteCode /script/mission/sevencity/protocol.lua 
+ExecuteCode \script\mission\sevencity\war.lua 
+ExecuteCode /script/mission/dungeon/dungeonlog.lua 
+ExecuteCode /script/mission/dungeon/dungeondata.lua 
+ExecuteCode /script/mission/dungeon/datamanager.lua 
+ExecuteCode /script/mission/dungeon/dungeons/shiliantang/shiliantangdata.lua 
+ExecuteCode /script/mission/boss/bigboss.lua 
+ExecuteCode /script/mission/citywar_global/ladder.lua 
+ExecuteCode /script/missions/arena/protocol.lua 
+ExecuteCode \script\missions\arena\player.lua 
+ExecuteCode \script\missions\arena\map.lua 
+ExecuteCode /script/missions/arena/cmd.lua 
+ExecuteCode /script/second_hand_store/second_hand_gc.lua 
+ExecuteCode \script\second_hand_store\goodslist.lua 
+ExecuteCode /script/tong/contribution_entry.lua 
+ExecuteCode \script\tong\tong_setting.lua 
+ExecuteCode \script\tong\log.lua 
+ExecuteCode /script/tong/tong.lua 
+ExecuteCode \script\tong\workshop\workshop_setting.lua 
+ExecuteCode /script/tong/tong_statistics.lua 
+ExecuteCode /script/tong/workshop/workshop_head.lua 
+ExecuteCode \script\tong\workshop\workshop_logic.lua 
+ExecuteCode \script\tong\workshop\workshop_def.lua 
+ExecuteCode /script/tong/workshop/ws_shilian.lua 
+ExecuteCode /script/tong/workshop/ws_tiangong.lua 
+ExecuteCode /script/tong/workshop/tongcolltask.lua 
+ExecuteCode /script/tong/workshop/ws_liwu.lua 
+ExecuteCode /script/tong/workshop/ws_mianju.lua 
+ExecuteCode /script/tong/workshop/ws_huodong.lua 
+ExecuteCode /script/tong/workshop/ws_tianyi.lua 
+ExecuteCode /script/tong/workshop/ws_bingjia.lua 
+ExecuteCode /script/tong/addtongnpc.lua 
+ExecuteCode /script/tong/tong_mix.lua 
+ExecuteCode /script/gc_exit.lua 
+ExecuteCode \\RelaySetting\\battle\\script\\rf_bintree_fix.lua 
+ExecuteCode \RelaySetting\battle\script\rf_header.lua 
+ExecuteCode \relaysetting\task\banghoi\tong_claimwar.lua 
+ExecuteCode \RelaySetting\Task\thongbaohethong\announce.lua 
+CallFun \RelaySetting\Task\thongbaohethong\announce.lua TaskShedule
+ExecuteCode \RelaySetting\Task\game_module_settings.lua 
+CallFun \RelaySetting\Task\game_module_settings.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\small_goldboss_2000.lua 
+ExecuteCode \RelaySetting\Task\boss\goldbosshead_2000.lua 
+ExecuteCode \RelaySetting\Task\boss\GoldBossHead.lua 
+CallFun \RelaySetting\Task\boss\small_goldboss_2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_honour.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_honour.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1250.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1450.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1450.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1650.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1650.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1850.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1850.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_2250.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_2250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\ladderload.lua 
+CallFun \RelaySetting\Task\xephang\ladderload.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\topten_sortlist_00_00.lua 
+CallFun \RelaySetting\Task\xephang\topten_sortlist_00_00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\topten_sortlist_10_00.lua 
+CallFun \RelaySetting\Task\xephang\topten_sortlist_10_00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\vuotai\challegeoftime-dailyrank.lua 
+CallFun \RelaySetting\Task\vuotai\challegeoftime-dailyrank.lua TaskShedule
+ExecuteCode \RelaySetting\Task\vuotai\challengeoftime.lua 
+CallFun \RelaySetting\Task\vuotai\challengeoftime.lua TaskShedule
+CallFun game_module_settings.lua TaskContent
+CallFun xephang\ladderload.lua TaskContent
+CallFun thongbaohethong\announce.lua GameSvrConnected
+CallFun game_module_settings.lua GameSvrConnected
+CallFun boss\small_goldboss_2000.lua GameSvrConnected
+CallFun tongkim\battle_1_honour.lua GameSvrConnected
+CallFun tongkim\battle_1_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_1050.lua GameSvrConnected
+CallFun tongkim\battle_1_1250.lua GameSvrConnected
+CallFun tongkim\battle_1_1450.lua GameSvrConnected
+CallFun tongkim\battle_1_1650.lua GameSvrConnected
+CallFun tongkim\battle_1_1850.lua GameSvrConnected
+CallFun tongkim\battle_1_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_2250.lua GameSvrConnected
+CallFun xephang\ladderload.lua GameSvrConnected
+CallFun xephang\topten_sortlist_00_00.lua GameSvrConnected
+CallFun xephang\topten_sortlist_10_00.lua GameSvrConnected
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrConnected
+CallFun vuotai\challengeoftime.lua GameSvrConnected
+CallFun thongbaohethong\announce.lua GameSvrReady
+CallFun game_module_settings.lua GameSvrReady
+CallFun boss\small_goldboss_2000.lua GameSvrReady
+CallFun tongkim\battle_1_honour.lua GameSvrReady
+CallFun tongkim\battle_1_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_2050.lua GameSvrReady
+CallFun tongkim\battle_1_1050.lua GameSvrReady
+CallFun tongkim\battle_1_1250.lua GameSvrReady
+CallFun tongkim\battle_1_1450.lua GameSvrReady
+CallFun tongkim\battle_1_1650.lua GameSvrReady
+CallFun tongkim\battle_1_1850.lua GameSvrReady
+CallFun tongkim\battle_1_2050.lua GameSvrReady
+CallFun tongkim\battle_1_2250.lua GameSvrReady
+CallFun xephang\ladderload.lua GameSvrReady
+CallFun xephang\topten_sortlist_00_00.lua GameSvrReady
+CallFun xephang\topten_sortlist_10_00.lua GameSvrReady
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrReady
+CallFun vuotai\challengeoftime.lua GameSvrReady
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun xephang\topten_sortlist_10_00.lua TaskContent
+CallFun vuotai\challengeoftime.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun tongkim\battle_1_1050.lua TaskContent
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun vuotai\challengeoftime.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun vuotai\challengeoftime.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun /script/gc_exit.lua main
+ExecuteCode /script/protocol.lua 
+ExecuteCode \script\lib\objbuffer_head.lua 
+ExecuteCode /script/sharedata_key.lua 
+ExecuteCode /script/event/msg2allworld.lua 
+ExecuteCode /script/event/jiefang0804/head.lua 
+ExecuteCode /script/event/other/caipiao/head_gc_old.lua 
+ExecuteCode /script/event/other/caipiao/head_gc.lua 
+ExecuteCode /script/event/zhaojingling/event.lua 
+ExecuteCode /script/event/expansion/201006/fuguijinhe/fuguijinhe.lua 
+ExecuteCode \script\lib\remoteexc.lua 
+ExecuteCode \script\lib\baseclass.lua 
+ExecuteCode \script\lib\common.lua 
+ExecuteCode /script/event/goldboss_adjust_2011/boss_initialize.lua 
+ExecuteCode /script/event/zhongqiu_jieri/2010/head.lua 
+ExecuteCode \script\lib\sharedata.lua 
+ExecuteCode /script/event/zhongqiu_jieri/head.lua 
+ExecuteCode \script\tong\tong_header.lua 
+ExecuteCode /script/event/card.lua 
+ExecuteCode /script/event/2011dayanqunxia/event.lua 
+ExecuteCode /script/event/2012april_zhushuai/event.lua 
+ExecuteCode /script/event/shengdan/200811/setbossdeath.lua 
+ExecuteCode \script\gb_taskfuncs.lua 
+ExecuteCode /script/event/bingo_machine/prize_pool.lua 
+ExecuteCode /script/event/citywar.lua 
+ExecuteCode /script/event/tongwar/event.lua 
+ExecuteCode /script/event/tongwar/score.lua 
+ExecuteCode /script/event/wulin_2nd/head.lua 
+ExecuteCode /script/event/wulin_2nd/task.lua 
+ExecuteCode /script/event/wulin_2nd/members.lua 
+ExecuteCode /script/lib/log.lua 
+ExecuteCode /script/lib/mapdb.lua 
+ExecuteCode /script/lib/toplist.lua 
+ExecuteCode /script/leaguematch/log.lua 
+ExecuteCode \script\leaguematch\head.lua 
+ExecuteCode \script\leaguematch\timetable.lua 
+ExecuteCode /script/leaguematch/joinmatch.lua 
+ExecuteCode /script/leaguematch/league.lua 
+ExecuteCode /script/leaguematch/task.lua 
+ExecuteCode \script\leaguematch\switch.lua 
+ExecuteCode /script/misc/timeline/serveropentimeevent.lua 
+ExecuteCode /script/misc/rank/rankdata.lua 
+ExecuteCode /script/misc/rank/rank.lua 
+ExecuteCode /script/misc/rank/equip_value_rank.lua 
+ExecuteCode /script/gb_modulefuncs.lua 
+ExecuteCode /script/limitedaward_head.lua 
+ExecuteCode /script/jxprivate/jx_xephang.lua 
+ExecuteCode /script/mission/sevencity/protocol.lua 
+ExecuteCode \script\mission\sevencity\war.lua 
+ExecuteCode /script/mission/dungeon/dungeonlog.lua 
+ExecuteCode /script/mission/dungeon/dungeondata.lua 
+ExecuteCode /script/mission/dungeon/datamanager.lua 
+ExecuteCode /script/mission/dungeon/dungeons/shiliantang/shiliantangdata.lua 
+ExecuteCode /script/mission/boss/bigboss.lua 
+ExecuteCode /script/mission/citywar_global/ladder.lua 
+ExecuteCode /script/missions/arena/protocol.lua 
+ExecuteCode \script\missions\arena\player.lua 
+ExecuteCode \script\missions\arena\map.lua 
+ExecuteCode /script/missions/arena/cmd.lua 
+ExecuteCode /script/second_hand_store/second_hand_gc.lua 
+ExecuteCode \script\second_hand_store\goodslist.lua 
+ExecuteCode /script/tong/contribution_entry.lua 
+ExecuteCode \script\tong\tong_setting.lua 
+ExecuteCode \script\tong\log.lua 
+ExecuteCode /script/tong/tong.lua 
+ExecuteCode \script\tong\workshop\workshop_setting.lua 
+ExecuteCode /script/tong/tong_statistics.lua 
+ExecuteCode /script/tong/workshop/workshop_head.lua 
+ExecuteCode \script\tong\workshop\workshop_logic.lua 
+ExecuteCode \script\tong\workshop\workshop_def.lua 
+ExecuteCode /script/tong/workshop/ws_shilian.lua 
+ExecuteCode /script/tong/workshop/ws_tiangong.lua 
+ExecuteCode /script/tong/workshop/tongcolltask.lua 
+ExecuteCode /script/tong/workshop/ws_liwu.lua 
+ExecuteCode /script/tong/workshop/ws_mianju.lua 
+ExecuteCode /script/tong/workshop/ws_huodong.lua 
+ExecuteCode /script/tong/workshop/ws_tianyi.lua 
+ExecuteCode /script/tong/workshop/ws_bingjia.lua 
+ExecuteCode /script/tong/addtongnpc.lua 
+ExecuteCode /script/tong/tong_mix.lua 
+ExecuteCode /script/gc_exit.lua 
+ExecuteCode \\RelaySetting\\battle\\script\\rf_bintree_fix.lua 
+ExecuteCode \RelaySetting\battle\script\rf_header.lua 
+ExecuteCode \relaysetting\task\banghoi\tong_claimwar.lua 
+ExecuteCode \RelaySetting\Task\thongbaohethong\announce.lua 
+CallFun \RelaySetting\Task\thongbaohethong\announce.lua TaskShedule
+ExecuteCode \RelaySetting\Task\game_module_settings.lua 
+CallFun \RelaySetting\Task\game_module_settings.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\small_goldboss_2000.lua 
+ExecuteCode \RelaySetting\Task\boss\goldbosshead_2000.lua 
+ExecuteCode \RelaySetting\Task\boss\GoldBossHead.lua 
+CallFun \RelaySetting\Task\boss\small_goldboss_2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_honour.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_honour.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1250.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1450.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1450.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1650.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1650.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1850.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1850.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_2250.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_2250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\ladderload.lua 
+CallFun \RelaySetting\Task\xephang\ladderload.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\topten_sortlist_00_00.lua 
+CallFun \RelaySetting\Task\xephang\topten_sortlist_00_00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\topten_sortlist_10_00.lua 
+CallFun \RelaySetting\Task\xephang\topten_sortlist_10_00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\vuotai\challegeoftime-dailyrank.lua 
+CallFun \RelaySetting\Task\vuotai\challegeoftime-dailyrank.lua TaskShedule
+ExecuteCode \RelaySetting\Task\vuotai\challengeoftime.lua 
+CallFun \RelaySetting\Task\vuotai\challengeoftime.lua TaskShedule
+CallFun game_module_settings.lua TaskContent
+CallFun xephang\ladderload.lua TaskContent
+CallFun thongbaohethong\announce.lua GameSvrConnected
+CallFun game_module_settings.lua GameSvrConnected
+CallFun boss\small_goldboss_2000.lua GameSvrConnected
+CallFun tongkim\battle_1_honour.lua GameSvrConnected
+CallFun tongkim\battle_1_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_1050.lua GameSvrConnected
+CallFun tongkim\battle_1_1250.lua GameSvrConnected
+CallFun tongkim\battle_1_1450.lua GameSvrConnected
+CallFun tongkim\battle_1_1650.lua GameSvrConnected
+CallFun tongkim\battle_1_1850.lua GameSvrConnected
+CallFun tongkim\battle_1_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_2250.lua GameSvrConnected
+CallFun xephang\ladderload.lua GameSvrConnected
+CallFun xephang\topten_sortlist_00_00.lua GameSvrConnected
+CallFun xephang\topten_sortlist_10_00.lua GameSvrConnected
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrConnected
+CallFun vuotai\challengeoftime.lua GameSvrConnected
+CallFun thongbaohethong\announce.lua GameSvrReady
+CallFun game_module_settings.lua GameSvrReady
+CallFun boss\small_goldboss_2000.lua GameSvrReady
+CallFun tongkim\battle_1_honour.lua GameSvrReady
+CallFun tongkim\battle_1_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_2050.lua GameSvrReady
+CallFun tongkim\battle_1_1050.lua GameSvrReady
+CallFun tongkim\battle_1_1250.lua GameSvrReady
+CallFun tongkim\battle_1_1450.lua GameSvrReady
+CallFun tongkim\battle_1_1650.lua GameSvrReady
+CallFun tongkim\battle_1_1850.lua GameSvrReady
+CallFun tongkim\battle_1_2050.lua GameSvrReady
+CallFun tongkim\battle_1_2250.lua GameSvrReady
+CallFun xephang\ladderload.lua GameSvrReady
+CallFun xephang\topten_sortlist_00_00.lua GameSvrReady
+CallFun xephang\topten_sortlist_10_00.lua GameSvrReady
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrReady
+CallFun vuotai\challengeoftime.lua GameSvrReady
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun tongkim\battle_1_1250.lua TaskContent
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun vuotai\challengeoftime.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun vuotai\challengeoftime.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun tongkim\battle_1_1450.lua TaskContent
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun vuotai\challengeoftime.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun vuotai\challengeoftime.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun tongkim\battle_1_1650.lua TaskContent
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun vuotai\challengeoftime.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun /script/gc_exit.lua main
+ExecuteCode /script/protocol.lua 
+ExecuteCode \script\lib\objbuffer_head.lua 
+ExecuteCode /script/sharedata_key.lua 
+ExecuteCode /script/event/msg2allworld.lua 
+ExecuteCode /script/event/jiefang0804/head.lua 
+ExecuteCode /script/event/other/caipiao/head_gc_old.lua 
+ExecuteCode /script/event/other/caipiao/head_gc.lua 
+ExecuteCode /script/event/zhaojingling/event.lua 
+ExecuteCode /script/event/expansion/201006/fuguijinhe/fuguijinhe.lua 
+ExecuteCode \script\lib\remoteexc.lua 
+ExecuteCode \script\lib\baseclass.lua 
+ExecuteCode \script\lib\common.lua 
+ExecuteCode /script/event/goldboss_adjust_2011/boss_initialize.lua 
+ExecuteCode /script/event/zhongqiu_jieri/2010/head.lua 
+ExecuteCode \script\lib\sharedata.lua 
+ExecuteCode /script/event/zhongqiu_jieri/head.lua 
+ExecuteCode \script\tong\tong_header.lua 
+ExecuteCode /script/event/card.lua 
+ExecuteCode /script/event/2011dayanqunxia/event.lua 
+ExecuteCode /script/event/2012april_zhushuai/event.lua 
+ExecuteCode /script/event/shengdan/200811/setbossdeath.lua 
+ExecuteCode \script\gb_taskfuncs.lua 
+ExecuteCode /script/event/bingo_machine/prize_pool.lua 
+ExecuteCode /script/event/citywar.lua 
+ExecuteCode /script/event/tongwar/event.lua 
+ExecuteCode /script/event/tongwar/score.lua 
+ExecuteCode /script/event/wulin_2nd/head.lua 
+ExecuteCode /script/event/wulin_2nd/task.lua 
+ExecuteCode /script/event/wulin_2nd/members.lua 
+ExecuteCode /script/lib/log.lua 
+ExecuteCode /script/lib/mapdb.lua 
+ExecuteCode /script/lib/toplist.lua 
+ExecuteCode /script/leaguematch/log.lua 
+ExecuteCode \script\leaguematch\head.lua 
+ExecuteCode \script\leaguematch\timetable.lua 
+ExecuteCode /script/leaguematch/joinmatch.lua 
+ExecuteCode /script/leaguematch/league.lua 
+ExecuteCode /script/leaguematch/task.lua 
+ExecuteCode \script\leaguematch\switch.lua 
+ExecuteCode /script/misc/timeline/serveropentimeevent.lua 
+ExecuteCode /script/misc/rank/rankdata.lua 
+ExecuteCode /script/misc/rank/rank.lua 
+ExecuteCode /script/misc/rank/equip_value_rank.lua 
+ExecuteCode /script/gb_modulefuncs.lua 
+ExecuteCode /script/limitedaward_head.lua 
+ExecuteCode /script/jxprivate/jx_xephang.lua 
+ExecuteCode /script/mission/sevencity/protocol.lua 
+ExecuteCode \script\mission\sevencity\war.lua 
+ExecuteCode /script/mission/dungeon/dungeonlog.lua 
+ExecuteCode /script/mission/dungeon/dungeondata.lua 
+ExecuteCode /script/mission/dungeon/datamanager.lua 
+ExecuteCode /script/mission/dungeon/dungeons/shiliantang/shiliantangdata.lua 
+ExecuteCode /script/mission/boss/bigboss.lua 
+ExecuteCode /script/mission/citywar_global/ladder.lua 
+ExecuteCode /script/missions/arena/protocol.lua 
+ExecuteCode \script\missions\arena\player.lua 
+ExecuteCode \script\missions\arena\map.lua 
+ExecuteCode /script/missions/arena/cmd.lua 
+ExecuteCode /script/second_hand_store/second_hand_gc.lua 
+ExecuteCode \script\second_hand_store\goodslist.lua 
+ExecuteCode /script/tong/contribution_entry.lua 
+ExecuteCode \script\tong\tong_setting.lua 
+ExecuteCode \script\tong\log.lua 
+ExecuteCode /script/tong/tong.lua 
+ExecuteCode \script\tong\workshop\workshop_setting.lua 
+ExecuteCode /script/tong/tong_statistics.lua 
+ExecuteCode /script/tong/workshop/workshop_head.lua 
+ExecuteCode \script\tong\workshop\workshop_logic.lua 
+ExecuteCode \script\tong\workshop\workshop_def.lua 
+ExecuteCode /script/tong/workshop/ws_shilian.lua 
+ExecuteCode /script/tong/workshop/ws_tiangong.lua 
+ExecuteCode /script/tong/workshop/tongcolltask.lua 
+ExecuteCode /script/tong/workshop/ws_liwu.lua 
+ExecuteCode /script/tong/workshop/ws_mianju.lua 
+ExecuteCode /script/tong/workshop/ws_huodong.lua 
+ExecuteCode /script/tong/workshop/ws_tianyi.lua 
+ExecuteCode /script/tong/workshop/ws_bingjia.lua 
+ExecuteCode /script/tong/addtongnpc.lua 
+ExecuteCode /script/tong/tong_mix.lua 
+ExecuteCode /script/gc_exit.lua 
+ExecuteCode \\RelaySetting\\battle\\script\\rf_bintree_fix.lua 
+ExecuteCode \RelaySetting\battle\script\rf_header.lua 
+ExecuteCode \relaysetting\task\banghoi\tong_claimwar.lua 
+ExecuteCode \RelaySetting\Task\thongbaohethong\announce.lua 
+CallFun \RelaySetting\Task\thongbaohethong\announce.lua TaskShedule
+ExecuteCode \RelaySetting\Task\game_module_settings.lua 
+CallFun \RelaySetting\Task\game_module_settings.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\small_goldboss_2000.lua 
+ExecuteCode \RelaySetting\Task\boss\goldbosshead_2000.lua 
+ExecuteCode \RelaySetting\Task\boss\GoldBossHead.lua 
+CallFun \RelaySetting\Task\boss\small_goldboss_2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_honour.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_honour.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1250.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1450.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1450.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1650.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1650.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1850.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1850.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_2250.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_2250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\ladderload.lua 
+CallFun \RelaySetting\Task\xephang\ladderload.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\topten_sortlist_00_00.lua 
+CallFun \RelaySetting\Task\xephang\topten_sortlist_00_00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\topten_sortlist_10_00.lua 
+CallFun \RelaySetting\Task\xephang\topten_sortlist_10_00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\vuotai\challegeoftime-dailyrank.lua 
+CallFun \RelaySetting\Task\vuotai\challegeoftime-dailyrank.lua TaskShedule
+ExecuteCode \RelaySetting\Task\vuotai\challengeoftime.lua 
+CallFun \RelaySetting\Task\vuotai\challengeoftime.lua TaskShedule
+CallFun game_module_settings.lua TaskContent
+CallFun xephang\ladderload.lua TaskContent
+CallFun thongbaohethong\announce.lua GameSvrConnected
+CallFun game_module_settings.lua GameSvrConnected
+CallFun boss\small_goldboss_2000.lua GameSvrConnected
+CallFun tongkim\battle_1_honour.lua GameSvrConnected
+CallFun tongkim\battle_1_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_1050.lua GameSvrConnected
+CallFun tongkim\battle_1_1250.lua GameSvrConnected
+CallFun tongkim\battle_1_1450.lua GameSvrConnected
+CallFun tongkim\battle_1_1650.lua GameSvrConnected
+CallFun tongkim\battle_1_1850.lua GameSvrConnected
+CallFun tongkim\battle_1_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_2250.lua GameSvrConnected
+CallFun xephang\ladderload.lua GameSvrConnected
+CallFun xephang\topten_sortlist_00_00.lua GameSvrConnected
+CallFun xephang\topten_sortlist_10_00.lua GameSvrConnected
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrConnected
+CallFun vuotai\challengeoftime.lua GameSvrConnected
+CallFun thongbaohethong\announce.lua GameSvrReady
+CallFun game_module_settings.lua GameSvrReady
+CallFun boss\small_goldboss_2000.lua GameSvrReady
+CallFun tongkim\battle_1_honour.lua GameSvrReady
+CallFun tongkim\battle_1_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_2050.lua GameSvrReady
+CallFun tongkim\battle_1_1050.lua GameSvrReady
+CallFun tongkim\battle_1_1250.lua GameSvrReady
+CallFun tongkim\battle_1_1450.lua GameSvrReady
+CallFun tongkim\battle_1_1650.lua GameSvrReady
+CallFun tongkim\battle_1_1850.lua GameSvrReady
+CallFun tongkim\battle_1_2050.lua GameSvrReady
+CallFun tongkim\battle_1_2250.lua GameSvrReady
+CallFun xephang\ladderload.lua GameSvrReady
+CallFun xephang\topten_sortlist_00_00.lua GameSvrReady
+CallFun xephang\topten_sortlist_10_00.lua GameSvrReady
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrReady
+CallFun vuotai\challengeoftime.lua GameSvrReady
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun vuotai\challengeoftime.lua TaskContent
+CallFun /script/gc_exit.lua main
+ExecuteCode /script/protocol.lua 
+ExecuteCode \script\lib\objbuffer_head.lua 
+ExecuteCode /script/sharedata_key.lua 
+ExecuteCode /script/event/msg2allworld.lua 
+ExecuteCode /script/event/jiefang0804/head.lua 
+ExecuteCode /script/event/other/caipiao/head_gc_old.lua 
+ExecuteCode /script/event/other/caipiao/head_gc.lua 
+ExecuteCode /script/event/zhaojingling/event.lua 
+ExecuteCode /script/event/expansion/201006/fuguijinhe/fuguijinhe.lua 
+ExecuteCode \script\lib\remoteexc.lua 
+ExecuteCode \script\lib\baseclass.lua 
+ExecuteCode \script\lib\common.lua 
+ExecuteCode /script/event/goldboss_adjust_2011/boss_initialize.lua 
+ExecuteCode /script/event/zhongqiu_jieri/2010/head.lua 
+ExecuteCode \script\lib\sharedata.lua 
+ExecuteCode /script/event/zhongqiu_jieri/head.lua 
+ExecuteCode \script\tong\tong_header.lua 
+ExecuteCode /script/event/card.lua 
+ExecuteCode /script/event/2011dayanqunxia/event.lua 
+ExecuteCode /script/event/2012april_zhushuai/event.lua 
+ExecuteCode /script/event/shengdan/200811/setbossdeath.lua 
+ExecuteCode \script\gb_taskfuncs.lua 
+ExecuteCode /script/event/bingo_machine/prize_pool.lua 
+ExecuteCode /script/event/citywar.lua 
+ExecuteCode /script/event/tongwar/event.lua 
+ExecuteCode /script/event/tongwar/score.lua 
+ExecuteCode /script/event/wulin_2nd/head.lua 
+ExecuteCode /script/event/wulin_2nd/task.lua 
+ExecuteCode /script/event/wulin_2nd/members.lua 
+ExecuteCode /script/lib/log.lua 
+ExecuteCode /script/lib/mapdb.lua 
+ExecuteCode /script/lib/toplist.lua 
+ExecuteCode /script/leaguematch/log.lua 
+ExecuteCode \script\leaguematch\head.lua 
+ExecuteCode \script\leaguematch\timetable.lua 
+ExecuteCode /script/leaguematch/joinmatch.lua 
+ExecuteCode /script/leaguematch/league.lua 
+ExecuteCode /script/leaguematch/task.lua 
+ExecuteCode \script\leaguematch\switch.lua 
+ExecuteCode /script/misc/timeline/serveropentimeevent.lua 
+ExecuteCode /script/misc/rank/rankdata.lua 
+ExecuteCode /script/misc/rank/rank.lua 
+ExecuteCode /script/misc/rank/equip_value_rank.lua 
+ExecuteCode /script/gb_modulefuncs.lua 
+ExecuteCode /script/limitedaward_head.lua 
+ExecuteCode /script/jxprivate/jx_xephang.lua 
+ExecuteCode /script/mission/sevencity/protocol.lua 
+ExecuteCode \script\mission\sevencity\war.lua 
+ExecuteCode /script/mission/dungeon/dungeonlog.lua 
+ExecuteCode /script/mission/dungeon/dungeondata.lua 
+ExecuteCode /script/mission/dungeon/datamanager.lua 
+ExecuteCode /script/mission/dungeon/dungeons/shiliantang/shiliantangdata.lua 
+ExecuteCode /script/mission/boss/bigboss.lua 
+ExecuteCode /script/mission/citywar_global/ladder.lua 
+ExecuteCode /script/missions/arena/protocol.lua 
+ExecuteCode \script\missions\arena\player.lua 
+ExecuteCode \script\missions\arena\map.lua 
+ExecuteCode /script/missions/arena/cmd.lua 
+ExecuteCode /script/second_hand_store/second_hand_gc.lua 
+ExecuteCode \script\second_hand_store\goodslist.lua 
+ExecuteCode /script/tong/contribution_entry.lua 
+ExecuteCode \script\tong\tong_setting.lua 
+ExecuteCode \script\tong\log.lua 
+ExecuteCode /script/tong/tong.lua 
+ExecuteCode \script\tong\workshop\workshop_setting.lua 
+ExecuteCode /script/tong/tong_statistics.lua 
+ExecuteCode /script/tong/workshop/workshop_head.lua 
+ExecuteCode \script\tong\workshop\workshop_logic.lua 
+ExecuteCode \script\tong\workshop\workshop_def.lua 
+ExecuteCode /script/tong/workshop/ws_shilian.lua 
+ExecuteCode /script/tong/workshop/ws_tiangong.lua 
+ExecuteCode /script/tong/workshop/tongcolltask.lua 
+ExecuteCode /script/tong/workshop/ws_liwu.lua 
+ExecuteCode /script/tong/workshop/ws_mianju.lua 
+ExecuteCode /script/tong/workshop/ws_huodong.lua 
+ExecuteCode /script/tong/workshop/ws_tianyi.lua 
+ExecuteCode /script/tong/workshop/ws_bingjia.lua 
+ExecuteCode /script/tong/addtongnpc.lua 
+ExecuteCode /script/tong/tong_mix.lua 
+ExecuteCode /script/gc_exit.lua 
+ExecuteCode \\RelaySetting\\battle\\script\\rf_bintree_fix.lua 
+ExecuteCode \RelaySetting\battle\script\rf_header.lua 
+ExecuteCode \relaysetting\task\banghoi\tong_claimwar.lua 
+ExecuteCode \RelaySetting\Task\thongbaohethong\announce.lua 
+CallFun \RelaySetting\Task\thongbaohethong\announce.lua TaskShedule
+ExecuteCode \RelaySetting\Task\game_module_settings.lua 
+CallFun \RelaySetting\Task\game_module_settings.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\small_goldboss_2000.lua 
+ExecuteCode \RelaySetting\Task\boss\goldbosshead_2000.lua 
+ExecuteCode \RelaySetting\Task\boss\GoldBossHead.lua 
+CallFun \RelaySetting\Task\boss\small_goldboss_2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_honour.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_honour.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1250.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1450.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1450.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1650.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1650.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1850.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1850.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_2250.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_2250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\ladderload.lua 
+CallFun \RelaySetting\Task\xephang\ladderload.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\topten_sortlist_00_00.lua 
+CallFun \RelaySetting\Task\xephang\topten_sortlist_00_00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\topten_sortlist_10_00.lua 
+CallFun \RelaySetting\Task\xephang\topten_sortlist_10_00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\vuotai\challegeoftime-dailyrank.lua 
+CallFun \RelaySetting\Task\vuotai\challegeoftime-dailyrank.lua TaskShedule
+ExecuteCode \RelaySetting\Task\vuotai\challengeoftime.lua 
+CallFun \RelaySetting\Task\vuotai\challengeoftime.lua TaskShedule
+CallFun game_module_settings.lua TaskContent
+CallFun xephang\ladderload.lua TaskContent
+CallFun thongbaohethong\announce.lua GameSvrConnected
+CallFun game_module_settings.lua GameSvrConnected
+CallFun boss\small_goldboss_2000.lua GameSvrConnected
+CallFun tongkim\battle_1_honour.lua GameSvrConnected
+CallFun tongkim\battle_1_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_1050.lua GameSvrConnected
+CallFun tongkim\battle_1_1250.lua GameSvrConnected
+CallFun tongkim\battle_1_1450.lua GameSvrConnected
+CallFun tongkim\battle_1_1650.lua GameSvrConnected
+CallFun tongkim\battle_1_1850.lua GameSvrConnected
+CallFun tongkim\battle_1_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_2250.lua GameSvrConnected
+CallFun xephang\ladderload.lua GameSvrConnected
+CallFun xephang\topten_sortlist_00_00.lua GameSvrConnected
+CallFun xephang\topten_sortlist_10_00.lua GameSvrConnected
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrConnected
+CallFun vuotai\challengeoftime.lua GameSvrConnected
+CallFun thongbaohethong\announce.lua GameSvrReady
+CallFun game_module_settings.lua GameSvrReady
+CallFun boss\small_goldboss_2000.lua GameSvrReady
+CallFun tongkim\battle_1_honour.lua GameSvrReady
+CallFun tongkim\battle_1_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_2050.lua GameSvrReady
+CallFun tongkim\battle_1_1050.lua GameSvrReady
+CallFun tongkim\battle_1_1250.lua GameSvrReady
+CallFun tongkim\battle_1_1450.lua GameSvrReady
+CallFun tongkim\battle_1_1650.lua GameSvrReady
+CallFun tongkim\battle_1_1850.lua GameSvrReady
+CallFun tongkim\battle_1_2050.lua GameSvrReady
+CallFun tongkim\battle_1_2250.lua GameSvrReady
+CallFun xephang\ladderload.lua GameSvrReady
+CallFun xephang\topten_sortlist_00_00.lua GameSvrReady
+CallFun xephang\topten_sortlist_10_00.lua GameSvrReady
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrReady
+CallFun vuotai\challengeoftime.lua GameSvrReady
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun /script/gc_exit.lua main
+ExecuteCode /script/protocol.lua 
+ExecuteCode \script\lib\objbuffer_head.lua 
+ExecuteCode /script/sharedata_key.lua 
+ExecuteCode /script/event/msg2allworld.lua 
+ExecuteCode /script/event/jiefang0804/head.lua 
+ExecuteCode /script/event/other/caipiao/head_gc_old.lua 
+ExecuteCode /script/event/other/caipiao/head_gc.lua 
+ExecuteCode /script/event/zhaojingling/event.lua 
+ExecuteCode /script/event/expansion/201006/fuguijinhe/fuguijinhe.lua 
+ExecuteCode \script\lib\remoteexc.lua 
+ExecuteCode \script\lib\baseclass.lua 
+ExecuteCode \script\lib\common.lua 
+ExecuteCode /script/event/goldboss_adjust_2011/boss_initialize.lua 
+ExecuteCode /script/event/zhongqiu_jieri/2010/head.lua 
+ExecuteCode \script\lib\sharedata.lua 
+ExecuteCode /script/event/zhongqiu_jieri/head.lua 
+ExecuteCode \script\tong\tong_header.lua 
+ExecuteCode /script/event/card.lua 
+ExecuteCode /script/event/2011dayanqunxia/event.lua 
+ExecuteCode /script/event/2012april_zhushuai/event.lua 
+ExecuteCode /script/event/shengdan/200811/setbossdeath.lua 
+ExecuteCode \script\gb_taskfuncs.lua 
+ExecuteCode /script/event/bingo_machine/prize_pool.lua 
+ExecuteCode /script/event/citywar.lua 
+ExecuteCode /script/event/tongwar/event.lua 
+ExecuteCode /script/event/tongwar/score.lua 
+ExecuteCode /script/event/wulin_2nd/head.lua 
+ExecuteCode /script/event/wulin_2nd/task.lua 
+ExecuteCode /script/event/wulin_2nd/members.lua 
+ExecuteCode /script/lib/log.lua 
+ExecuteCode /script/lib/mapdb.lua 
+ExecuteCode /script/lib/toplist.lua 
+ExecuteCode /script/leaguematch/log.lua 
+ExecuteCode \script\leaguematch\head.lua 
+ExecuteCode \script\leaguematch\timetable.lua 
+ExecuteCode /script/leaguematch/joinmatch.lua 
+ExecuteCode /script/leaguematch/league.lua 
+ExecuteCode /script/leaguematch/task.lua 
+ExecuteCode \script\leaguematch\switch.lua 
+ExecuteCode /script/misc/timeline/serveropentimeevent.lua 
+ExecuteCode /script/misc/rank/rankdata.lua 
+ExecuteCode /script/misc/rank/rank.lua 
+ExecuteCode /script/misc/rank/equip_value_rank.lua 
+ExecuteCode /script/gb_modulefuncs.lua 
+ExecuteCode /script/limitedaward_head.lua 
+ExecuteCode /script/jxprivate/jx_xephang.lua 
+ExecuteCode /script/mission/sevencity/protocol.lua 
+ExecuteCode \script\mission\sevencity\war.lua 
+ExecuteCode /script/mission/dungeon/dungeonlog.lua 
+ExecuteCode /script/mission/dungeon/dungeondata.lua 
+ExecuteCode /script/mission/dungeon/datamanager.lua 
+ExecuteCode /script/mission/dungeon/dungeons/shiliantang/shiliantangdata.lua 
+ExecuteCode /script/mission/boss/bigboss.lua 
+ExecuteCode /script/mission/citywar_global/ladder.lua 
+ExecuteCode /script/missions/arena/protocol.lua 
+ExecuteCode \script\missions\arena\player.lua 
+ExecuteCode \script\missions\arena\map.lua 
+ExecuteCode /script/missions/arena/cmd.lua 
+ExecuteCode /script/second_hand_store/second_hand_gc.lua 
+ExecuteCode \script\second_hand_store\goodslist.lua 
+ExecuteCode /script/tong/contribution_entry.lua 
+ExecuteCode \script\tong\tong_setting.lua 
+ExecuteCode \script\tong\log.lua 
+ExecuteCode /script/tong/tong.lua 
+ExecuteCode \script\tong\workshop\workshop_setting.lua 
+ExecuteCode /script/tong/tong_statistics.lua 
+ExecuteCode /script/tong/workshop/workshop_head.lua 
+ExecuteCode \script\tong\workshop\workshop_logic.lua 
+ExecuteCode \script\tong\workshop\workshop_def.lua 
+ExecuteCode /script/tong/workshop/ws_shilian.lua 
+ExecuteCode /script/tong/workshop/ws_tiangong.lua 
+ExecuteCode /script/tong/workshop/tongcolltask.lua 
+ExecuteCode /script/tong/workshop/ws_liwu.lua 
+ExecuteCode /script/tong/workshop/ws_mianju.lua 
+ExecuteCode /script/tong/workshop/ws_huodong.lua 
+ExecuteCode /script/tong/workshop/ws_tianyi.lua 
+ExecuteCode /script/tong/workshop/ws_bingjia.lua 
+ExecuteCode /script/tong/addtongnpc.lua 
+ExecuteCode /script/tong/tong_mix.lua 
+ExecuteCode /script/gc_exit.lua 
+ExecuteCode \\RelaySetting\\battle\\script\\rf_bintree_fix.lua 
+ExecuteCode \RelaySetting\battle\script\rf_header.lua 
+ExecuteCode \relaysetting\task\banghoi\tong_claimwar.lua 
+ExecuteCode \RelaySetting\Task\thongbaohethong\announce.lua 
+CallFun \RelaySetting\Task\thongbaohethong\announce.lua TaskShedule
+ExecuteCode \RelaySetting\Task\game_module_settings.lua 
+CallFun \RelaySetting\Task\game_module_settings.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\small_goldboss_2000.lua 
+ExecuteCode \RelaySetting\Task\boss\goldbosshead_2000.lua 
+ExecuteCode \RelaySetting\Task\boss\GoldBossHead.lua 
+CallFun \RelaySetting\Task\boss\small_goldboss_2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_honour.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_honour.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1250.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1450.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1450.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1650.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1650.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1850.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1850.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_2250.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_2250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\ladderload.lua 
+CallFun \RelaySetting\Task\xephang\ladderload.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\topten_sortlist_00_00.lua 
+CallFun \RelaySetting\Task\xephang\topten_sortlist_00_00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\topten_sortlist_10_00.lua 
+CallFun \RelaySetting\Task\xephang\topten_sortlist_10_00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\vuotai\challegeoftime-dailyrank.lua 
+CallFun \RelaySetting\Task\vuotai\challegeoftime-dailyrank.lua TaskShedule
+ExecuteCode \RelaySetting\Task\vuotai\challengeoftime.lua 
+CallFun \RelaySetting\Task\vuotai\challengeoftime.lua TaskShedule
+CallFun game_module_settings.lua TaskContent
+CallFun xephang\ladderload.lua TaskContent
+CallFun thongbaohethong\announce.lua GameSvrConnected
+CallFun game_module_settings.lua GameSvrConnected
+CallFun boss\small_goldboss_2000.lua GameSvrConnected
+CallFun tongkim\battle_1_honour.lua GameSvrConnected
+CallFun tongkim\battle_1_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_1050.lua GameSvrConnected
+CallFun tongkim\battle_1_1250.lua GameSvrConnected
+CallFun tongkim\battle_1_1450.lua GameSvrConnected
+CallFun tongkim\battle_1_1650.lua GameSvrConnected
+CallFun tongkim\battle_1_1850.lua GameSvrConnected
+CallFun tongkim\battle_1_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_2250.lua GameSvrConnected
+CallFun xephang\ladderload.lua GameSvrConnected
+CallFun xephang\topten_sortlist_00_00.lua GameSvrConnected
+CallFun xephang\topten_sortlist_10_00.lua GameSvrConnected
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrConnected
+CallFun vuotai\challengeoftime.lua GameSvrConnected
+CallFun thongbaohethong\announce.lua GameSvrReady
+CallFun game_module_settings.lua GameSvrReady
+CallFun boss\small_goldboss_2000.lua GameSvrReady
+CallFun tongkim\battle_1_honour.lua GameSvrReady
+CallFun tongkim\battle_1_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_2050.lua GameSvrReady
+CallFun tongkim\battle_1_1050.lua GameSvrReady
+CallFun tongkim\battle_1_1250.lua GameSvrReady
+CallFun tongkim\battle_1_1450.lua GameSvrReady
+CallFun tongkim\battle_1_1650.lua GameSvrReady
+CallFun tongkim\battle_1_1850.lua GameSvrReady
+CallFun tongkim\battle_1_2050.lua GameSvrReady
+CallFun tongkim\battle_1_2250.lua GameSvrReady
+CallFun xephang\ladderload.lua GameSvrReady
+CallFun xephang\topten_sortlist_00_00.lua GameSvrReady
+CallFun xephang\topten_sortlist_10_00.lua GameSvrReady
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrReady
+CallFun vuotai\challengeoftime.lua GameSvrReady
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun /script/gc_exit.lua main
+ExecuteCode /script/protocol.lua 
+ExecuteCode \script\lib\objbuffer_head.lua 
+ExecuteCode /script/sharedata_key.lua 
+ExecuteCode /script/event/msg2allworld.lua 
+ExecuteCode /script/event/jiefang0804/head.lua 
+ExecuteCode /script/event/other/caipiao/head_gc_old.lua 
+ExecuteCode /script/event/other/caipiao/head_gc.lua 
+ExecuteCode /script/event/zhaojingling/event.lua 
+ExecuteCode /script/event/expansion/201006/fuguijinhe/fuguijinhe.lua 
+ExecuteCode \script\lib\remoteexc.lua 
+ExecuteCode \script\lib\baseclass.lua 
+ExecuteCode \script\lib\common.lua 
+ExecuteCode /script/event/goldboss_adjust_2011/boss_initialize.lua 
+ExecuteCode /script/event/zhongqiu_jieri/2010/head.lua 
+ExecuteCode \script\lib\sharedata.lua 
+ExecuteCode /script/event/zhongqiu_jieri/head.lua 
+ExecuteCode \script\tong\tong_header.lua 
+ExecuteCode /script/event/card.lua 
+ExecuteCode /script/event/2011dayanqunxia/event.lua 
+ExecuteCode /script/event/2012april_zhushuai/event.lua 
+ExecuteCode /script/event/shengdan/200811/setbossdeath.lua 
+ExecuteCode \script\gb_taskfuncs.lua 
+ExecuteCode /script/event/bingo_machine/prize_pool.lua 
+ExecuteCode /script/event/citywar.lua 
+ExecuteCode /script/event/tongwar/event.lua 
+ExecuteCode /script/event/tongwar/score.lua 
+ExecuteCode /script/event/wulin_2nd/head.lua 
+ExecuteCode /script/event/wulin_2nd/task.lua 
+ExecuteCode /script/event/wulin_2nd/members.lua 
+ExecuteCode /script/lib/log.lua 
+ExecuteCode /script/lib/mapdb.lua 
+ExecuteCode /script/lib/toplist.lua 
+ExecuteCode /script/leaguematch/log.lua 
+ExecuteCode \script\leaguematch\head.lua 
+ExecuteCode \script\leaguematch\timetable.lua 
+ExecuteCode /script/leaguematch/joinmatch.lua 
+ExecuteCode /script/leaguematch/league.lua 
+ExecuteCode /script/leaguematch/task.lua 
+ExecuteCode \script\leaguematch\switch.lua 
+ExecuteCode /script/misc/timeline/serveropentimeevent.lua 
+ExecuteCode /script/misc/rank/rankdata.lua 
+ExecuteCode /script/misc/rank/rank.lua 
+ExecuteCode /script/misc/rank/equip_value_rank.lua 
+ExecuteCode /script/gb_modulefuncs.lua 
+ExecuteCode /script/limitedaward_head.lua 
+ExecuteCode /script/jxprivate/jx_xephang.lua 
+ExecuteCode /script/mission/sevencity/protocol.lua 
+ExecuteCode \script\mission\sevencity\war.lua 
+ExecuteCode /script/mission/dungeon/dungeonlog.lua 
+ExecuteCode /script/mission/dungeon/dungeondata.lua 
+ExecuteCode /script/mission/dungeon/datamanager.lua 
+ExecuteCode /script/mission/dungeon/dungeons/shiliantang/shiliantangdata.lua 
+ExecuteCode /script/mission/boss/bigboss.lua 
+ExecuteCode /script/mission/citywar_global/ladder.lua 
+ExecuteCode /script/missions/arena/protocol.lua 
+ExecuteCode \script\missions\arena\player.lua 
+ExecuteCode \script\missions\arena\map.lua 
+ExecuteCode /script/missions/arena/cmd.lua 
+ExecuteCode /script/second_hand_store/second_hand_gc.lua 
+ExecuteCode \script\second_hand_store\goodslist.lua 
+ExecuteCode /script/tong/contribution_entry.lua 
+ExecuteCode \script\tong\tong_setting.lua 
+ExecuteCode \script\tong\log.lua 
+ExecuteCode /script/tong/tong.lua 
+ExecuteCode \script\tong\workshop\workshop_setting.lua 
+ExecuteCode /script/tong/tong_statistics.lua 
+ExecuteCode /script/tong/workshop/workshop_head.lua 
+ExecuteCode \script\tong\workshop\workshop_logic.lua 
+ExecuteCode \script\tong\workshop\workshop_def.lua 
+ExecuteCode /script/tong/workshop/ws_shilian.lua 
+ExecuteCode /script/tong/workshop/ws_tiangong.lua 
+ExecuteCode /script/tong/workshop/tongcolltask.lua 
+ExecuteCode /script/tong/workshop/ws_liwu.lua 
+ExecuteCode /script/tong/workshop/ws_mianju.lua 
+ExecuteCode /script/tong/workshop/ws_huodong.lua 
+ExecuteCode /script/tong/workshop/ws_tianyi.lua 
+ExecuteCode /script/tong/workshop/ws_bingjia.lua 
+ExecuteCode /script/tong/addtongnpc.lua 
+ExecuteCode /script/tong/tong_mix.lua 
+ExecuteCode /script/gc_exit.lua 
+ExecuteCode \\RelaySetting\\battle\\script\\rf_bintree_fix.lua 
+ExecuteCode \RelaySetting\battle\script\rf_header.lua 
+ExecuteCode \relaysetting\task\banghoi\tong_claimwar.lua 
+ExecuteCode \RelaySetting\Task\thongbaohethong\announce.lua 
+CallFun \RelaySetting\Task\thongbaohethong\announce.lua TaskShedule
+ExecuteCode \RelaySetting\Task\game_module_settings.lua 
+CallFun \RelaySetting\Task\game_module_settings.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\small_goldboss_2000.lua 
+ExecuteCode \RelaySetting\Task\boss\goldbosshead_2000.lua 
+ExecuteCode \RelaySetting\Task\boss\GoldBossHead.lua 
+CallFun \RelaySetting\Task\boss\small_goldboss_2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_honour.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_honour.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1250.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1450.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1450.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1650.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1650.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1850.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1850.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_2250.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_2250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\ladderload.lua 
+CallFun \RelaySetting\Task\xephang\ladderload.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\topten_sortlist_00_00.lua 
+CallFun \RelaySetting\Task\xephang\topten_sortlist_00_00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\topten_sortlist_10_00.lua 
+CallFun \RelaySetting\Task\xephang\topten_sortlist_10_00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\vuotai\challegeoftime-dailyrank.lua 
+CallFun \RelaySetting\Task\vuotai\challegeoftime-dailyrank.lua TaskShedule
+ExecuteCode \RelaySetting\Task\vuotai\challengeoftime.lua 
+CallFun \RelaySetting\Task\vuotai\challengeoftime.lua TaskShedule
+CallFun game_module_settings.lua TaskContent
+CallFun xephang\ladderload.lua TaskContent
+CallFun thongbaohethong\announce.lua GameSvrConnected
+CallFun game_module_settings.lua GameSvrConnected
+CallFun boss\small_goldboss_2000.lua GameSvrConnected
+CallFun tongkim\battle_1_honour.lua GameSvrConnected
+CallFun tongkim\battle_1_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_1050.lua GameSvrConnected
+CallFun tongkim\battle_1_1250.lua GameSvrConnected
+CallFun tongkim\battle_1_1450.lua GameSvrConnected
+CallFun tongkim\battle_1_1650.lua GameSvrConnected
+CallFun tongkim\battle_1_1850.lua GameSvrConnected
+CallFun tongkim\battle_1_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_2250.lua GameSvrConnected
+CallFun xephang\ladderload.lua GameSvrConnected
+CallFun xephang\topten_sortlist_00_00.lua GameSvrConnected
+CallFun xephang\topten_sortlist_10_00.lua GameSvrConnected
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrConnected
+CallFun vuotai\challengeoftime.lua GameSvrConnected
+CallFun thongbaohethong\announce.lua GameSvrReady
+CallFun game_module_settings.lua GameSvrReady
+CallFun boss\small_goldboss_2000.lua GameSvrReady
+CallFun tongkim\battle_1_honour.lua GameSvrReady
+CallFun tongkim\battle_1_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_2050.lua GameSvrReady
+CallFun tongkim\battle_1_1050.lua GameSvrReady
+CallFun tongkim\battle_1_1250.lua GameSvrReady
+CallFun tongkim\battle_1_1450.lua GameSvrReady
+CallFun tongkim\battle_1_1650.lua GameSvrReady
+CallFun tongkim\battle_1_1850.lua GameSvrReady
+CallFun tongkim\battle_1_2050.lua GameSvrReady
+CallFun tongkim\battle_1_2250.lua GameSvrReady
+CallFun xephang\ladderload.lua GameSvrReady
+CallFun xephang\topten_sortlist_00_00.lua GameSvrReady
+CallFun xephang\topten_sortlist_10_00.lua GameSvrReady
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrReady
+CallFun vuotai\challengeoftime.lua GameSvrReady
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+ExecuteCode /script/protocol.lua 
+ExecuteCode \script\lib\objbuffer_head.lua 
+ExecuteCode /script/sharedata_key.lua 
+ExecuteCode /script/event/msg2allworld.lua 
+ExecuteCode /script/event/jiefang0804/head.lua 
+ExecuteCode /script/event/other/caipiao/head_gc_old.lua 
+ExecuteCode /script/event/other/caipiao/head_gc.lua 
+ExecuteCode /script/event/zhaojingling/event.lua 
+ExecuteCode /script/event/expansion/201006/fuguijinhe/fuguijinhe.lua 
+ExecuteCode \script\lib\remoteexc.lua 
+ExecuteCode \script\lib\baseclass.lua 
+ExecuteCode \script\lib\common.lua 
+ExecuteCode /script/event/goldboss_adjust_2011/boss_initialize.lua 
+ExecuteCode /script/event/zhongqiu_jieri/2010/head.lua 
+ExecuteCode \script\lib\sharedata.lua 
+ExecuteCode /script/event/zhongqiu_jieri/head.lua 
+ExecuteCode \script\tong\tong_header.lua 
+ExecuteCode /script/event/card.lua 
+ExecuteCode /script/event/2011dayanqunxia/event.lua 
+ExecuteCode /script/event/2012april_zhushuai/event.lua 
+ExecuteCode /script/event/shengdan/200811/setbossdeath.lua 
+ExecuteCode \script\gb_taskfuncs.lua 
+ExecuteCode /script/event/bingo_machine/prize_pool.lua 
+ExecuteCode /script/event/citywar.lua 
+ExecuteCode /script/event/tongwar/event.lua 
+ExecuteCode /script/event/tongwar/score.lua 
+ExecuteCode /script/event/wulin_2nd/head.lua 
+ExecuteCode /script/event/wulin_2nd/task.lua 
+ExecuteCode /script/event/wulin_2nd/members.lua 
+ExecuteCode /script/lib/log.lua 
+ExecuteCode /script/lib/mapdb.lua 
+ExecuteCode /script/lib/toplist.lua 
+ExecuteCode /script/leaguematch/log.lua 
+ExecuteCode \script\leaguematch\head.lua 
+ExecuteCode \script\leaguematch\timetable.lua 
+ExecuteCode /script/leaguematch/joinmatch.lua 
+ExecuteCode /script/leaguematch/league.lua 
+ExecuteCode /script/leaguematch/task.lua 
+ExecuteCode \script\leaguematch\switch.lua 
+ExecuteCode /script/misc/timeline/serveropentimeevent.lua 
+ExecuteCode /script/misc/rank/rankdata.lua 
+ExecuteCode /script/misc/rank/rank.lua 
+ExecuteCode /script/misc/rank/equip_value_rank.lua 
+ExecuteCode /script/gb_modulefuncs.lua 
+ExecuteCode /script/limitedaward_head.lua 
+ExecuteCode /script/jxprivate/jx_xephang.lua 
+ExecuteCode /script/mission/sevencity/protocol.lua 
+ExecuteCode \script\mission\sevencity\war.lua 
+ExecuteCode /script/mission/dungeon/dungeonlog.lua 
+ExecuteCode /script/mission/dungeon/dungeondata.lua 
+ExecuteCode /script/mission/dungeon/datamanager.lua 
+ExecuteCode /script/mission/dungeon/dungeons/shiliantang/shiliantangdata.lua 
+ExecuteCode /script/mission/boss/bigboss.lua 
+ExecuteCode /script/mission/citywar_global/ladder.lua 
+ExecuteCode /script/missions/arena/protocol.lua 
+ExecuteCode \script\missions\arena\player.lua 
+ExecuteCode \script\missions\arena\map.lua 
+ExecuteCode /script/missions/arena/cmd.lua 
+ExecuteCode /script/second_hand_store/second_hand_gc.lua 
+ExecuteCode \script\second_hand_store\goodslist.lua 
+ExecuteCode /script/tong/contribution_entry.lua 
+ExecuteCode \script\tong\tong_setting.lua 
+ExecuteCode \script\tong\log.lua 
+ExecuteCode /script/tong/tong.lua 
+ExecuteCode \script\tong\workshop\workshop_setting.lua 
+ExecuteCode /script/tong/tong_statistics.lua 
+ExecuteCode /script/tong/workshop/workshop_head.lua 
+ExecuteCode \script\tong\workshop\workshop_logic.lua 
+ExecuteCode \script\tong\workshop\workshop_def.lua 
+ExecuteCode /script/tong/workshop/ws_shilian.lua 
+ExecuteCode /script/tong/workshop/ws_tiangong.lua 
+ExecuteCode /script/tong/workshop/tongcolltask.lua 
+ExecuteCode /script/tong/workshop/ws_liwu.lua 
+ExecuteCode /script/tong/workshop/ws_mianju.lua 
+ExecuteCode /script/tong/workshop/ws_huodong.lua 
+ExecuteCode /script/tong/workshop/ws_tianyi.lua 
+ExecuteCode /script/tong/workshop/ws_bingjia.lua 
+ExecuteCode /script/tong/addtongnpc.lua 
+ExecuteCode /script/tong/tong_mix.lua 
+ExecuteCode /script/gc_exit.lua 
+ExecuteCode \\RelaySetting\\battle\\script\\rf_bintree_fix.lua 
+ExecuteCode \RelaySetting\battle\script\rf_header.lua 
+ExecuteCode \relaysetting\task\banghoi\tong_claimwar.lua 
+ExecuteCode \RelaySetting\Task\thongbaohethong\announce.lua 
+CallFun \RelaySetting\Task\thongbaohethong\announce.lua TaskShedule
+ExecuteCode \RelaySetting\Task\game_module_settings.lua 
+CallFun \RelaySetting\Task\game_module_settings.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\small_goldboss_2000.lua 
+ExecuteCode \RelaySetting\Task\boss\goldbosshead_2000.lua 
+ExecuteCode \RelaySetting\Task\boss\GoldBossHead.lua 
+CallFun \RelaySetting\Task\boss\small_goldboss_2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_honour.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_honour.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1250.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1450.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1450.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1650.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1650.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1850.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1850.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_2250.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_2250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\ladderload.lua 
+CallFun \RelaySetting\Task\xephang\ladderload.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\topten_sortlist_00_00.lua 
+CallFun \RelaySetting\Task\xephang\topten_sortlist_00_00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\topten_sortlist_10_00.lua 
+CallFun \RelaySetting\Task\xephang\topten_sortlist_10_00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\vuotai\challegeoftime-dailyrank.lua 
+CallFun \RelaySetting\Task\vuotai\challegeoftime-dailyrank.lua TaskShedule
+ExecuteCode \RelaySetting\Task\vuotai\challengeoftime.lua 
+CallFun \RelaySetting\Task\vuotai\challengeoftime.lua TaskShedule
+CallFun game_module_settings.lua TaskContent
+CallFun xephang\ladderload.lua TaskContent
+CallFun thongbaohethong\announce.lua GameSvrConnected
+CallFun game_module_settings.lua GameSvrConnected
+CallFun boss\small_goldboss_2000.lua GameSvrConnected
+CallFun tongkim\battle_1_honour.lua GameSvrConnected
+CallFun tongkim\battle_1_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_1050.lua GameSvrConnected
+CallFun tongkim\battle_1_1250.lua GameSvrConnected
+CallFun tongkim\battle_1_1450.lua GameSvrConnected
+CallFun tongkim\battle_1_1650.lua GameSvrConnected
+CallFun tongkim\battle_1_1850.lua GameSvrConnected
+CallFun tongkim\battle_1_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_2250.lua GameSvrConnected
+CallFun xephang\ladderload.lua GameSvrConnected
+CallFun xephang\topten_sortlist_00_00.lua GameSvrConnected
+CallFun xephang\topten_sortlist_10_00.lua GameSvrConnected
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrConnected
+CallFun vuotai\challengeoftime.lua GameSvrConnected
+CallFun thongbaohethong\announce.lua GameSvrReady
+CallFun game_module_settings.lua GameSvrReady
+CallFun boss\small_goldboss_2000.lua GameSvrReady
+CallFun tongkim\battle_1_honour.lua GameSvrReady
+CallFun tongkim\battle_1_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_2050.lua GameSvrReady
+CallFun tongkim\battle_1_1050.lua GameSvrReady
+CallFun tongkim\battle_1_1250.lua GameSvrReady
+CallFun tongkim\battle_1_1450.lua GameSvrReady
+CallFun tongkim\battle_1_1650.lua GameSvrReady
+CallFun tongkim\battle_1_1850.lua GameSvrReady
+CallFun tongkim\battle_1_2050.lua GameSvrReady
+CallFun tongkim\battle_1_2250.lua GameSvrReady
+CallFun xephang\ladderload.lua GameSvrReady
+CallFun xephang\topten_sortlist_00_00.lua GameSvrReady
+CallFun xephang\topten_sortlist_10_00.lua GameSvrReady
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrReady
+CallFun vuotai\challengeoftime.lua GameSvrReady
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun thongbaohethong\announce.lua GameSvrConnected
+CallFun game_module_settings.lua GameSvrConnected
+CallFun boss\small_goldboss_2000.lua GameSvrConnected
+CallFun tongkim\battle_1_honour.lua GameSvrConnected
+CallFun tongkim\battle_1_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_1050.lua GameSvrConnected
+CallFun tongkim\battle_1_1250.lua GameSvrConnected
+CallFun tongkim\battle_1_1450.lua GameSvrConnected
+CallFun tongkim\battle_1_1650.lua GameSvrConnected
+CallFun tongkim\battle_1_1850.lua GameSvrConnected
+CallFun tongkim\battle_1_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_2250.lua GameSvrConnected
+CallFun xephang\ladderload.lua GameSvrConnected
+CallFun xephang\topten_sortlist_00_00.lua GameSvrConnected
+CallFun xephang\topten_sortlist_10_00.lua GameSvrConnected
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrConnected
+CallFun vuotai\challengeoftime.lua GameSvrConnected
+CallFun thongbaohethong\announce.lua GameSvrReady
+CallFun game_module_settings.lua GameSvrReady
+CallFun boss\small_goldboss_2000.lua GameSvrReady
+CallFun tongkim\battle_1_honour.lua GameSvrReady
+CallFun tongkim\battle_1_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_2050.lua GameSvrReady
+CallFun tongkim\battle_1_1050.lua GameSvrReady
+CallFun tongkim\battle_1_1250.lua GameSvrReady
+CallFun tongkim\battle_1_1450.lua GameSvrReady
+CallFun tongkim\battle_1_1650.lua GameSvrReady
+CallFun tongkim\battle_1_1850.lua GameSvrReady
+CallFun tongkim\battle_1_2050.lua GameSvrReady
+CallFun tongkim\battle_1_2250.lua GameSvrReady
+CallFun xephang\ladderload.lua GameSvrReady
+CallFun xephang\topten_sortlist_00_00.lua GameSvrReady
+CallFun xephang\topten_sortlist_10_00.lua GameSvrReady
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrReady
+CallFun vuotai\challengeoftime.lua GameSvrReady
+CallFun /script/gc_exit.lua main
+ExecuteCode /script/protocol.lua 
+ExecuteCode \script\lib\objbuffer_head.lua 
+ExecuteCode /script/sharedata_key.lua 
+ExecuteCode /script/event/msg2allworld.lua 
+ExecuteCode /script/event/jiefang0804/head.lua 
+ExecuteCode /script/event/other/caipiao/head_gc_old.lua 
+ExecuteCode /script/event/other/caipiao/head_gc.lua 
+ExecuteCode /script/event/zhaojingling/event.lua 
+ExecuteCode /script/event/expansion/201006/fuguijinhe/fuguijinhe.lua 
+ExecuteCode \script\lib\remoteexc.lua 
+ExecuteCode \script\lib\baseclass.lua 
+ExecuteCode \script\lib\common.lua 
+ExecuteCode /script/event/goldboss_adjust_2011/boss_initialize.lua 
+ExecuteCode /script/event/zhongqiu_jieri/2010/head.lua 
+ExecuteCode \script\lib\sharedata.lua 
+ExecuteCode /script/event/zhongqiu_jieri/head.lua 
+ExecuteCode \script\tong\tong_header.lua 
+ExecuteCode /script/event/card.lua 
+ExecuteCode /script/event/2011dayanqunxia/event.lua 
+ExecuteCode /script/event/2012april_zhushuai/event.lua 
+ExecuteCode /script/event/shengdan/200811/setbossdeath.lua 
+ExecuteCode \script\gb_taskfuncs.lua 
+ExecuteCode /script/event/bingo_machine/prize_pool.lua 
+ExecuteCode /script/event/citywar.lua 
+ExecuteCode /script/event/tongwar/event.lua 
+ExecuteCode /script/event/tongwar/score.lua 
+ExecuteCode /script/event/wulin_2nd/head.lua 
+ExecuteCode /script/event/wulin_2nd/task.lua 
+ExecuteCode /script/event/wulin_2nd/members.lua 
+ExecuteCode /script/lib/log.lua 
+ExecuteCode /script/lib/mapdb.lua 
+ExecuteCode /script/lib/toplist.lua 
+ExecuteCode /script/leaguematch/log.lua 
+ExecuteCode \script\leaguematch\head.lua 
+ExecuteCode \script\leaguematch\timetable.lua 
+ExecuteCode /script/leaguematch/joinmatch.lua 
+ExecuteCode /script/leaguematch/league.lua 
+ExecuteCode /script/leaguematch/task.lua 
+ExecuteCode \script\leaguematch\switch.lua 
+ExecuteCode /script/misc/timeline/serveropentimeevent.lua 
+ExecuteCode /script/misc/rank/rankdata.lua 
+ExecuteCode /script/misc/rank/rank.lua 
+ExecuteCode /script/misc/rank/equip_value_rank.lua 
+ExecuteCode /script/gb_modulefuncs.lua 
+ExecuteCode /script/limitedaward_head.lua 
+ExecuteCode /script/jxprivate/jx_xephang.lua 
+ExecuteCode /script/mission/sevencity/protocol.lua 
+ExecuteCode \script\mission\sevencity\war.lua 
+ExecuteCode /script/mission/dungeon/dungeonlog.lua 
+ExecuteCode /script/mission/dungeon/dungeondata.lua 
+ExecuteCode /script/mission/dungeon/datamanager.lua 
+ExecuteCode /script/mission/dungeon/dungeons/shiliantang/shiliantangdata.lua 
+ExecuteCode /script/mission/boss/bigboss.lua 
+ExecuteCode /script/mission/citywar_global/ladder.lua 
+ExecuteCode /script/missions/arena/protocol.lua 
+ExecuteCode \script\missions\arena\player.lua 
+ExecuteCode \script\missions\arena\map.lua 
+ExecuteCode /script/missions/arena/cmd.lua 
+ExecuteCode /script/second_hand_store/second_hand_gc.lua 
+ExecuteCode \script\second_hand_store\goodslist.lua 
+ExecuteCode /script/tong/contribution_entry.lua 
+ExecuteCode \script\tong\tong_setting.lua 
+ExecuteCode \script\tong\log.lua 
+ExecuteCode /script/tong/tong.lua 
+ExecuteCode \script\tong\workshop\workshop_setting.lua 
+ExecuteCode /script/tong/tong_statistics.lua 
+ExecuteCode /script/tong/workshop/workshop_head.lua 
+ExecuteCode \script\tong\workshop\workshop_logic.lua 
+ExecuteCode \script\tong\workshop\workshop_def.lua 
+ExecuteCode /script/tong/workshop/ws_shilian.lua 
+ExecuteCode /script/tong/workshop/ws_tiangong.lua 
+ExecuteCode /script/tong/workshop/tongcolltask.lua 
+ExecuteCode /script/tong/workshop/ws_liwu.lua 
+ExecuteCode /script/tong/workshop/ws_mianju.lua 
+ExecuteCode /script/tong/workshop/ws_huodong.lua 
+ExecuteCode /script/tong/workshop/ws_tianyi.lua 
+ExecuteCode /script/tong/workshop/ws_bingjia.lua 
+ExecuteCode /script/tong/addtongnpc.lua 
+ExecuteCode /script/tong/tong_mix.lua 
+ExecuteCode /script/gc_exit.lua 
+ExecuteCode \\RelaySetting\\battle\\script\\rf_bintree_fix.lua 
+ExecuteCode \RelaySetting\battle\script\rf_header.lua 
+ExecuteCode \relaysetting\task\banghoi\tong_claimwar.lua 
+ExecuteCode \RelaySetting\Task\thongbaohethong\announce.lua 
+CallFun \RelaySetting\Task\thongbaohethong\announce.lua TaskShedule
+ExecuteCode \RelaySetting\Task\game_module_settings.lua 
+CallFun \RelaySetting\Task\game_module_settings.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\small_goldboss_2000.lua 
+ExecuteCode \RelaySetting\Task\boss\goldbosshead_2000.lua 
+ExecuteCode \RelaySetting\Task\boss\GoldBossHead.lua 
+CallFun \RelaySetting\Task\boss\small_goldboss_2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_honour.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_honour.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1250.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1450.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1450.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1650.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1650.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1850.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1850.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_2250.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_2250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\ladderload.lua 
+CallFun \RelaySetting\Task\xephang\ladderload.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\topten_sortlist_00_00.lua 
+CallFun \RelaySetting\Task\xephang\topten_sortlist_00_00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\topten_sortlist_10_00.lua 
+CallFun \RelaySetting\Task\xephang\topten_sortlist_10_00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\vuotai\challegeoftime-dailyrank.lua 
+CallFun \RelaySetting\Task\vuotai\challegeoftime-dailyrank.lua TaskShedule
+ExecuteCode \RelaySetting\Task\vuotai\challengeoftime.lua 
+CallFun \RelaySetting\Task\vuotai\challengeoftime.lua TaskShedule
+CallFun game_module_settings.lua TaskContent
+CallFun xephang\ladderload.lua TaskContent
+CallFun thongbaohethong\announce.lua GameSvrConnected
+CallFun game_module_settings.lua GameSvrConnected
+CallFun boss\small_goldboss_2000.lua GameSvrConnected
+CallFun tongkim\battle_1_honour.lua GameSvrConnected
+CallFun tongkim\battle_1_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_1050.lua GameSvrConnected
+CallFun tongkim\battle_1_1250.lua GameSvrConnected
+CallFun tongkim\battle_1_1450.lua GameSvrConnected
+CallFun tongkim\battle_1_1650.lua GameSvrConnected
+CallFun tongkim\battle_1_1850.lua GameSvrConnected
+CallFun tongkim\battle_1_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_2250.lua GameSvrConnected
+CallFun xephang\ladderload.lua GameSvrConnected
+CallFun xephang\topten_sortlist_00_00.lua GameSvrConnected
+CallFun xephang\topten_sortlist_10_00.lua GameSvrConnected
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrConnected
+CallFun vuotai\challengeoftime.lua GameSvrConnected
+CallFun thongbaohethong\announce.lua GameSvrReady
+CallFun game_module_settings.lua GameSvrReady
+CallFun boss\small_goldboss_2000.lua GameSvrReady
+CallFun tongkim\battle_1_honour.lua GameSvrReady
+CallFun tongkim\battle_1_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_2050.lua GameSvrReady
+CallFun tongkim\battle_1_1050.lua GameSvrReady
+CallFun tongkim\battle_1_1250.lua GameSvrReady
+CallFun tongkim\battle_1_1450.lua GameSvrReady
+CallFun tongkim\battle_1_1650.lua GameSvrReady
+CallFun tongkim\battle_1_1850.lua GameSvrReady
+CallFun tongkim\battle_1_2050.lua GameSvrReady
+CallFun tongkim\battle_1_2250.lua GameSvrReady
+CallFun xephang\ladderload.lua GameSvrReady
+CallFun xephang\topten_sortlist_00_00.lua GameSvrReady
+CallFun xephang\topten_sortlist_10_00.lua GameSvrReady
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrReady
+CallFun vuotai\challengeoftime.lua GameSvrReady
+CallFun /script/gc_exit.lua main
+ExecuteCode /script/protocol.lua 
+ExecuteCode \script\lib\objbuffer_head.lua 
+ExecuteCode /script/sharedata_key.lua 
+ExecuteCode /script/event/msg2allworld.lua 
+ExecuteCode /script/event/jiefang0804/head.lua 
+ExecuteCode /script/event/other/caipiao/head_gc_old.lua 
+ExecuteCode /script/event/other/caipiao/head_gc.lua 
+ExecuteCode /script/event/zhaojingling/event.lua 
+ExecuteCode /script/event/expansion/201006/fuguijinhe/fuguijinhe.lua 
+ExecuteCode \script\lib\remoteexc.lua 
+ExecuteCode \script\lib\baseclass.lua 
+ExecuteCode \script\lib\common.lua 
+ExecuteCode /script/event/goldboss_adjust_2011/boss_initialize.lua 
+ExecuteCode /script/event/zhongqiu_jieri/2010/head.lua 
+ExecuteCode \script\lib\sharedata.lua 
+ExecuteCode /script/event/zhongqiu_jieri/head.lua 
+ExecuteCode \script\tong\tong_header.lua 
+ExecuteCode /script/event/card.lua 
+ExecuteCode /script/event/2011dayanqunxia/event.lua 
+ExecuteCode /script/event/2012april_zhushuai/event.lua 
+ExecuteCode /script/event/shengdan/200811/setbossdeath.lua 
+ExecuteCode \script\gb_taskfuncs.lua 
+ExecuteCode /script/event/bingo_machine/prize_pool.lua 
+ExecuteCode /script/event/citywar.lua 
+ExecuteCode /script/event/tongwar/event.lua 
+ExecuteCode /script/event/tongwar/score.lua 
+ExecuteCode /script/event/wulin_2nd/head.lua 
+ExecuteCode /script/event/wulin_2nd/task.lua 
+ExecuteCode /script/event/wulin_2nd/members.lua 
+ExecuteCode /script/lib/log.lua 
+ExecuteCode /script/lib/mapdb.lua 
+ExecuteCode /script/lib/toplist.lua 
+ExecuteCode /script/leaguematch/log.lua 
+ExecuteCode \script\leaguematch\head.lua 
+ExecuteCode \script\leaguematch\timetable.lua 
+ExecuteCode /script/leaguematch/joinmatch.lua 
+ExecuteCode /script/leaguematch/league.lua 
+ExecuteCode /script/leaguematch/task.lua 
+ExecuteCode \script\leaguematch\switch.lua 
+ExecuteCode /script/misc/timeline/serveropentimeevent.lua 
+ExecuteCode /script/misc/rank/rankdata.lua 
+ExecuteCode /script/misc/rank/rank.lua 
+ExecuteCode /script/misc/rank/equip_value_rank.lua 
+ExecuteCode /script/gb_modulefuncs.lua 
+ExecuteCode /script/limitedaward_head.lua 
+ExecuteCode /script/jxprivate/jx_xephang.lua 
+ExecuteCode /script/mission/sevencity/protocol.lua 
+ExecuteCode \script\mission\sevencity\war.lua 
+ExecuteCode /script/mission/dungeon/dungeonlog.lua 
+ExecuteCode /script/mission/dungeon/dungeondata.lua 
+ExecuteCode /script/mission/dungeon/datamanager.lua 
+ExecuteCode /script/mission/dungeon/dungeons/shiliantang/shiliantangdata.lua 
+ExecuteCode /script/mission/boss/bigboss.lua 
+ExecuteCode /script/mission/citywar_global/ladder.lua 
+ExecuteCode /script/missions/arena/protocol.lua 
+ExecuteCode \script\missions\arena\player.lua 
+ExecuteCode \script\missions\arena\map.lua 
+ExecuteCode /script/missions/arena/cmd.lua 
+ExecuteCode /script/second_hand_store/second_hand_gc.lua 
+ExecuteCode \script\second_hand_store\goodslist.lua 
+ExecuteCode /script/tong/contribution_entry.lua 
+ExecuteCode \script\tong\tong_setting.lua 
+ExecuteCode \script\tong\log.lua 
+ExecuteCode /script/tong/tong.lua 
+ExecuteCode \script\tong\workshop\workshop_setting.lua 
+ExecuteCode /script/tong/tong_statistics.lua 
+ExecuteCode /script/tong/workshop/workshop_head.lua 
+ExecuteCode \script\tong\workshop\workshop_logic.lua 
+ExecuteCode \script\tong\workshop\workshop_def.lua 
+ExecuteCode /script/tong/workshop/ws_shilian.lua 
+ExecuteCode /script/tong/workshop/ws_tiangong.lua 
+ExecuteCode /script/tong/workshop/tongcolltask.lua 
+ExecuteCode /script/tong/workshop/ws_liwu.lua 
+ExecuteCode /script/tong/workshop/ws_mianju.lua 
+ExecuteCode /script/tong/workshop/ws_huodong.lua 
+ExecuteCode /script/tong/workshop/ws_tianyi.lua 
+ExecuteCode /script/tong/workshop/ws_bingjia.lua 
+ExecuteCode /script/tong/addtongnpc.lua 
+ExecuteCode /script/tong/tong_mix.lua 
+ExecuteCode /script/gc_exit.lua 
+ExecuteCode \\RelaySetting\\battle\\script\\rf_bintree_fix.lua 
+ExecuteCode \RelaySetting\battle\script\rf_header.lua 
+ExecuteCode \relaysetting\task\banghoi\tong_claimwar.lua 
+ExecuteCode \RelaySetting\Task\thongbaohethong\announce.lua 
+CallFun \RelaySetting\Task\thongbaohethong\announce.lua TaskShedule
+ExecuteCode \RelaySetting\Task\game_module_settings.lua 
+CallFun \RelaySetting\Task\game_module_settings.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\small_goldboss_2000.lua 
+ExecuteCode \RelaySetting\Task\boss\goldbosshead_2000.lua 
+ExecuteCode \RelaySetting\Task\boss\GoldBossHead.lua 
+CallFun \RelaySetting\Task\boss\small_goldboss_2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_honour.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_honour.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1250.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1450.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1450.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1650.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1650.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1850.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1850.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_2250.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_2250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\ladderload.lua 
+CallFun \RelaySetting\Task\xephang\ladderload.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\topten_sortlist_00_00.lua 
+CallFun \RelaySetting\Task\xephang\topten_sortlist_00_00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\topten_sortlist_10_00.lua 
+CallFun \RelaySetting\Task\xephang\topten_sortlist_10_00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\vuotai\challegeoftime-dailyrank.lua 
+CallFun \RelaySetting\Task\vuotai\challegeoftime-dailyrank.lua TaskShedule
+ExecuteCode \RelaySetting\Task\vuotai\challengeoftime.lua 
+CallFun \RelaySetting\Task\vuotai\challengeoftime.lua TaskShedule
+CallFun game_module_settings.lua TaskContent
+CallFun xephang\ladderload.lua TaskContent
+CallFun thongbaohethong\announce.lua GameSvrConnected
+CallFun game_module_settings.lua GameSvrConnected
+CallFun boss\small_goldboss_2000.lua GameSvrConnected
+CallFun tongkim\battle_1_honour.lua GameSvrConnected
+CallFun tongkim\battle_1_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_1050.lua GameSvrConnected
+CallFun tongkim\battle_1_1250.lua GameSvrConnected
+CallFun tongkim\battle_1_1450.lua GameSvrConnected
+CallFun tongkim\battle_1_1650.lua GameSvrConnected
+CallFun tongkim\battle_1_1850.lua GameSvrConnected
+CallFun tongkim\battle_1_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_2250.lua GameSvrConnected
+CallFun xephang\ladderload.lua GameSvrConnected
+CallFun xephang\topten_sortlist_00_00.lua GameSvrConnected
+CallFun xephang\topten_sortlist_10_00.lua GameSvrConnected
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrConnected
+CallFun vuotai\challengeoftime.lua GameSvrConnected
+CallFun thongbaohethong\announce.lua GameSvrReady
+CallFun game_module_settings.lua GameSvrReady
+CallFun boss\small_goldboss_2000.lua GameSvrReady
+CallFun tongkim\battle_1_honour.lua GameSvrReady
+CallFun tongkim\battle_1_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_2050.lua GameSvrReady
+CallFun tongkim\battle_1_1050.lua GameSvrReady
+CallFun tongkim\battle_1_1250.lua GameSvrReady
+CallFun tongkim\battle_1_1450.lua GameSvrReady
+CallFun tongkim\battle_1_1650.lua GameSvrReady
+CallFun tongkim\battle_1_1850.lua GameSvrReady
+CallFun tongkim\battle_1_2050.lua GameSvrReady
+CallFun tongkim\battle_1_2250.lua GameSvrReady
+CallFun xephang\ladderload.lua GameSvrReady
+CallFun xephang\topten_sortlist_00_00.lua GameSvrReady
+CallFun xephang\topten_sortlist_10_00.lua GameSvrReady
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrReady
+CallFun vuotai\challengeoftime.lua GameSvrReady
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun tongkim\battle_1_1850.lua TaskContent
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun /script/gc_exit.lua main
+ExecuteCode /script/protocol.lua 
+ExecuteCode \script\lib\objbuffer_head.lua 
+ExecuteCode /script/sharedata_key.lua 
+ExecuteCode /script/event/msg2allworld.lua 
+ExecuteCode /script/event/jiefang0804/head.lua 
+ExecuteCode /script/event/other/caipiao/head_gc_old.lua 
+ExecuteCode /script/event/other/caipiao/head_gc.lua 
+ExecuteCode /script/event/zhaojingling/event.lua 
+ExecuteCode /script/event/expansion/201006/fuguijinhe/fuguijinhe.lua 
+ExecuteCode \script\lib\remoteexc.lua 
+ExecuteCode \script\lib\baseclass.lua 
+ExecuteCode \script\lib\common.lua 
+ExecuteCode /script/event/goldboss_adjust_2011/boss_initialize.lua 
+ExecuteCode /script/event/zhongqiu_jieri/2010/head.lua 
+ExecuteCode \script\lib\sharedata.lua 
+ExecuteCode /script/event/zhongqiu_jieri/head.lua 
+ExecuteCode \script\tong\tong_header.lua 
+ExecuteCode /script/event/card.lua 
+ExecuteCode /script/event/2011dayanqunxia/event.lua 
+ExecuteCode /script/event/2012april_zhushuai/event.lua 
+ExecuteCode /script/event/shengdan/200811/setbossdeath.lua 
+ExecuteCode \script\gb_taskfuncs.lua 
+ExecuteCode /script/event/bingo_machine/prize_pool.lua 
+ExecuteCode /script/event/citywar.lua 
+ExecuteCode /script/event/tongwar/event.lua 
+ExecuteCode /script/event/tongwar/score.lua 
+ExecuteCode /script/event/wulin_2nd/head.lua 
+ExecuteCode /script/event/wulin_2nd/task.lua 
+ExecuteCode /script/event/wulin_2nd/members.lua 
+ExecuteCode /script/lib/log.lua 
+ExecuteCode /script/lib/mapdb.lua 
+ExecuteCode /script/lib/toplist.lua 
+ExecuteCode /script/leaguematch/log.lua 
+ExecuteCode \script\leaguematch\head.lua 
+ExecuteCode \script\leaguematch\timetable.lua 
+ExecuteCode /script/leaguematch/joinmatch.lua 
+ExecuteCode /script/leaguematch/league.lua 
+ExecuteCode /script/leaguematch/task.lua 
+ExecuteCode \script\leaguematch\switch.lua 
+ExecuteCode /script/misc/timeline/serveropentimeevent.lua 
+ExecuteCode /script/misc/rank/rankdata.lua 
+ExecuteCode /script/misc/rank/rank.lua 
+ExecuteCode /script/misc/rank/equip_value_rank.lua 
+ExecuteCode /script/gb_modulefuncs.lua 
+ExecuteCode /script/limitedaward_head.lua 
+ExecuteCode /script/jxprivate/jx_xephang.lua 
+ExecuteCode /script/mission/sevencity/protocol.lua 
+ExecuteCode \script\mission\sevencity\war.lua 
+ExecuteCode /script/mission/dungeon/dungeonlog.lua 
+ExecuteCode /script/mission/dungeon/dungeondata.lua 
+ExecuteCode /script/mission/dungeon/datamanager.lua 
+ExecuteCode /script/mission/dungeon/dungeons/shiliantang/shiliantangdata.lua 
+ExecuteCode /script/mission/boss/bigboss.lua 
+ExecuteCode /script/mission/citywar_global/ladder.lua 
+ExecuteCode /script/missions/arena/protocol.lua 
+ExecuteCode \script\missions\arena\player.lua 
+ExecuteCode \script\missions\arena\map.lua 
+ExecuteCode /script/missions/arena/cmd.lua 
+ExecuteCode /script/second_hand_store/second_hand_gc.lua 
+ExecuteCode \script\second_hand_store\goodslist.lua 
+ExecuteCode /script/tong/contribution_entry.lua 
+ExecuteCode \script\tong\tong_setting.lua 
+ExecuteCode \script\tong\log.lua 
+ExecuteCode /script/tong/tong.lua 
+ExecuteCode \script\tong\workshop\workshop_setting.lua 
+ExecuteCode /script/tong/tong_statistics.lua 
+ExecuteCode /script/tong/workshop/workshop_head.lua 
+ExecuteCode \script\tong\workshop\workshop_logic.lua 
+ExecuteCode \script\tong\workshop\workshop_def.lua 
+ExecuteCode /script/tong/workshop/ws_shilian.lua 
+ExecuteCode /script/tong/workshop/ws_tiangong.lua 
+ExecuteCode /script/tong/workshop/tongcolltask.lua 
+ExecuteCode /script/tong/workshop/ws_liwu.lua 
+ExecuteCode /script/tong/workshop/ws_mianju.lua 
+ExecuteCode /script/tong/workshop/ws_huodong.lua 
+ExecuteCode /script/tong/workshop/ws_tianyi.lua 
+ExecuteCode /script/tong/workshop/ws_bingjia.lua 
+ExecuteCode /script/tong/addtongnpc.lua 
+ExecuteCode /script/tong/tong_mix.lua 
+ExecuteCode /script/gc_exit.lua 
+ExecuteCode \\RelaySetting\\battle\\script\\rf_bintree_fix.lua 
+ExecuteCode \RelaySetting\battle\script\rf_header.lua 
+ExecuteCode \relaysetting\task\banghoi\tong_claimwar.lua 
+ExecuteCode \RelaySetting\Task\thongbaohethong\announce.lua 
+CallFun \RelaySetting\Task\thongbaohethong\announce.lua TaskShedule
+ExecuteCode \RelaySetting\Task\game_module_settings.lua 
+CallFun \RelaySetting\Task\game_module_settings.lua TaskShedule
+ExecuteCode \RelaySetting\Task\boss\small_goldboss_2000.lua 
+ExecuteCode \RelaySetting\Task\boss\goldbosshead_2000.lua 
+ExecuteCode \RelaySetting\Task\boss\GoldBossHead.lua 
+CallFun \RelaySetting\Task\boss\small_goldboss_2000.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_honour.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_honour.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_createnew.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_createnew.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_2_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_2_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1250.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1450.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1450.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1650.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1650.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_1850.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_1850.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_2050.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_2050.lua TaskShedule
+ExecuteCode \RelaySetting\Task\tongkim\battle_1_2250.lua 
+CallFun \RelaySetting\Task\tongkim\battle_1_2250.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\ladderload.lua 
+CallFun \RelaySetting\Task\xephang\ladderload.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\topten_sortlist_00_00.lua 
+CallFun \RelaySetting\Task\xephang\topten_sortlist_00_00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\xephang\topten_sortlist_10_00.lua 
+CallFun \RelaySetting\Task\xephang\topten_sortlist_10_00.lua TaskShedule
+ExecuteCode \RelaySetting\Task\vuotai\challegeoftime-dailyrank.lua 
+CallFun \RelaySetting\Task\vuotai\challegeoftime-dailyrank.lua TaskShedule
+ExecuteCode \RelaySetting\Task\vuotai\challengeoftime.lua 
+CallFun \RelaySetting\Task\vuotai\challengeoftime.lua TaskShedule
+CallFun game_module_settings.lua TaskContent
+CallFun xephang\ladderload.lua TaskContent
+CallFun thongbaohethong\announce.lua GameSvrConnected
+CallFun game_module_settings.lua GameSvrConnected
+CallFun boss\small_goldboss_2000.lua GameSvrConnected
+CallFun tongkim\battle_1_honour.lua GameSvrConnected
+CallFun tongkim\battle_1_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_1050.lua GameSvrConnected
+CallFun tongkim\battle_1_1250.lua GameSvrConnected
+CallFun tongkim\battle_1_1450.lua GameSvrConnected
+CallFun tongkim\battle_1_1650.lua GameSvrConnected
+CallFun tongkim\battle_1_1850.lua GameSvrConnected
+CallFun tongkim\battle_1_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_2250.lua GameSvrConnected
+CallFun xephang\ladderload.lua GameSvrConnected
+CallFun xephang\topten_sortlist_00_00.lua GameSvrConnected
+CallFun xephang\topten_sortlist_10_00.lua GameSvrConnected
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrConnected
+CallFun vuotai\challengeoftime.lua GameSvrConnected
+CallFun thongbaohethong\announce.lua GameSvrReady
+CallFun game_module_settings.lua GameSvrReady
+CallFun boss\small_goldboss_2000.lua GameSvrReady
+CallFun tongkim\battle_1_honour.lua GameSvrReady
+CallFun tongkim\battle_1_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_2050.lua GameSvrReady
+CallFun tongkim\battle_1_1050.lua GameSvrReady
+CallFun tongkim\battle_1_1250.lua GameSvrReady
+CallFun tongkim\battle_1_1450.lua GameSvrReady
+CallFun tongkim\battle_1_1650.lua GameSvrReady
+CallFun tongkim\battle_1_1850.lua GameSvrReady
+CallFun tongkim\battle_1_2050.lua GameSvrReady
+CallFun tongkim\battle_1_2250.lua GameSvrReady
+CallFun xephang\ladderload.lua GameSvrReady
+CallFun xephang\topten_sortlist_00_00.lua GameSvrReady
+CallFun xephang\topten_sortlist_10_00.lua GameSvrReady
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrReady
+CallFun vuotai\challengeoftime.lua GameSvrReady
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun vuotai\challengeoftime.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun boss\small_goldboss_2000.lua TaskContent
+CallFun tongkim\battle_2_createnew.lua TaskContent
+CallFun vuotai\challengeoftime.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun tongkim\battle_2_2050.lua TaskContent
+CallFun tongkim\battle_1_2050.lua TaskContent
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun vuotai\challengeoftime.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun vuotai\challengeoftime.lua TaskContent
+CallFun /script/tong/tong_mix.lua MEMBER_ONLINE_R
+CallFun thongbaohethong\announce.lua GameSvrConnected
+CallFun game_module_settings.lua GameSvrConnected
+CallFun boss\small_goldboss_2000.lua GameSvrConnected
+CallFun tongkim\battle_1_honour.lua GameSvrConnected
+CallFun tongkim\battle_1_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_createnew.lua GameSvrConnected
+CallFun tongkim\battle_2_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_1050.lua GameSvrConnected
+CallFun tongkim\battle_1_1250.lua GameSvrConnected
+CallFun tongkim\battle_1_1450.lua GameSvrConnected
+CallFun tongkim\battle_1_1650.lua GameSvrConnected
+CallFun tongkim\battle_1_1850.lua GameSvrConnected
+CallFun tongkim\battle_1_2050.lua GameSvrConnected
+CallFun tongkim\battle_1_2250.lua GameSvrConnected
+CallFun xephang\ladderload.lua GameSvrConnected
+CallFun xephang\topten_sortlist_00_00.lua GameSvrConnected
+CallFun xephang\topten_sortlist_10_00.lua GameSvrConnected
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrConnected
+CallFun vuotai\challengeoftime.lua GameSvrConnected
+CallFun thongbaohethong\announce.lua GameSvrReady
+CallFun game_module_settings.lua GameSvrReady
+CallFun boss\small_goldboss_2000.lua GameSvrReady
+CallFun tongkim\battle_1_honour.lua GameSvrReady
+CallFun tongkim\battle_1_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_createnew.lua GameSvrReady
+CallFun tongkim\battle_2_2050.lua GameSvrReady
+CallFun tongkim\battle_1_1050.lua GameSvrReady
+CallFun tongkim\battle_1_1250.lua GameSvrReady
+CallFun tongkim\battle_1_1450.lua GameSvrReady
+CallFun tongkim\battle_1_1650.lua GameSvrReady
+CallFun tongkim\battle_1_1850.lua GameSvrReady
+CallFun tongkim\battle_1_2050.lua GameSvrReady
+CallFun tongkim\battle_1_2250.lua GameSvrReady
+CallFun xephang\ladderload.lua GameSvrReady
+CallFun xephang\topten_sortlist_00_00.lua GameSvrReady
+CallFun xephang\topten_sortlist_10_00.lua GameSvrReady
+CallFun vuotai\challegeoftime-dailyrank.lua GameSvrReady
+CallFun vuotai\challengeoftime.lua GameSvrReady
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun tongkim\battle_1_2250.lua TaskContent
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun \\RelaySetting\\battle\\script\\rf_bintree_fix.lua battle_StartNewRound
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun tongkim\battle_1_honour.lua TaskContent
+CallFun vuotai\challengeoftime.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
+CallFun thongbaohethong\announce.lua TaskContent
